@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="de-CH">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Windel-Radar</title>
+<meta name="description" content="Günstigste Pampers in der Schweiz, nach Preis pro Windel">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Windel-Radar">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#f6f7f6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#111413" media="(prefers-color-scheme: dark)">
+<style>
+:root {
+  --bg: #f6f7f6; --card: #ffffff; --ink: #121614; --muted: #5d6763; --line: #e3e7e5;
+  --accent: #0f766e; --accent-ink: #ffffff; --accent-soft: #e2f3f1; --promo: #b42318; --promo-soft: #fdecea;
+  --best: #0f766e;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #111413; --card: #1b1f1e; --ink: #eef2f0; --muted: #9aa5a1; --line: #2b3130;
+    --accent: #2dd4bf; --accent-ink: #062a26; --accent-soft: #15302d; --promo: #ff8a80; --promo-soft: #3a1d1b;
+    --best: #134e48;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 16px/1.4 -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;
+  padding: env(safe-area-inset-top) 0 env(safe-area-inset-bottom);
+  -webkit-tap-highlight-color: transparent;
+}
+main { max-width: 560px; margin: 0 auto; padding: 12px 16px 40px; }
+header { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 8px 0 14px; }
+h1 { font-size: 26px; letter-spacing: -0.02em; margin: 0; }
+#updated { color: var(--muted); font-size: 13px; text-align: right; }
+.label { font-size: 13px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; margin: 4px 0 8px; }
+#sizes { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-bottom: 18px; }
+#sizes button {
+  min-height: 60px; border: 1px solid var(--line); border-radius: 14px; background: var(--card); color: var(--ink);
+  font-size: 24px; font-weight: 700; line-height: 1; font-family: inherit; touch-action: manipulation; cursor: pointer;
+}
+#sizes button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+#lines { display: flex; gap: 8px; overflow-x: auto; margin: 0 -16px 18px; padding: 0 16px 2px; scrollbar-width: none; }
+#lines::-webkit-scrollbar { display: none; }
+#lines button {
+  flex: none; min-height: 44px; padding: 0 16px; border-radius: 22px; border: 1px solid var(--line);
+  background: var(--card); color: var(--ink); font-size: 15px; font-weight: 600; font-family: inherit; white-space: nowrap;
+  touch-action: manipulation; cursor: pointer;
+}
+#lines button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+button:focus-visible, a:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.card { display: block; background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 14px 16px; color: inherit; text-decoration: none; }
+#best { background: var(--best); color: #fff; border: 0; margin-bottom: 14px; padding: 18px; }
+#best .kicker { font-size: 13px; opacity: .85; font-weight: 600; }
+#best .row1 { flex-direction: column-reverse; align-items: flex-start; gap: 0; }
+#best .ppd { font-size: 40px; }
+#best .meta, #best .name { color: rgba(255,255,255,.85); }
+#best .go { color: #fff; }
+.row1 { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+.store { font-weight: 700; font-size: 17px; min-width: 0; overflow-wrap: anywhere; }
+.ppd { font-weight: 800; font-size: 26px; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.ppd small { font-size: 13px; font-weight: 600; letter-spacing: 0; opacity: .75; }
+.meta { color: var(--muted); font-size: 14px; margin-top: 2px; font-variant-numeric: tabular-nums; }
+.name { color: var(--muted); font-size: 13px; margin-top: 6px; }
+.tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; align-items: center; }
+.tag { font-size: 12px; font-weight: 700; padding: 3px 8px; border-radius: 6px; background: var(--promo-soft); color: var(--promo); }
+.go { margin-left: auto; font-size: 14px; font-weight: 600; color: var(--accent); }
+#chart { margin-bottom: 14px; }
+#chart svg { display: block; width: 100%; height: 90px; }
+#chart .axis { display: flex; justify-content: space-between; color: var(--muted); font-size: 12px; margin-top: 4px; }
+#list { display: grid; gap: 10px; }
+#more { width: 100%; min-height: 48px; margin-top: 10px; border-radius: 14px; border: 1px solid var(--line); background: var(--card); color: var(--ink); font-size: 15px; font-weight: 600; font-family: inherit; }
+.empty { color: var(--muted); text-align: center; padding: 28px 0; }
+#status { color: var(--muted); font-size: 12px; margin-top: 22px; line-height: 1.6; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Windel-Radar</h1>
+    <div id="updated">lädt …</div>
+  </header>
+
+  <div class="label" id="size-label">Grösse</div>
+  <div id="sizes" role="group" aria-labelledby="size-label"></div>
+
+  <div class="label" id="line-label">Produktlinie</div>
+  <div id="lines" role="group" aria-labelledby="line-label"></div>
+
+  <a id="best" class="card" target="_blank" rel="noopener" hidden></a>
+  <section id="chart" class="card" hidden></section>
+  <div class="label" id="count"></div>
+  <div id="list"></div>
+  <button id="more" hidden>Mehr anzeigen</button>
+  <div id="status"></div>
+</main>
+
+<script>
+const LINES = ["alle", "Baby-Dry", "Premium Protection", "Harmonie", "Baby-Dry Pants", "Premium Protection Pants"];
+const PAGE = 30;
+const $ = (id) => document.getElementById(id);
+const store = {
+  get(k, d) { try { return localStorage.getItem(k) ?? d; } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(k, v); } catch {} },
+};
+let state = { size: store.get("size", "4"), line: store.get("line", "alle"), shown: PAGE };
+if (!LINES.includes(state.line)) state.line = "alle";
+let data = null, history = {};
+
+const chf = (n) => n.toFixed(2);
+const ppd = (n) => n.toFixed(3);
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const safeUrl = (u) => /^https:\/\//.test(u) ? u : "#";
+
+function buttons() {
+  $("sizes").innerHTML = [1, 2, 3, 4, 5, 6, 7, 8].map((s) =>
+    `<button data-size="${s}" aria-pressed="${String(s) === state.size}" aria-label="Grösse ${s}">${s}</button>`).join("");
+  $("lines").innerHTML = LINES.map((l) =>
+    `<button data-line="${l}" aria-pressed="${l === state.line}">${l === "alle" ? "Alle" : l}</button>`).join("");
+}
+
+function card(r, best) {
+  const ship = r.shipping == null ? "" : r.shipping === 0 ? " · Versand gratis" : ` + ${chf(r.shipping)} Versand`;
+  return `
+    ${best ? `<div class="kicker">Günstigste in Grösse ${state.size}${state.line === "alle" ? "" : " · " + esc(state.line)}</div>` : ""}
+    <div class="row1"><span class="store">${esc(r.store)}</span>
+      <span class="ppd">CHF ${ppd(r.ppd)} <small>/ Windel</small></span></div>
+    <div class="meta">CHF ${chf(r.price)}${ship} · ${r.count} Stück</div>
+    <div class="name">${esc(r.name)}</div>
+    <div class="tags">${r.promo ? `<span class="tag">Aktion: ${esc(r.promo)}</span>` : ""}<span class="go">Zum Shop ›</span></div>`;
+}
+
+function chart() {
+  const pts = ((history[state.size] || {})[state.line] || []).slice(-30);
+  const el = $("chart");
+  if (!pts.length) { el.hidden = true; return; }
+  el.hidden = false;
+  const w = 320, h = 90, pad = 8;
+  const ps = pts.map((p) => p.p), lo = Math.min(...ps), hi = Math.max(...ps), span = hi - lo || 1;
+  const x = (i) => pts.length === 1 ? w / 2 : pad + (i * (w - 2 * pad)) / (pts.length - 1);
+  const y = (p) => h - pad - ((p - lo) / span) * (h - 2 * pad) - (hi === lo ? (h - 2 * pad) / 2 : 0);
+  const path = pts.map((p, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(p.p).toFixed(1)}`).join(" ");
+  const last = pts[pts.length - 1];
+  const fmt = (d) => new Date(d + "T12:00").toLocaleDateString("de-CH", { day: "numeric", month: "numeric" });
+  el.innerHTML = `
+    <div class="row1"><span class="store" style="font-size:15px">Preisverlauf</span>
+      <span class="meta">${pts.length === 1 ? "günstigste pro Windel" : `CHF ${ppd(lo)} – ${ppd(hi)} pro Windel`}</span></div>
+    <svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" role="img" aria-label="Preisverlauf der letzten ${pts.length} Tage">
+      <path d="${path}" fill="none" stroke="var(--accent)" stroke-width="2.5" vector-effect="non-scaling-stroke" stroke-linejoin="round"/>
+      <circle cx="${x(pts.length - 1)}" cy="${y(last.p)}" r="4" fill="var(--accent)"/>
+    </svg>
+    <div class="axis"><span>${fmt(pts[0].d)}</span><span>${pts.length === 1 ? "Verlauf baut sich täglich auf" : ""}</span><span>${fmt(last.d)}</span></div>`;
+}
+
+function render() {
+  buttons();
+  if (!data) return;
+  const rows = data.items.filter((r) => r.size === state.size && (state.line === "alle" || r.line === state.line));
+  const best = $("best");
+  best.hidden = !rows.length;
+  if (rows.length) { best.href = safeUrl(rows[0].url); best.innerHTML = card(rows[0], true); }
+  chart();
+  const rest = rows.slice(1, state.shown);
+  $("count").textContent = rows.length ? `${rows.length} Angebote · Preis pro Windel inkl. Versand` : "";
+  $("list").innerHTML = rows.length
+    ? rest.map((r) => `<a class="card" href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener">${card(r)}</a>`).join("")
+    : `<div class="empty">Keine Angebote für Grösse ${state.size}${state.line === "alle" ? "" : " · " + esc(state.line)}.</div>`;
+  $("more").hidden = rows.length <= state.shown;
+}
+
+document.addEventListener("click", (e) => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  if (b.dataset.size) { state.size = b.dataset.size; store.set("size", state.size); }
+  else if (b.dataset.line) { state.line = b.dataset.line; store.set("line", state.line); }
+  else if (b.id === "more") { state.shown += PAGE; render(); return; }
+  else return;
+  state.shown = PAGE;
+  render();
+});
+
+function when(iso) {
+  const d = new Date(iso), now = new Date();
+  const time = d.toLocaleTimeString("de-CH", { hour: "2-digit", minute: "2-digit" });
+  const days = Math.round((new Date(now.toDateString()) - new Date(d.toDateString())) / 864e5);
+  return days === 0 ? `heute ${time}` : days === 1 ? `gestern ${time}` : d.toLocaleDateString("de-CH") + " " + time;
+}
+
+async function load() {
+  try {
+    const [p, h] = await Promise.all([
+      fetch("data/prices.json", { cache: "no-store" }).then((r) => r.json()),
+      fetch("data/history.json", { cache: "no-store" }).then((r) => r.json()).catch(() => ({})),
+    ]);
+    data = p; history = h;
+    $("updated").textContent = "Aktualisiert " + when(p.updated);
+    const down = p.sources.filter((s) => !s.ok).map((s) => `${esc(s.name)}: zurzeit nicht verfügbar`);
+    const up = p.sources.filter((s) => s.ok).map((s) => esc(s.name));
+    $("status").innerHTML = `Quellen: ${up.join(", ")}<br>${down.join("<br>")}<br>Toppreise enthält u. a. Galaxus, Brack, Manor, Interdiscount und Coop City. Preise ohne Gewähr.`;
+  } catch {
+    $("updated").textContent = "Keine Daten";
+    $("list").innerHTML = `<div class="empty">Preise konnten nicht geladen werden. Später nochmals versuchen.</div>`;
+  }
+  render();
+}
+document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
+buttons();
+load();
+</script>
+</body>
+</html>

@@ -10,17 +10,18 @@ from zoneinfo import ZoneInfo
 HERE = pathlib.Path(__file__).parent
 sys.path.insert(0, str(HERE))
 DATA = HERE.parent / "data"
-SOURCES = ["toppreise", "mueller", "lidl", "denner", "coop", "migros", "aldi"]
+SOURCES = ["toppreise", "mueller", "lidl", "aktionis", "coop", "migros", "aldi"]
 ZH = ZoneInfo("Europe/Zurich")
 
 
 def run_sources():
-    items, status = [], []
+    items, hints, status = [], [], []
     for mod_name in SOURCES:
         mod = importlib.import_module(f"sources.{mod_name}")
         try:
             rows = mod.scrape()
-            items += rows
+            hints += [r for r in rows if r.get("hint")]
+            items += [r for r in rows if not r.get("hint")]
             status.append({"name": mod.NAME, "ok": True, "count": len(rows)})
         except Exception as e:
             traceback.print_exc()
@@ -32,7 +33,7 @@ def run_sources():
         if key not in seen:
             seen.add(key)
             unique.append(r)
-    return unique, status
+    return unique, hints, status
 
 
 def update_history(history, items, today):
@@ -57,11 +58,11 @@ def update_history(history, items, today):
 
 
 def main():
-    items, status = run_sources()
+    items, hints, status = run_sources()
     now = datetime.now(ZH)
     DATA.mkdir(exist_ok=True)
     (DATA / "prices.json").write_text(json.dumps(
-        {"updated": now.isoformat(timespec="minutes"), "sources": status, "items": items},
+        {"updated": now.isoformat(timespec="minutes"), "sources": status, "items": items, "hints": hints},
         ensure_ascii=False, indent=1))
     hist_file = DATA / "history.json"
     history = json.loads(hist_file.read_text()) if hist_file.exists() else {}

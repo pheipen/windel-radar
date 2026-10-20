@@ -77,8 +77,15 @@
   "Premium Protection": [
    {
     "d": "2026-10-20",
-    "p": 0.2539,
-    "s": "Galaxus"
+    "p": 0.2424,
+    "s": "OTTO'S"
+   }
+  ],
+  "Premium Protection Pants": [
+   {
+    "d": "2026-10-20",
+    "p": 0.2529,
+    "s": "OTTO'S"
    }
   ]
  },
@@ -114,15 +121,15 @@
   "Premium Protection": [
    {
     "d": "2026-10-20",
-    "p": 0.2871,
-    "s": "Interdiscount"
+    "p": 0.2842,
+    "s": "OTTO'S"
    }
   ],
   "Premium Protection Pants": [
    {
     "d": "2026-10-20",
-    "p": 0.3089,
-    "s": "Brack"
+    "p": 0.2997,
+    "s": "OTTO'S"
    }
   ]
  },
@@ -165,8 +172,8 @@
   "Premium Protection Pants": [
    {
     "d": "2026-10-20",
-    "p": 0.3663,
-    "s": "Foletti Computer"
+    "p": 0.3622,
+    "s": "OTTO'S"
    }
   ]
  },
@@ -232,8 +239,22 @@
   "Premium Protection Pants": [
    {
     "d": "2026-10-20",
-    "p": 0.463,
-    "s": "Interdiscount"
+    "p": 0.4606,
+    "s": "OTTO'S"
+   }
+  ],
+  "Andere": [
+   {
+    "d": "2026-10-20",
+    "p": 0.4122,
+    "s": "Coop Megastore"
+   }
+  ],
+  "Premium Protection": [
+   {
+    "d": "2026-10-20",
+    "p": 0.4215,
+    "s": "OTTO'S"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T16:54+02:00",
+ "updated": "2026-10-20T17:15+02:00",
  "sources": [
   {
    "name": "Toppreise",
@@ -14,12 +14,12 @@
   {
    "name": "Lidl",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
-   "name": "Denner",
+   "name": "Aktionis",
    "ok": true,
-   "count": 0
+   "count": 12
   },
   {
    "name": "Coop",
@@ -50,6 +50,23 @@
    "promo": null,
    "shipping": 4.9,
    "source": "Toppreise"
+  },
+  {
+   "store": "OTTO'S",
+   "name": "Pampers Premium Protection Grösse 2 Monatsbox 240 Windeln",
+   "price": 49.45,
+   "count": 240,
+   "size": "2",
+   "line": "Premium Protection",
+   "ppd": 0.206,
+   "url": "https://www.aktionis.ch/deals/pampers-premium-protection-grosse-2-monatsbox-240-windeln-8",
+   "promo": "statt CHF 54.95 · 10%",
+   "shipping": null,
+   "source": "Aktionis",
+   "min_packs": 1,
+   "where": "online",
+   "valid_from": "2026-10-11",
+   "valid_until": "2026-10-21"
   },
   {
    "store": "Foletti Computer",
@@ -156,6 +173,23 @@
    "source": "Toppreise"
   },
   {
+   "store": "OTTO'S",
+   "name": "Pampers Premium Protection Grösse 3 Monatsbox 204 Windeln",
+   "price": 49.45,
+   "count": 204,
+   "size": "3",
+   "line": "Premium Protection",
+   "ppd": 0.2424,
+   "url": "https://www.aktionis.ch/deals/pampers-premium-protection-grosse-3-monatsbox-204-windeln-15",
+   "promo": "statt CHF 54.95 · 10%",
+   "shipping": null,
+   "source": "Aktionis",
+   "min_packs": 1,
+   "where": "online",
+   "valid_from": "2026-10-11",
+   "valid_until": "2026-10-21"
+  },
+  {
    "store": "Galaxus",
    "name": "Pampers Harmonie New Baby Einwegwindeln, Grösse 1 (2-5 kg), 180 Stück",
    "price": 39.5,
@@ -245,6 +279,23 @@
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise"
+  },
+  {
+   "store": "OTTO'S",
+   "name": "Pampers Premium Protection Pants Grösse 3 Monatsbox 192 Windeln",
+   "price": 48.55,
+   "count": 192,
+   "size": "3",
+   "line": "Premium Protection Pants",
+   "ppd": 0.2529,
+   "url": "https://www.aktionis.ch/deals/pampers-premium-protection-pants-grosse-3-monatsbox-192-windeln-56",
+   "promo": "statt CHF 53.95 · 10%",
+   "shipping": null,
+   "source": "Aktionis",
+   "min_packs": 1,
+   "where": "online",
+   "valid_from": "2026-10-11",
+   "valid_until": "2026-10-21"
   },
   {
    "store": "Galaxus",
@@ -585,6 +636,23 @@
    "source": "Toppreise"
   },
   {
+   "store": "OTTO'S",
+   "name": "Pampers Premium Protection Grösse 4 Monatsbox 174 Windeln",
+   "price": 49.45,
+   "count": 174,
+   "size": "4",
+   "line": "Premium Protection",
+   "ppd": 0.2842,
+   "url": "https://www.aktionis.ch/deals/pampers-premium-protection-grosse-4-monatsbox-174-windeln-101",
+   "promo": "statt CHF 54.95 · 10%",
+   "shipping": null,
+   "source": "Aktionis",
+   "min_packs": 1,
+   "where": "online",
+   "valid_from": "2026-10-11",
+   "valid_until": "2026-10-21"
+  },
+  {
    "store": "Buchmann",
    "name": "Pampers Premium Protection Einwegwindeln, Grösse 2 (4-8 kg), 240 Stück",
    "price": 68.35,
@@ -869,6 +937,23 @@
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise"
+  },
+  {
+   "store": "OTTO'S",
+   "name": "Pampers Premium Protection Pants Grösse 4 Monatsbox 168 Pants",
+   "price": 50.35,
+   "count": 168,
+   "size": "4",
+   "line": "Premium Protection Pants",
+   "ppd": 0.2997,
+   "url": "https://www.aktionis.ch/deals/pampers-premium-protection-pants-grosse-4-monatsbox-168-pants-56",
+   "promo": "statt CHF 55.95 · 10%",
+   "shipping": null,
+   "source": "Aktionis",
+   "min_packs": 1,
+   "where": "online",
+   "valid_from": "2026-10-11",
+   "valid_until": "2026-10-21"
   },
   {
    "store": "avento.shop",
@@ -1755,6 +1840,23 @@
    "source": "Toppreise"
   },
   {
+   "store": "OTTO'S",
+   "name": "Pampers Premium Protection Grösse 5 Monatsbox 152 Windeln",
+   "price": 53.95,
+   "count": 152,
+   "size": "5",
+   "line": "Premium Protection",
+   "ppd": 0.3549,
+   "url": "https://www.aktionis.ch/deals/pampers-premium-protection-grosse-5-monatsbox-152-windeln-91",
+   "promo": "statt CHF 59.95 · 10%",
+   "shipping": null,
+   "source": "Aktionis",
+   "min_packs": 1,
+   "where": "online",
+   "valid_from": "2026-10-11",
+   "valid_until": "2026-10-21"
+  },
+  {
    "store": "Brack",
    "name": "Pampers Baby-Dry Pants, Grösse 5 (12-17 kg), 160 Stück",
    "price": 56.8,
@@ -1870,6 +1972,23 @@
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise"
+  },
+  {
+   "store": "OTTO'S",
+   "name": "Pampers Premium Protection Pants Grösse 5 Monatsbox 144 Pants",
+   "price": 52.15,
+   "count": 144,
+   "size": "5",
+   "line": "Premium Protection Pants",
+   "ppd": 0.3622,
+   "url": "https://www.aktionis.ch/deals/pampers-premium-protection-pants-grosse-5-monatsbox-144-pants-34",
+   "promo": "statt CHF 57.95 · 10%",
+   "shipping": null,
+   "source": "Aktionis",
+   "min_packs": 1,
+   "where": "online",
+   "valid_from": "2026-10-11",
+   "valid_until": "2026-10-21"
   },
   {
    "store": "Brack",
@@ -2169,6 +2288,23 @@
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise"
+  },
+  {
+   "store": "OTTO'S",
+   "name": "Pampers Premium Protection Grösse 6 Monatsbox 144 Windeln",
+   "price": 53.95,
+   "count": 144,
+   "size": "6",
+   "line": "Premium Protection",
+   "ppd": 0.3747,
+   "url": "https://www.aktionis.ch/deals/pampers-premium-protection-grosse-6-monatsbox-144-windeln-131",
+   "promo": "statt CHF 59.95 · 10%",
+   "shipping": null,
+   "source": "Aktionis",
+   "min_packs": 1,
+   "where": "online",
+   "valid_from": "2026-10-11",
+   "valid_until": "2026-10-21"
   },
   {
    "store": "ohfeliz.ch",
@@ -2912,6 +3048,23 @@
    "source": "Toppreise"
   },
   {
+   "store": "OTTO'S",
+   "name": "Pampers Premium Protection Pants Grösse 6 Monatsbox 132 Pants",
+   "price": 53.95,
+   "count": 132,
+   "size": "6",
+   "line": "Premium Protection Pants",
+   "ppd": 0.4087,
+   "url": "https://www.aktionis.ch/deals/pampers-premium-protection-pants-grosse-6-monatsbox-132-pants-25",
+   "promo": "statt CHF 59.95 · 10%",
+   "shipping": null,
+   "source": "Aktionis",
+   "min_packs": 1,
+   "where": "online",
+   "valid_from": "2026-10-11",
+   "valid_until": "2026-10-21"
+  },
+  {
    "store": "Galaxus",
    "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
    "price": 54.0,
@@ -2962,6 +3115,23 @@
    "promo": null,
    "shipping": 6.5,
    "source": "Toppreise"
+  },
+  {
+   "store": "Coop Megastore",
+   "name": "Pampers Pants Grösse 7 XXL Pack 15+kg 78 Stück",
+   "price": 32.15,
+   "count": 78,
+   "size": "7",
+   "line": "Andere",
+   "ppd": 0.4122,
+   "url": "https://www.aktionis.ch/deals/pampers-pants-grosse-7-xxl-pack-15-kg-78-stuck",
+   "promo": "statt CHF 53.65 · 40%",
+   "shipping": null,
+   "source": "Aktionis",
+   "min_packs": 1,
+   "where": "online+filiale",
+   "valid_from": "2026-10-05",
+   "valid_until": "2026-10-21"
   },
   {
    "store": "Interdiscount",
@@ -3118,6 +3288,23 @@
    "promo": null,
    "shipping": 12.5,
    "source": "Toppreise"
+  },
+  {
+   "store": "OTTO'S",
+   "name": "Pampers Premium Protection Grösse 7 Monatsbox 128 Windeln",
+   "price": 53.95,
+   "count": 128,
+   "size": "7",
+   "line": "Premium Protection",
+   "ppd": 0.4215,
+   "url": "https://www.aktionis.ch/deals/pampers-premium-protection-grosse-7-monatsbox-128-windeln-3",
+   "promo": "statt CHF 59.95 · 10%",
+   "shipping": null,
+   "source": "Aktionis",
+   "min_packs": 1,
+   "where": "online",
+   "valid_from": "2026-10-11",
+   "valid_until": "2026-10-21"
   },
   {
    "store": "avento.shop",
@@ -3872,6 +4059,23 @@
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise"
+  },
+  {
+   "store": "OTTO'S",
+   "name": "Pampers Premium Protection Pants Grösse 7 Monatsbox 123 Pants",
+   "price": 56.65,
+   "count": 123,
+   "size": "7",
+   "line": "Premium Protection Pants",
+   "ppd": 0.4606,
+   "url": "https://www.aktionis.ch/deals/pampers-premium-protection-pants-grosse-7-monatsbox-123-pants-9",
+   "promo": "statt CHF 62.95 · 10%",
+   "shipping": null,
+   "source": "Aktionis",
+   "min_packs": 1,
+   "where": "online",
+   "valid_from": "2026-10-11",
+   "valid_until": "2026-10-21"
   },
   {
    "store": "newstore.ch",
@@ -6810,6 +7014,20 @@
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise"
+  }
+ ],
+ "hints": [
+  {
+   "hint": true,
+   "store": "Lidl",
+   "url": "https://www.lidl.ch/p/de-CH/pampers-windeln-baby-dry/p10060797",
+   "size": null,
+   "line": "Baby-Dry",
+   "discount": null,
+   "valid_until": null,
+   "where": "filiale",
+   "valid_from": "2026-10-22",
+   "text": "PAMPERS Windeln Baby Dry: CHF 24.99, Diverse Sorten Pro 70-132 Stück 1 Stk. = 0.36-0.19"
   }
  ]
 }

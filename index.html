@@ -71,6 +71,10 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--accent); outlin
 .name { color: var(--muted); font-size: 13px; margin-top: 6px; }
 .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; align-items: center; }
 .tag { font-size: 12px; font-weight: 700; padding: 3px 8px; border-radius: 6px; background: var(--promo-soft); color: var(--promo); }
+.tag.info { background: var(--accent-soft); color: var(--accent); }
+#best .tag, #best .tag.info { background: rgba(255,255,255,.18); color: #fff; }
+#hints { display: grid; gap: 10px; margin-bottom: 14px; }
+.hint { border-style: dashed; }
 .go { margin-left: auto; font-size: 14px; font-weight: 600; color: var(--accent); }
 #chart { margin-bottom: 14px; }
 #chart svg { display: block; width: 100%; height: 90px; }
@@ -96,6 +100,8 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--accent); outlin
 
   <a id="best" class="card" target="_blank" rel="noopener" hidden></a>
   <section id="chart" class="card" hidden></section>
+  <div class="label" id="hints-label" hidden>Weitere Aktionen (ohne Preis pro Windel)</div>
+  <div id="hints"></div>
   <div class="label" id="count"></div>
   <div id="list"></div>
   <button id="more" hidden>Mehr anzeigen</button>
@@ -126,15 +132,29 @@ function buttons() {
     `<button data-line="${l}" aria-pressed="${l === state.line}">${l === "alle" ? "Alle" : l}</button>`).join("");
 }
 
+const today = new Date().toISOString().slice(0, 10);
+const day = (iso) => `${+iso.slice(8, 10)}.${+iso.slice(5, 7)}.`;
+const WHERE = { filiale: "Nur in der Filiale", "online+filiale": "Online + Filiale", online: "Nur online" };
+
+function dealTags(r) {
+  const t = [];
+  if (r.min_packs > 1) t.push(`<span class="tag">${r.min_packs} Packungen kaufen</span>`);
+  if (r.where) t.push(`<span class="tag info">${WHERE[r.where]}</span>`);
+  if (r.valid_from && r.valid_from > today) t.push(`<span class="tag info">ab ${day(r.valid_from)}</span>`);
+  if (r.valid_until) t.push(`<span class="tag info">bis ${day(r.valid_until)}</span>`);
+  return t.join("");
+}
+
 function card(r, best) {
   const ship = r.shipping == null ? "" : r.shipping === 0 ? " · Versand gratis" : ` + ${chf(r.shipping)} Versand`;
+  const packs = r.min_packs > 1 ? ` pro Packung, wenn du ${r.min_packs} kaufst (total CHF ${chf(r.price * r.min_packs)})` : "";
   return `
     ${best ? `<div class="kicker">Günstigste in Grösse ${state.size}${state.line === "alle" ? "" : " · " + esc(state.line)}</div>` : ""}
     <div class="row1"><span class="store">${esc(r.store)}</span>
       <span class="ppd">CHF ${ppd(r.ppd)} <small>/ Windel</small></span></div>
-    <div class="meta">CHF ${chf(r.price)}${ship} · ${r.count} Stück</div>
+    <div class="meta">CHF ${chf(r.price)}${packs}${ship} · ${r.count} Stück</div>
     <div class="name">${esc(r.name)}</div>
-    <div class="tags">${r.promo ? `<span class="tag">Aktion: ${esc(r.promo)}</span>` : ""}<span class="go">Zum Shop ›</span></div>`;
+    <div class="tags">${r.promo ? `<span class="tag">Aktion: ${esc(r.promo)}</span>` : ""}${dealTags(r)}<span class="go">${r.source === "Aktionis" ? "Zur Aktion ›" : "Zum Shop ›"}</span></div>`;
 }
 
 function chart() {
@@ -167,6 +187,13 @@ function render() {
   best.hidden = !rows.length;
   if (rows.length) { best.href = safeUrl(rows[0].url); best.innerHTML = card(rows[0], true); }
   chart();
+  const hints = (data.hints || []).filter((h) => (!h.size || h.size === state.size) &&
+    (state.line === "alle" || h.line === state.line || h.line === "Andere"));
+  $("hints-label").hidden = !hints.length;
+  $("hints").innerHTML = hints.map((h) => `<a class="card hint" href="${esc(safeUrl(h.url))}" target="_blank" rel="noopener">
+    <div class="row1"><span class="store">${esc(h.store)}</span>${h.discount ? `<span class="ppd" style="font-size:20px">${esc(h.discount)}</span>` : ""}</div>
+    <div class="name">${esc(h.text)}</div>
+    <div class="tags">${dealTags(h)}<span class="go">Ansehen ›</span></div></a>`).join("");
   const rest = rows.slice(1, state.shown);
   $("count").textContent = rows.length ? `${rows.length} Angebote · Preis pro Windel inkl. Versand` : "";
   $("list").innerHTML = rows.length
@@ -201,9 +228,10 @@ async function load() {
     ]);
     data = p; history = h;
     $("updated").textContent = "Aktualisiert " + when(p.updated);
-    const down = p.sources.filter((s) => !s.ok).map((s) => `${esc(s.name)}: zurzeit nicht verfügbar`);
-    const up = p.sources.filter((s) => s.ok).map((s) => esc(s.name));
-    $("status").innerHTML = `Quellen: ${up.join(", ")}<br>${down.join("<br>")}<br>Toppreise enthält u. a. Galaxus, Brack, Manor, Interdiscount und Coop City. Preise ohne Gewähr.`;
+    const name = (s) => s.name === "Aktionis" ? "aktionis.ch" : s.name;
+    const down = p.sources.filter((s) => !s.ok).map((s) => `${esc(name(s))}${["Coop", "Migros"].includes(s.name) ? "-Shop" : ""}: zurzeit nicht verfügbar`);
+    const up = p.sources.filter((s) => s.ok).map((s) => esc(name(s)));
+    $("status").innerHTML = `Quellen: ${up.join(", ")}<br>${down.join("<br>")}<br>Toppreise enthält u. a. Galaxus, Brack, Manor, Interdiscount und Coop City. Aktionen von Coop, Migros, Denner, Lidl, OTTO'S, SPAR und Volg kommen über aktionis.ch, für Aldi gibt es keine Quelle. Preise ohne Gewähr.`;
   } catch {
     $("updated").textContent = "Keine Daten";
     $("list").innerHTML = `<div class="empty">Preise konnten nicht geladen werden. Später nochmals versuchen.</div>`;

@@ -28,7 +28,7 @@ def text(s):
 
 # Things that are Pampers but not diapers.
 EXCLUDE = re.compile(r"feucht|tücher|tuecher|wipes|splasher|schwimm|creme|lotion|bettunterlage|ninjamas|"
-                     r"windeleimer", re.I)
+                     r"windeleimer|fresh\s*&?\s*clean|aqua pure|sensitive", re.I)
 
 NAMED_SIZES = {"newborn": "1", "new baby": None, "mini": "2", "midi": "3", "maxi plus": None,
                "maxi": "4", "junior": "5", "extra large": "6", "xl": "6"}
@@ -84,7 +84,7 @@ def parse_line(s):
     return "Andere"
 
 
-def entry(store, name, price, count, size, line, url, promo=None, shipping=None, source=None):
+def entry(store, name, price, count, size, line, url, promo=None, shipping=None, source=None, **extra):
     """Build one result row, or None if anything looks off (better missing than wrong)."""
     if not (price and count and size) or price <= 0:
         return None
@@ -93,7 +93,7 @@ def entry(store, name, price, count, size, line, url, promo=None, shipping=None,
         return None
     return {"store": store, "name": name, "price": round(price, 2), "count": count, "size": size,
             "line": line, "ppd": round(ppd, 4), "url": url, "promo": promo, "shipping": shipping,
-            "source": source or store}
+            "source": source or store, **extra}
 
 
 def ldjson_products(page):

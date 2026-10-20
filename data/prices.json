@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:15+02:00",
+ "updated": "2026-10-20T17:20+02:00",
  "sources": [
   {
    "name": "Toppreise",
@@ -4949,6 +4949,19 @@
    "source": "Toppreise"
   },
   {
+   "store": "avento.shop",
+   "name": "Pampers Baby Dry Einwegwindeln, Grösse 7 (15+ kg), 132 Stück",
+   "price": 67.55,
+   "count": 132,
+   "size": "7",
+   "line": "Baby-Dry",
+   "ppd": 0.5117,
+   "url": "https://www.avento.shop/pampers-baby-dry-hu707k69pbb.html",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise"
+  },
+  {
    "store": "newstore.ch",
    "name": "Pampers Baby-Dry Einwegwindeln, Grösse 6 (13-18 kg), 148 Stück",
    "price": 65.95,
@@ -5258,19 +5271,6 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-harmonie-gr5?sai=14520&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
-  },
-  {
-   "store": "avento.shop",
-   "name": "Pampers Baby Dry Einwegwindeln, Grösse 7 (15+ kg), 132 Stück",
-   "price": 70.5,
-   "count": 132,
-   "size": "7",
-   "line": "Baby-Dry",
-   "ppd": 0.5341,
-   "url": "https://www.avento.shop/pampers-baby-dry-hu707k69pbb.html",
-   "promo": null,
-   "shipping": 0.0,
    "source": "Toppreise"
   },
   {

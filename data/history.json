@@ -1,284 +1,368 @@
 {
- "1": {
-  "alle": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2328,
-    "s": "Galaxus"
-   }
-  ],
-  "Harmonie": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2467,
-    "s": "Galaxus"
-   }
-  ],
-  "Premium Protection": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2328,
-    "s": "Galaxus"
-   }
-  ]
+ "Pampers": {
+  "1": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2328,
+     "s": "Galaxus"
+    }
+   ],
+   "Harmonie": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2467,
+     "s": "Galaxus"
+    }
+   ],
+   "Premium Protection": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2328,
+     "s": "Galaxus"
+    }
+   ]
+  },
+  "2": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2037,
+     "s": "Galaxus"
+    }
+   ],
+   "Harmonie": [
+    {
+     "d": "2026-10-20",
+     "p": 0.3913,
+     "s": "Galaxus"
+    }
+   ],
+   "Premium Protection": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2037,
+     "s": "Galaxus"
+    }
+   ]
+  },
+  "3": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.234,
+     "s": "Interdiscount"
+    }
+   ],
+   "Baby-Dry": [
+    {
+     "d": "2026-10-20",
+     "p": 0.234,
+     "s": "Interdiscount"
+    }
+   ],
+   "Baby-Dry Pants": [
+    {
+     "d": "2026-10-20",
+     "p": 0.6042,
+     "s": "pandaloo.ch"
+    }
+   ],
+   "Harmonie": [
+    {
+     "d": "2026-10-20",
+     "p": 0.6569,
+     "s": "techstudio.ch"
+    }
+   ],
+   "Premium Protection": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2424,
+     "s": "OTTO'S"
+    }
+   ],
+   "Premium Protection Pants": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2529,
+     "s": "OTTO'S"
+    }
+   ]
+  },
+  "4": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2644,
+     "s": "Amazon.de"
+    }
+   ],
+   "Baby-Dry": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2645,
+     "s": "Interdiscount"
+    }
+   ],
+   "Baby-Dry Pants": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2644,
+     "s": "Amazon.de"
+    }
+   ],
+   "Harmonie": [
+    {
+     "d": "2026-10-20",
+     "p": 0.3328,
+     "s": "Galaxus"
+    }
+   ],
+   "Premium Protection": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2842,
+     "s": "OTTO'S"
+    }
+   ],
+   "Premium Protection Pants": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2997,
+     "s": "OTTO'S"
+    }
+   ]
+  },
+  "5": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2838,
+     "s": "Amazon.de"
+    }
+   ],
+   "Baby-Dry": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2986,
+     "s": "Interdiscount"
+    }
+   ],
+   "Baby-Dry Pants": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2838,
+     "s": "Amazon.de"
+    }
+   ],
+   "Harmonie": [
+    {
+     "d": "2026-10-20",
+     "p": 0.3875,
+     "s": "Galaxus"
+    }
+   ],
+   "Premium Protection": [
+    {
+     "d": "2026-10-20",
+     "p": 0.3349,
+     "s": "Galaxus"
+    }
+   ],
+   "Premium Protection Pants": [
+    {
+     "d": "2026-10-20",
+     "p": 0.3622,
+     "s": "OTTO'S"
+    }
+   ]
+  },
+  "6": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.3443,
+     "s": "Interdiscount"
+    }
+   ],
+   "Baby-Dry": [
+    {
+     "d": "2026-10-20",
+     "p": 0.3443,
+     "s": "Interdiscount"
+    }
+   ],
+   "Baby-Dry Pants": [
+    {
+     "d": "2026-10-20",
+     "p": 0.3725,
+     "s": "Galaxus"
+    }
+   ],
+   "Premium Protection": [
+    {
+     "d": "2026-10-20",
+     "p": 0.3538,
+     "s": "Interdiscount"
+    }
+   ],
+   "Premium Protection Pants": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4087,
+     "s": "Interdiscount"
+    }
+   ]
+  },
+  "7": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4011,
+     "s": "Interdiscount"
+    }
+   ],
+   "Baby-Dry": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4011,
+     "s": "Interdiscount"
+    }
+   ],
+   "Baby-Dry Pants": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4361,
+     "s": "Interdiscount"
+    }
+   ],
+   "Premium Protection Pants": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4606,
+     "s": "OTTO'S"
+    }
+   ],
+   "Andere": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4122,
+     "s": "Coop Megastore"
+    }
+   ],
+   "Premium Protection": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4215,
+     "s": "OTTO'S"
+    }
+   ]
+  },
+  "8": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4221,
+     "s": "Foletti Computer"
+    }
+   ],
+   "Baby-Dry": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4221,
+     "s": "Foletti Computer"
+    }
+   ],
+   "Baby-Dry Pants": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4868,
+     "s": "Interdiscount"
+    }
+   ]
+  }
  },
- "2": {
-  "alle": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2037,
-    "s": "Galaxus"
-   }
-  ],
-  "Harmonie": [
-   {
-    "d": "2026-10-20",
-    "p": 0.3913,
-    "s": "Galaxus"
-   }
-  ],
-  "Premium Protection": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2037,
-    "s": "Galaxus"
-   }
-  ]
- },
- "3": {
-  "alle": [
-   {
-    "d": "2026-10-20",
-    "p": 0.234,
-    "s": "Interdiscount"
-   }
-  ],
-  "Baby-Dry": [
-   {
-    "d": "2026-10-20",
-    "p": 0.234,
-    "s": "Interdiscount"
-   }
-  ],
-  "Baby-Dry Pants": [
-   {
-    "d": "2026-10-20",
-    "p": 0.6042,
-    "s": "pandaloo.ch"
-   }
-  ],
-  "Harmonie": [
-   {
-    "d": "2026-10-20",
-    "p": 0.6569,
-    "s": "techstudio.ch"
-   }
-  ],
-  "Premium Protection": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2424,
-    "s": "OTTO'S"
-   }
-  ],
-  "Premium Protection Pants": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2529,
-    "s": "OTTO'S"
-   }
-  ]
- },
- "4": {
-  "alle": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2644,
-    "s": "Amazon.de"
-   }
-  ],
-  "Baby-Dry": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2645,
-    "s": "Interdiscount"
-   }
-  ],
-  "Baby-Dry Pants": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2644,
-    "s": "Amazon.de"
-   }
-  ],
-  "Harmonie": [
-   {
-    "d": "2026-10-20",
-    "p": 0.3328,
-    "s": "Galaxus"
-   }
-  ],
-  "Premium Protection": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2842,
-    "s": "OTTO'S"
-   }
-  ],
-  "Premium Protection Pants": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2997,
-    "s": "OTTO'S"
-   }
-  ]
- },
- "5": {
-  "alle": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2838,
-    "s": "Amazon.de"
-   }
-  ],
-  "Baby-Dry": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2986,
-    "s": "Interdiscount"
-   }
-  ],
-  "Baby-Dry Pants": [
-   {
-    "d": "2026-10-20",
-    "p": 0.2838,
-    "s": "Amazon.de"
-   }
-  ],
-  "Harmonie": [
-   {
-    "d": "2026-10-20",
-    "p": 0.3875,
-    "s": "Galaxus"
-   }
-  ],
-  "Premium Protection": [
-   {
-    "d": "2026-10-20",
-    "p": 0.3349,
-    "s": "Galaxus"
-   }
-  ],
-  "Premium Protection Pants": [
-   {
-    "d": "2026-10-20",
-    "p": 0.3622,
-    "s": "OTTO'S"
-   }
-  ]
- },
- "6": {
-  "alle": [
-   {
-    "d": "2026-10-20",
-    "p": 0.3443,
-    "s": "Interdiscount"
-   }
-  ],
-  "Baby-Dry": [
-   {
-    "d": "2026-10-20",
-    "p": 0.3443,
-    "s": "Interdiscount"
-   }
-  ],
-  "Baby-Dry Pants": [
-   {
-    "d": "2026-10-20",
-    "p": 0.3725,
-    "s": "Galaxus"
-   }
-  ],
-  "Premium Protection": [
-   {
-    "d": "2026-10-20",
-    "p": 0.3538,
-    "s": "Interdiscount"
-   }
-  ],
-  "Premium Protection Pants": [
-   {
-    "d": "2026-10-20",
-    "p": 0.4087,
-    "s": "Interdiscount"
-   }
-  ]
- },
- "7": {
-  "alle": [
-   {
-    "d": "2026-10-20",
-    "p": 0.4011,
-    "s": "Interdiscount"
-   }
-  ],
-  "Baby-Dry": [
-   {
-    "d": "2026-10-20",
-    "p": 0.4011,
-    "s": "Interdiscount"
-   }
-  ],
-  "Baby-Dry Pants": [
-   {
-    "d": "2026-10-20",
-    "p": 0.4361,
-    "s": "Interdiscount"
-   }
-  ],
-  "Premium Protection Pants": [
-   {
-    "d": "2026-10-20",
-    "p": 0.4606,
-    "s": "OTTO'S"
-   }
-  ],
-  "Andere": [
-   {
-    "d": "2026-10-20",
-    "p": 0.4122,
-    "s": "Coop Megastore"
-   }
-  ],
-  "Premium Protection": [
-   {
-    "d": "2026-10-20",
-    "p": 0.4215,
-    "s": "OTTO'S"
-   }
-  ]
- },
- "8": {
-  "alle": [
-   {
-    "d": "2026-10-20",
-    "p": 0.4221,
-    "s": "Foletti Computer"
-   }
-  ],
-  "Baby-Dry": [
-   {
-    "d": "2026-10-20",
-    "p": 0.4221,
-    "s": "Foletti Computer"
-   }
-  ],
-  "Baby-Dry Pants": [
-   {
-    "d": "2026-10-20",
-    "p": 0.4868,
-    "s": "Interdiscount"
-   }
-  ]
+ "Pingo": {
+  "1": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4352,
+     "s": "Galaxus"
+    }
+   ],
+   "Windeln": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4352,
+     "s": "Galaxus"
+    }
+   ]
+  },
+  "2": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4155,
+     "s": "4mybaby AG"
+    }
+   ],
+   "Windeln": [
+    {
+     "d": "2026-10-20",
+     "p": 0.4155,
+     "s": "4mybaby AG"
+    }
+   ]
+  },
+  "4": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.256,
+     "s": "Brack"
+    }
+   ],
+   "Windeln": [
+    {
+     "d": "2026-10-20",
+     "p": 0.256,
+     "s": "Brack"
+    }
+   ]
+  },
+  "5": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2775,
+     "s": "Interdiscount"
+    }
+   ],
+   "Windeln": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2775,
+     "s": "Interdiscount"
+    }
+   ]
+  },
+  "6": {
+   "alle": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2914,
+     "s": "Interdiscount"
+    }
+   ],
+   "Windeln": [
+    {
+     "d": "2026-10-20",
+     "p": 0.2914,
+     "s": "Interdiscount"
+    }
+   ]
+  }
  }
 }

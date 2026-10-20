@@ -72,9 +72,15 @@ def parse_count(s):
 LINES = ["Premium Protection Pants", "Baby-Dry Pants", "Premium Protection", "Harmonie", "Baby-Dry"]
 
 
+def brand_of(s):
+    return "Pingo" if "pingo" in s.lower() else "Pampers"
+
+
 def parse_line(s):
     s = s.lower().replace("-", " ")
     pants = "pants" in s
+    if "pingo" in s:
+        return "Pants" if pants else "Windeln"
     if "premium" in s:
         return "Premium Protection Pants" if pants else "Premium Protection"
     if "harmonie" in s or "harmony" in s:
@@ -93,7 +99,7 @@ def entry(store, name, price, count, size, line, url, promo=None, shipping=None,
         return None
     return {"store": store, "name": name, "price": round(price, 2), "count": count, "size": size,
             "line": line, "ppd": round(ppd, 4), "url": url, "promo": promo, "shipping": shipping,
-            "source": source or store, **extra}
+            "source": source or store, "brand": brand_of(name), **extra}
 
 
 def ldjson_products(page):

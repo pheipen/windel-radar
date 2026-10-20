@@ -1,7 +1,7 @@
 {
   "name": "Windel-Radar",
   "short_name": "Windel-Radar",
-  "description": "Günstigste Pampers in der Schweiz, nach Preis pro Windel",
+  "description": "Günstigste Pampers und Pingo in der Schweiz, nach Preis pro Windel",
   "lang": "de-CH",
   "start_url": "./",
   "scope": "./",

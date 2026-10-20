@@ -15,9 +15,10 @@ SHOPS = {"brack.ch ag": "Brack", "interdiscount": "Interdiscount", "galaxus": "G
 def product_urls():
     urls = set()
     queries = [f"pampers {line} {size}" for line in LINES for size in range(1, 9)]
+    queries += ["pingo windeln", "pingo pants"] + [f"pingo {size}" for size in range(1, 9)]
     with ThreadPoolExecutor(4) as pool:
         for page in pool.map(lambda q: fetch(f"{BASE}/produktsuche?q={urllib.parse.quote(q)}"), queries):
-            urls |= set(re.findall(r'href="(/preisvergleich/Baby-Kinderpflege/PAMPERS-[^"]+-p\d+)"', page))
+            urls |= set(re.findall(r'href="(/preisvergleich/Baby-Kinderpflege/(?:PAMPERS|PINGO)-[^"]+-p\d+)"', page))
     return sorted(u for u in urls if not EXCLUDE.search(u))
 
 
@@ -39,6 +40,8 @@ def offers(page):
 
 def parse_product(url, page):
     title = text(" ".join(re.findall(r'<span class="title break">(.*?)</span>', page)[:1]))
+    brand = "Pingo" if re.search(r'<span class="manu">PINGO</span>', page) else "Pampers"
+    title = f"{brand} {title}"
     if not title or EXCLUDE.search(title):
         return []
     t_size, t_count, t_line = parse_size(title), parse_count(title), parse_line(title)
@@ -55,7 +58,7 @@ def parse_product(url, page):
             continue  # shop text contradicts toppreise's product -> skip rather than guess
         line = t_line if t_line != "Andere" else parse_line(name)
         store = SHOPS.get(shop.lower(), shop)
-        row = entry(store, f"Pampers {title}", price, t_count or o_count, t_size or o_size, line, link,
+        row = entry(store, title, price, t_count or o_count, t_size or o_size, line, link,
                     shipping=ship, source=NAME)
         if row:
             row["product_url"] = BASE + url

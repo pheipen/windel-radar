@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Windel-Radar</title>
-<meta name="description" content="Günstigste Pampers in der Schweiz, nach Preis pro Windel">
+<meta name="description" content="Günstigste Pampers und Pingo in der Schweiz, nach Preis pro Windel">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -41,6 +41,22 @@ header { display: flex; align-items: baseline; justify-content: space-between; g
 h1 { font-size: 26px; letter-spacing: -0.02em; margin: 0; }
 #updated { color: var(--muted); font-size: 13px; text-align: right; }
 .label { font-size: 13px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; margin: 4px 0 8px; }
+#brand {
+  position: relative; display: grid; grid-template-columns: 1fr 1fr; margin-bottom: 18px; padding: 4px;
+  border-radius: 16px; background: var(--line);
+}
+#brand::before {
+  content: ""; position: absolute; top: 4px; bottom: 4px; left: 4px; width: calc(50% - 4px);
+  border-radius: 12px; background: var(--card); box-shadow: 0 1px 3px rgba(0,0,0,.15);
+  transition: transform .25s cubic-bezier(.3,.7,.4,1);
+}
+#brand[data-brand="Pingo"]::before { transform: translateX(100%); }
+@media (prefers-reduced-motion: reduce) { #brand::before { transition: none; } }
+#brand button {
+  position: relative; min-height: 48px; border: 0; background: none; color: var(--muted); cursor: pointer;
+  font-size: 17px; font-weight: 700; font-family: inherit; touch-action: manipulation; border-radius: 12px;
+}
+#brand button[aria-pressed="true"] { color: var(--ink); }
 #sizes { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-bottom: 18px; }
 #sizes button {
   min-height: 60px; border: 1px solid var(--line); border-radius: 14px; background: var(--card); color: var(--ink);
@@ -92,6 +108,10 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--accent); outlin
     <div id="updated">lädt …</div>
   </header>
 
+  <div id="brand" role="group" aria-label="Marke">
+    <button data-brand="Pampers">Pampers</button><button data-brand="Pingo">Pingo</button>
+  </div>
+
   <div class="label" id="size-label">Grösse</div>
   <div id="sizes" role="group" aria-labelledby="size-label"></div>
 
@@ -109,15 +129,21 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--accent); outlin
 </main>
 
 <script>
-const LINES = ["alle", "Baby-Dry", "Premium Protection", "Harmonie", "Baby-Dry Pants", "Premium Protection Pants"];
+const LINES = {
+  Pampers: ["alle", "Baby-Dry", "Premium Protection", "Harmonie", "Baby-Dry Pants", "Premium Protection Pants"],
+  Pingo: ["alle", "Windeln", "Pants"],
+};
 const PAGE = 30;
 const $ = (id) => document.getElementById(id);
 const store = {
   get(k, d) { try { return localStorage.getItem(k) ?? d; } catch { return d; } },
   set(k, v) { try { localStorage.setItem(k, v); } catch {} },
 };
-let state = { size: store.get("size", "4"), line: store.get("line", "alle"), shown: PAGE };
-if (!LINES.includes(state.line)) state.line = "alle";
+let state = { brand: store.get("brand", "Pampers"), size: store.get("size", "4"), shown: PAGE };
+if (!LINES[state.brand]) state.brand = "Pampers";
+const lineFor = (b) => { const l = store.get("line-" + b, "alle"); return LINES[b].includes(l) ? l : "alle"; };
+state.line = lineFor(state.brand);
+const brandOf = (r) => r.brand || "Pampers";
 let data = null, history = {};
 
 const chf = (n) => n.toFixed(2);
@@ -126,9 +152,11 @@ const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<
 const safeUrl = (u) => /^https:\/\//.test(u) ? u : "#";
 
 function buttons() {
+  $("brand").dataset.brand = state.brand;
+  $("brand").querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", b.dataset.brand === state.brand));
   $("sizes").innerHTML = [1, 2, 3, 4, 5, 6, 7, 8].map((s) =>
     `<button data-size="${s}" aria-pressed="${String(s) === state.size}" aria-label="Grösse ${s}">${s}</button>`).join("");
-  $("lines").innerHTML = LINES.map((l) =>
+  $("lines").innerHTML = LINES[state.brand].map((l) =>
     `<button data-line="${l}" aria-pressed="${l === state.line}">${l === "alle" ? "Alle" : l}</button>`).join("");
 }
 
@@ -149,7 +177,7 @@ function card(r, best) {
   const ship = r.shipping == null ? "" : r.shipping === 0 ? " · Versand gratis" : ` + ${chf(r.shipping)} Versand`;
   const packs = r.min_packs > 1 ? ` pro Packung, wenn du ${r.min_packs} kaufst (total CHF ${chf(r.price * r.min_packs)})` : "";
   return `
-    ${best ? `<div class="kicker">Günstigste in Grösse ${state.size}${state.line === "alle" ? "" : " · " + esc(state.line)}</div>` : ""}
+    ${best ? `<div class="kicker">Günstigste ${state.brand} in Grösse ${state.size}${state.line === "alle" ? "" : " · " + esc(state.line)}</div>` : ""}
     <div class="row1"><span class="store">${esc(r.store)}</span>
       <span class="ppd">CHF ${ppd(r.ppd)} <small>/ Windel</small></span></div>
     <div class="meta">CHF ${chf(r.price)}${packs}${ship} · ${r.count} Stück</div>
@@ -158,7 +186,7 @@ function card(r, best) {
 }
 
 function chart() {
-  const pts = ((history[state.size] || {})[state.line] || []).slice(-30);
+  const pts = (((history[state.brand] || {})[state.size] || {})[state.line] || []).slice(-30);
   const el = $("chart");
   if (!pts.length) { el.hidden = true; return; }
   el.hidden = false;
@@ -182,12 +210,13 @@ function chart() {
 function render() {
   buttons();
   if (!data) return;
-  const rows = data.items.filter((r) => r.size === state.size && (state.line === "alle" || r.line === state.line));
+  const rows = data.items.filter((r) => brandOf(r) === state.brand && r.size === state.size &&
+    (state.line === "alle" || r.line === state.line));
   const best = $("best");
   best.hidden = !rows.length;
   if (rows.length) { best.href = safeUrl(rows[0].url); best.innerHTML = card(rows[0], true); }
   chart();
-  const hints = (data.hints || []).filter((h) => (!h.size || h.size === state.size) &&
+  const hints = (data.hints || []).filter((h) => brandOf(h) === state.brand && (!h.size || h.size === state.size) &&
     (state.line === "alle" || h.line === state.line || h.line === "Andere"));
   $("hints-label").hidden = !hints.length;
   $("hints").innerHTML = hints.map((h) => `<a class="card hint" href="${esc(safeUrl(h.url))}" target="_blank" rel="noopener">
@@ -198,15 +227,16 @@ function render() {
   $("count").textContent = rows.length ? `${rows.length} Angebote · Preis pro Windel inkl. Versand` : "";
   $("list").innerHTML = rows.length
     ? rest.map((r) => `<a class="card" href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener">${card(r)}</a>`).join("")
-    : `<div class="empty">Keine Angebote für Grösse ${state.size}${state.line === "alle" ? "" : " · " + esc(state.line)}.</div>`;
+    : `<div class="empty">Keine ${state.brand}-Angebote für Grösse ${state.size}${state.line === "alle" ? "" : " · " + esc(state.line)}.</div>`;
   $("more").hidden = rows.length <= state.shown;
 }
 
 document.addEventListener("click", (e) => {
   const b = e.target.closest("button");
   if (!b) return;
-  if (b.dataset.size) { state.size = b.dataset.size; store.set("size", state.size); }
-  else if (b.dataset.line) { state.line = b.dataset.line; store.set("line", state.line); }
+  if (b.dataset.brand) { state.brand = b.dataset.brand; store.set("brand", state.brand); state.line = lineFor(state.brand); }
+  else if (b.dataset.size) { state.size = b.dataset.size; store.set("size", state.size); }
+  else if (b.dataset.line) { state.line = b.dataset.line; store.set("line-" + state.brand, state.line); }
   else if (b.id === "more") { state.shown += PAGE; render(); return; }
   else return;
   state.shown = PAGE;

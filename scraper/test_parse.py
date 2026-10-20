@@ -27,3 +27,10 @@ assert entry("X", "n", 53.95, 2, "4", "Baby-Dry", "u") is None  # 27 CHF per dia
 print("ok")
 assert entry("X", "n", 46.5, 180, "4", "Baby-Dry", "u", shipping=4.9)["ppd"] == round(51.4 / 180, 4)
 print("ok shipping")
+from common import brand_of
+assert (parse_size("Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)"),
+        parse_count("Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)"),
+        parse_line("Pingo Maxi 4 Einwegwindeln")) == ("4", 240, "Windeln")
+assert parse_line("Pingo Pants 5") == "Pants" and brand_of("PINGO Large 5") == "Pingo" and brand_of("Pampers") == "Pampers"
+assert entry("X", "Pingo XL 6", 60.0, 192, "6", "Windeln", "u")["brand"] == "Pingo"
+print("ok pingo")

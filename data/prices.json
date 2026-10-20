@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-20T17:20+02:00",
+ "updated": "2026-10-20T17:33+02:00",
  "sources": [
   {
    "name": "Toppreise",
    "ok": true,
-   "count": 522
+   "count": 579
   },
   {
    "name": "Müller",
@@ -49,7 +49,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-gr-2-monatsbox-240-stk-windeln-23688425?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "OTTO'S",
@@ -63,6 +64,7 @@
    "promo": "statt CHF 54.95 · 10%",
    "shipping": null,
    "source": "Aktionis",
+   "brand": "Pampers",
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
@@ -79,7 +81,8 @@
    "url": "https://superstore.foletti.com/products/7954312?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -92,7 +95,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-premium-protection-mini-gr-2-240-stueck-0013775385",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -105,7 +109,8 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-mini-groesse-2-1518513?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518513",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -118,7 +123,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-gr-1-halbmonatsbox-180-stk-windeln-23688424?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -131,7 +137,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-midi-gr-3-222-stueck-0013775483",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -144,7 +151,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-gr-3-monatsbox-222-stk-windeln-23688447?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -157,7 +165,8 @@
    "url": "https://superstore.foletti.com/products/7954310?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -170,7 +179,8 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-newborn-groesse-1-1518512?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518512",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "OTTO'S",
@@ -184,6 +194,7 @@
    "promo": "statt CHF 54.95 · 10%",
    "shipping": null,
    "source": "Aktionis",
+   "brand": "Pampers",
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
@@ -200,7 +211,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-harmonie-gr-1-monatsbox-180-stk-windeln-23556501?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -213,7 +225,8 @@
    "url": "https://superstore.foletti.com/products/8940690?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -226,7 +239,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-premium-protection-mini-groesse-2-8006540705544-X76X67HUH",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -239,7 +253,8 @@
    "url": "https://www.so-it.ch/products/1618063",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -252,7 +267,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-midi-groesse-3-1518522?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518522",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -265,7 +281,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-premium-protection-newborn-gr-1-180-stueck-0013771962",
    "promo": null,
    "shipping": 7.95,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -278,7 +295,8 @@
    "url": "https://www.bohnettrade.ch/products/6664651",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "OTTO'S",
@@ -292,6 +310,7 @@
    "promo": "statt CHF 53.95 · 10%",
    "shipping": null,
    "source": "Aktionis",
+   "brand": "Pampers",
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
@@ -308,7 +327,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-gr-3-monatsbox-204-stk-windeln-23688426?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -321,7 +341,22 @@
    "url": "https://www.so-it.ch/products/1620657",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Brack",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 61.45,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.256,
+   "url": "https://www.brack.ch/pingo-windeln-oekowindeln-groesse-4-maxi-1959779?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1959779",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "eldar.ch",
@@ -334,7 +369,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-premium-protection-newborn-groesse-1-8006540705513-LXTV4C26W",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -347,7 +383,22 @@
    "url": "https://superstore.foletti.com/products/7954314?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Galaxus",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 61.9,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.2579,
+   "url": "https://www.galaxus.ch/de/s10/product/pingo-oekowindeln-gr-4-monatsbox-240-stk-windeln-62317480?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "avento.shop",
@@ -360,7 +411,22 @@
    "url": "https://www.avento.shop/pampers-premium-protection-no8gdm6h22d.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Interdiscount",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 61.95,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.2581,
+   "url": "https://www.interdiscount.ch/de/product/pingo-ultrasoft-maxi-gr-4-240-stueck-0014379348",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Brack",
@@ -373,7 +439,8 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-midi-groesse-3-1518514?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518514",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -386,7 +453,8 @@
    "url": "https://www.bohnettrade.ch/products/5960869",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Amazon.de",
@@ -399,7 +467,8 @@
    "url": "https://www.amazon.de/dp/B0BLW5WV4F/ref=asc_df_B0BLW5WV4F1697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW5WV4F&linkCode=df0&language=de_DE",
    "promo": null,
    "shipping": 5.22,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -412,7 +481,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-maxi-gr-4-204-stueck-0013775484",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -425,7 +495,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-gr-4-monatsbox-204-stk-windeln-23688448?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -438,7 +509,8 @@
    "url": "https://www.orderflow.ch/products/17885196",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -451,7 +523,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958175",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -464,7 +537,8 @@
    "url": "https://www.orderflow.ch/products/17885194",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -477,7 +551,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-premium-protection-midi-gr-3-204-stueck-0013775386",
    "promo": null,
    "shipping": 7.95,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -490,7 +565,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-premium-protection-midi-groesse-3-8006540705575-CLEV677AU",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -503,7 +579,8 @@
    "url": "https://www.so-it.ch/products/1380907",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -516,7 +593,36 @@
    "url": "https://www.timia.ch/products/9479900",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Interdiscount",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 59.95,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.2775,
+   "url": "https://www.interdiscount.ch/de/product/pingo-oeko-junior-gr-5-216-stueck-0014392652",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
+  },
+  {
+   "store": "Galaxus",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 60.0,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.2778,
+   "url": "https://www.galaxus.ch/de/s10/product/pingo-oekowindeln-gr-5-monatsbox-216-stk-windeln-62317485?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Foletti Computer",
@@ -529,7 +635,8 @@
    "url": "https://superstore.foletti.com/products/8940692?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -542,7 +649,8 @@
    "url": "https://www.bohnettrade.ch/products/6477843",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -555,7 +663,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-maxi-groesse-4-1518523?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518523",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -568,7 +677,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958196",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -581,7 +691,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-premium-protection-mini-groesse-2/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -594,7 +705,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-night-pants-gr-4-monatsbox-180-stk-windeln-23688439?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -607,7 +719,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-pants-maxi-gr-4-180-stueck-0013775479",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Amazon.de",
@@ -620,7 +733,8 @@
    "url": "https://www.amazon.de/dp/B0BLW45661/ref=asc_df_B0BLW456611697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW45661&linkCode=df0&language=de_DE",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -633,7 +747,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-harmonie-gr1?sai=14515&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "OTTO'S",
@@ -647,6 +762,7 @@
    "promo": "statt CHF 54.95 · 10%",
    "shipping": null,
    "source": "Aktionis",
+   "brand": "Pampers",
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
@@ -663,7 +779,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662400&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -676,7 +793,8 @@
    "url": "https://www.avento.shop/pampers-premium-protection-krrv1ofp3ue.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -689,7 +807,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-pants-paw-patrol-gr-4-monatsbox-180-stk-windeln-23688438?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -702,7 +821,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-premium-protection-gr2?sai=14502&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -715,7 +835,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-premium-protection-maxi-gr-4-174-stueck-0013775387",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -728,7 +849,22 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-gr-4-monatsbox-174-stk-windeln-23688427?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Brack",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 62.25,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.2882,
+   "url": "https://www.brack.ch/pingo-oekowindeln-groesse-5-1959780?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1959780",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "timia.ch",
@@ -741,7 +877,8 @@
    "url": "https://www.timia.ch/products/9490986",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -754,7 +891,50 @@
    "url": "https://www.so-it.ch/products/1380945",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Foletti Computer",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 69.85,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.291,
+   "url": "https://superstore.foletti.com/products/13969514?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
+  },
+  {
+   "store": "Interdiscount",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 55.95,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.2914,
+   "url": "https://www.interdiscount.ch/de/product/pingo-oeko-x-large-gr-6-192-stueck-0014401638",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
+  },
+  {
+   "store": "Galaxus",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 56.0,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.2917,
+   "url": "https://www.galaxus.ch/de/s10/product/pingo-oekowindeln-gr-6-monatsbox-192-stk-windeln-62317492?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "eldar.ch",
@@ -767,7 +947,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-midi-groesse-3-8006540785003-Q4HSQXKTF",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -780,7 +961,8 @@
    "url": "https://www.orderflow.ch/products/20932830",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -793,7 +975,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-premium-protection-gr1?sai=14499&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -806,7 +989,8 @@
    "url": "https://superstore.foletti.com/products/8195628?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -819,7 +1003,8 @@
    "url": "https://superstore.foletti.com/products/8940678?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -832,7 +1017,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-pants-maxi-groesse-4-1518531?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518531",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -845,7 +1031,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662399&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -858,7 +1045,8 @@
    "url": "https://www.bohnettrade.ch/products/6477879",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -871,7 +1059,8 @@
    "url": "https://www.brack.ch/pampers-windeln-harmonie-newborn-groesse-1-1518504?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518504",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -884,7 +1073,22 @@
    "url": "https://www.brack.ch/pampers-nachtwindeln-baby-dry-night-pants-groesse-4-1518539?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518539",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "so-it.ch",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 64.35,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.2973,
+   "url": "https://www.so-it.ch/products/1758955",
+   "promo": null,
+   "shipping": 7.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "highdefinition.ch",
@@ -897,7 +1101,22 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Premium-Protection-New-Baby-Gr.2-Mini/1511708971.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "eldar.ch",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 71.5,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.2979,
+   "url": "https://eldar.ch/haus-produkt/pingo-windeln-oekowindeln-groesse-4-maxi-7630818301070-T3WZDTQAK",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Interdiscount",
@@ -910,7 +1129,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-junior-gr-5-174-stueck-0013775486",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -923,7 +1143,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-gr-5-monatsbox-174-stk-windeln-23688450?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -936,7 +1157,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-maxi-gr-4-180-stueck-0013775477",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "OTTO'S",
@@ -950,6 +1172,7 @@
    "promo": "statt CHF 55.95 · 10%",
    "shipping": null,
    "source": "Aktionis",
+   "brand": "Pampers",
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
@@ -966,7 +1189,22 @@
    "url": "https://www.avento.shop/pampers-premium-protection-3dvik2cartj.html",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "bohnettrade.ch",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 72.4,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.3017,
+   "url": "https://www.bohnettrade.ch/products/6768637",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "electronova-luzern.ch",
@@ -979,7 +1217,22 @@
    "url": "https://www.electronova-luzern.ch/products/2567992",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Brack",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 58.0,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.3021,
+   "url": "https://www.brack.ch/pingo-oekowindeln-groesse-6-1959781?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1959781",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Galaxus",
@@ -992,7 +1245,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-pants-gr-4-monatsbox-180-stk-windeln-23688441?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -1005,7 +1259,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-5pibup8vuas.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -1018,7 +1273,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-premium-protection-newborn-groesse-1/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -1031,7 +1287,8 @@
    "url": "https://www.orderflow.ch/products/15176080",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -1044,7 +1301,8 @@
    "url": "https://www.timia.ch/products/9178320",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -1057,7 +1315,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662401&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -1070,7 +1329,8 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-pants-maxi-groesse-4-1518518?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518518",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -1083,7 +1343,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-premium-protection-pants-maxi-gr-4-168-stueck-0013775470",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -1096,7 +1357,22 @@
    "url": "https://www.orderflow.ch/products/15176078",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "orderflow.ch",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 67.6,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.313,
+   "url": "https://www.orderflow.ch/products/21618364",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "electronova-luzern.ch",
@@ -1109,7 +1385,8 @@
    "url": "https://www.electronova-luzern.ch/products/2569766",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -1122,7 +1399,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-harmonie-newborn-gr-1-180-stueck-0013775491",
    "promo": null,
    "shipping": 7.95,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -1135,7 +1413,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Premium-Protection-New-Baby-Gr.1-Newborn/1511708915.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -1148,7 +1427,8 @@
    "url": "https://superstore.foletti.com/products/8391874?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -1161,7 +1441,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-pants-gr-4-monatsbox-168-stk-windeln-23688430?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -1174,7 +1455,8 @@
    "url": "https://www.so-it.ch/products/1380963",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -1187,7 +1469,8 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-4-plus-maxi-groesse-4-1518515?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518515",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -1200,7 +1483,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958176",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -1213,7 +1497,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-harmonie-newborn-groesse-1-8006540867808-YBU3KB8CZ",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -1226,7 +1511,22 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-pants-maxi-gr-4-180-stueck-0014103703",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "orderflow.ch",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 76.55,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.319,
+   "url": "https://www.orderflow.ch/products/23126644",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "timia.ch",
@@ -1239,7 +1539,8 @@
    "url": "https://www.timia.ch/products/9178358",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -1252,7 +1553,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-pants-gr-5-monatsbox-160-stk-windeln-23688443?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -1265,7 +1567,8 @@
    "url": "https://www.bohnettrade.ch/products/6477897",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -1278,7 +1581,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662409&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -1291,7 +1595,22 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-baby-dry-gr3?sai=14481&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Buchmann",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 77.75,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.324,
+   "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=836957&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Foletti Computer",
@@ -1304,7 +1623,8 @@
    "url": "https://superstore.foletti.com/products/8940696?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -1317,7 +1637,22 @@
    "url": "https://superstore.foletti.com/products/9056866?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Foletti Computer",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 70.65,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.3271,
+   "url": "https://superstore.foletti.com/products/13969338?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Brack",
@@ -1330,7 +1665,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-junior-groesse-5-1518525?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518525",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -1343,7 +1679,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-premium-protection-midi-groesse-3/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -1356,7 +1693,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-pants-paw-patrol-maxi-groesse-4-1518536?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518536",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -1369,7 +1707,8 @@
    "url": "https://www.so-it.ch/products/1380947",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -1382,7 +1721,8 @@
    "url": "https://www.avento.shop/pampers-harmonie-o9viakupdtf.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -1395,7 +1735,22 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-maxi-groesse-4-8006540785034-B4KD7FCNM",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "avento.shop",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 78.9,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.3288,
+   "url": "https://www.avento.shop/pingo-okowindeln-fq2ano7i1bo.html",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Manor",
@@ -1408,7 +1763,22 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958188",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "timia.ch",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 69.4,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.3304,
+   "url": "https://www.timia.ch/products/9647762",
+   "promo": null,
+   "shipping": 9.9,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "highdefinition.ch",
@@ -1421,7 +1791,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Premium-Protection-Gr.3-Midi-6-10kg-Mona/1511708603.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -1434,7 +1805,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-premium-protection-gr3?sai=14505&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -1447,7 +1819,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-baby-dry-midi-groesse-3/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -1460,7 +1833,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-harmonie-gr-4-monatsbox-174-stk-windeln-23556500?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -1473,7 +1847,36 @@
    "url": "https://www.bohnettrade.ch/products/6477881",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "eldar.ch",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 72.0,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.3333,
+   "url": "https://eldar.ch/haus-produkt/pingo-oekowindeln-groesse-5-junior-7630818301087-L4P3BN4DR",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
+  },
+  {
+   "store": "so-it.ch",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 65.2,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.3343,
+   "url": "https://www.so-it.ch/products/1758957",
+   "promo": null,
+   "shipping": 7.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Galaxus",
@@ -1486,7 +1889,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-gr-5-monatsbox-152-stk-windeln-23688428?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -1499,7 +1903,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419654",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -1512,7 +1917,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-pants-junior-gr-5-160-stueck-0013775480",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -1525,7 +1931,22 @@
    "url": "https://www.orderflow.ch/products/21727160",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "bohnettrade.ch",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 73.25,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.3391,
+   "url": "https://www.bohnettrade.ch/products/6768639",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Interdiscount",
@@ -1538,7 +1959,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-premium-protection-junior-gr-5-152-stueck-0013775388",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -1551,7 +1973,8 @@
    "url": "https://superstore.foletti.com/products/8940682?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -1564,7 +1987,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419692",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -1577,7 +2001,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-night-pants-gr-5-monatsbox-160-stk-windeln-23688444?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -1590,7 +2015,8 @@
    "url": "https://superstore.foletti.com/products/9056868?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -1603,7 +2029,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-pants-paw-patrol-gr-5-monatsbox-160-stk-windeln-23688442?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -1616,7 +2043,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-pants-paw-patrol-junior-groesse-5-1518537?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518537",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -1629,7 +2057,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-x-large-gr-6-148-stueck-0013775488",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -1642,7 +2071,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-harmonie-maxi-gr-4-174-stueck-0013775494",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -1655,7 +2085,36 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-gr-6-monatsbox-148-stk-windeln-23688452?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Foletti Computer",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 66.3,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.3453,
+   "url": "https://superstore.foletti.com/products/13969402?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
+  },
+  {
+   "store": "upstore.ch",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 74.95,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.347,
+   "url": "https://ze0b2w-s0.myshopify.com/products/pingo-windeln-monatsbox-5-junior",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "orderflow.ch",
@@ -1668,7 +2127,22 @@
    "url": "https://www.orderflow.ch/products/15176084",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "electronova-luzern.ch",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 73.7,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.3488,
+   "url": "https://www.electronova-luzern.ch/products/2656582",
+   "promo": null,
+   "shipping": 10.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "highdefinition.ch",
@@ -1681,7 +2155,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Baby-Dry-Midi-Gr%C3%B6sse-3/1511708875.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -1694,7 +2169,8 @@
    "url": "https://www.so-it.ch/products/1380935",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -1707,7 +2183,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-nachtwindeln-baby-dry-night-pants-groesse-4-8006540711309-25VLA7AAE",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -1720,7 +2197,8 @@
    "url": "https://www.so-it.ch/products/1380931",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -1733,7 +2211,36 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-pants-paw-patrol-junior-gr-5-160-stueck-0014103709",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "highdefinition.ch",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 72.0,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.3521,
+   "url": "https://www.highdefinition.ch/product/Pingo-Windeln-%C3%96kowindeln-Gr%C3%B6sse-4-Maxi/1530637968.html?ref=tp",
+   "promo": null,
+   "shipping": 12.5,
+   "source": "Toppreise",
+   "brand": "Pingo"
+  },
+  {
+   "store": "so-it.ch",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 60.75,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.3529,
+   "url": "https://www.so-it.ch/products/1758959",
+   "promo": null,
+   "shipping": 7.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Foletti Computer",
@@ -1746,7 +2253,8 @@
    "url": "https://superstore.foletti.com/products/8940686?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -1759,7 +2267,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-premium-protection-4-maxi-groesse-4-8006540705612-47N4BKRZQ",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -1772,7 +2281,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-premium-protection-x-large-gr-6-144-stueck-0013775389",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -1785,7 +2295,8 @@
    "url": "https://www.so-it.ch/products/1380909",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -1798,7 +2309,22 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-gr-6-monatsbox-144-stk-windeln-23688429?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "eldar.ch",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 68.0,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.3542,
+   "url": "https://eldar.ch/haus-produkt/pingo-oekowindeln-groesse-6-x-large-7630818301094-K2QXLLRKB",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Buchmann",
@@ -1811,7 +2337,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662393&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -1824,7 +2351,8 @@
    "url": "https://www.timia.ch/products/9178376",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -1837,7 +2365,8 @@
    "url": "https://www.brack.ch/pampers-nachtwindeln-baby-dry-night-pants-groesse-5-1518540?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518540",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "OTTO'S",
@@ -1851,6 +2380,7 @@
    "promo": "statt CHF 59.95 · 10%",
    "shipping": null,
    "source": "Aktionis",
+   "brand": "Pampers",
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
@@ -1867,7 +2397,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-pants-junior-groesse-5-1518532?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518532",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -1880,7 +2411,8 @@
    "url": "https://www.bohnettrade.ch/products/6477869",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -1893,7 +2425,8 @@
    "url": "https://www.bohnettrade.ch/products/6477865",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -1906,7 +2439,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-junior-gr-5-160-stueck-0013775481",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -1919,7 +2453,22 @@
    "url": "https://superstore.foletti.com/products/8940664?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "bohnettrade.ch",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 68.85,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.3586,
+   "url": "https://www.bohnettrade.ch/products/6768641",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "avento.shop",
@@ -1932,7 +2481,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-7ovo4f60di5.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -1945,7 +2495,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662410&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -1958,7 +2509,8 @@
    "url": "https://www.timia.ch/products/9178360",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -1971,7 +2523,8 @@
    "url": "https://superstore.foletti.com/products/7954318?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "OTTO'S",
@@ -1985,6 +2538,7 @@
    "promo": "statt CHF 57.95 · 10%",
    "shipping": null,
    "source": "Aktionis",
+   "brand": "Pampers",
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
@@ -2001,7 +2555,36 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-junior-groesse-5-1518516?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518516",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Buchmann",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 78.65,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.3641,
+   "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=847845&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
+  },
+  {
+   "store": "upstore.ch",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 69.95,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.3643,
+   "url": "https://ze0b2w-s0.myshopify.com/products/pingo-windeln-monatsbox-6-x-large",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Foletti Computer",
@@ -2014,7 +2597,8 @@
    "url": "https://superstore.foletti.com/products/12858656?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -2027,7 +2611,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-premium-protection-pants-maxi-groesse-4-8006540710494-8DS7K959A",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -2040,7 +2625,8 @@
    "url": "https://www.so-it.ch/products/1380915",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -2053,7 +2639,8 @@
    "url": "https://superstore.foletti.com/products/8940666?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -2066,7 +2653,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-pants-fg5e9abrjh8.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -2079,7 +2667,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-night-pants-plgnf2jlva8.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -2092,7 +2681,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-premium-protection-pants-junior-gr-5-144-stueck-0013775471",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -2105,7 +2695,8 @@
    "url": "https://www.so-it.ch/products/1380929",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -2118,7 +2709,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-pants-gr-5-monatsbox-144-stk-windeln-23688431?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -2131,7 +2723,8 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-pants-junior-groesse-5-1518519?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518519",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -2144,7 +2737,8 @@
    "url": "https://www.avento.shop/pampers-premium-protection-95smkij3cu8.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -2157,7 +2751,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-pants-paw-patrol-maxi-groesse-4-8006540711248-S33STBBBR",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -2170,7 +2765,8 @@
    "url": "https://superstore.foletti.com/products/8195634?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -2183,7 +2779,22 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958177",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "avento.shop",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 80.0,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.3704,
+   "url": "https://www.avento.shop/pingo-okowindeln-57v7vac0sls.html",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Brack",
@@ -2196,7 +2807,8 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-gr-3-6-10-kg-2097805?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=2097805",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -2209,7 +2821,22 @@
    "url": "https://www.brack.ch/pampers-windeln-harmonie-maxi-groesse-4-1518507?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518507",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "timia.ch",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 70.3,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.3713,
+   "url": "https://www.timia.ch/products/9647764",
+   "promo": null,
+   "shipping": 9.9,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "newstore.ch",
@@ -2222,7 +2849,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-harmonie-newborn-groesse-1/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -2235,7 +2863,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-baby-dry-maxi-groesse-4/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -2248,7 +2877,8 @@
    "url": "https://www.bohnettrade.ch/products/6477849",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -2261,7 +2891,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-pants-gr-6-monatsbox-138-stk-windeln-23688435?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -2274,7 +2905,8 @@
    "url": "https://www.bohnettrade.ch/products/6477863",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "upstore.ch",
@@ -2287,7 +2919,8 @@
    "url": "https://ze0b2w-s0.myshopify.com/products/pampers-premium-protection-pants-gr-4-maxi",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "OTTO'S",
@@ -2301,6 +2934,7 @@
    "promo": "statt CHF 59.95 · 10%",
    "shipping": null,
    "source": "Aktionis",
+   "brand": "Pampers",
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
@@ -2317,7 +2951,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-baby-dry-gr4?sai=14484&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -2330,7 +2965,8 @@
    "url": "https://www.orderflow.ch/products/14978492",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -2343,7 +2979,8 @@
    "url": "https://www.orderflow.ch/products/14989290",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -2356,7 +2993,8 @@
    "url": "https://www.so-it.ch/products/1510117",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -2369,7 +3007,22 @@
    "url": "https://www.orderflow.ch/products/20932832",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "orderflow.ch",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 72.7,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.3786,
+   "url": "https://www.orderflow.ch/products/21688558",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "highdefinition.ch",
@@ -2382,7 +3035,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Harmonie-Newborn-Gr%C3%B6sse-1/1511708566.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -2395,7 +3049,8 @@
    "url": "https://www.avento.shop/pampers-premium-protection-pants-tfkdsmaeuce.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -2408,7 +3063,8 @@
    "url": "https://www.so-it.ch/products/1380951",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -2421,7 +3077,8 @@
    "url": "https://superstore.foletti.com/products/8940700?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -2434,7 +3091,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419710",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -2447,7 +3105,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-junior-groesse-5-8006540785089-DMB7M2TL9",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -2460,7 +3119,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-extra-large-groesse-6-1518527?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518527",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -2473,7 +3133,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419694",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -2486,7 +3147,22 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662417&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Buchmann",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 74.35,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.3872,
+   "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=852518&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Galaxus",
@@ -2499,7 +3175,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-harmonie-gr-5-monatsbox-152-stk-windeln-23556504?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -2512,7 +3189,8 @@
    "url": "https://www.orderflow.ch/products/22313906",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -2525,7 +3203,22 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662425&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "avento.shop",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 74.7,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.3891,
+   "url": "https://www.avento.shop/pingo-okowindeln-mmvc0tk8itb.html",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "bohnettrade.ch",
@@ -2538,7 +3231,8 @@
    "url": "https://www.bohnettrade.ch/products/6477885",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -2551,7 +3245,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Baby-Dry-Maxi-Gr%C3%B6sse-4/1511712066.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -2564,7 +3259,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958190",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -2577,7 +3273,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-pants-x-large-gr-6-138-stueck-0013775475",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -2590,7 +3287,8 @@
    "url": "https://www.timia.ch/products/9178348",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -2603,7 +3301,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-harmonie-gr-2-monatsbox-240-stk-windeln-23556503?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -2616,7 +3315,8 @@
    "url": "https://www.timia.ch/products/9178344",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -2629,7 +3329,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-gr-3-48-stk-windeln-53666690?offertype=retail&offerid=406802&dbq=1&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -2642,7 +3343,36 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662402&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "4mybaby AG",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 69.3,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.3917,
+   "url": "https://www.4mybaby.ch/pingo-oeko-windeln-v2-SW19849.21-nr-6-xl-monatsbox",
+   "promo": null,
+   "shipping": 5.9,
+   "source": "Toppreise",
+   "brand": "Pingo"
+  },
+  {
+   "store": "electronova-luzern.ch",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 74.65,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.3919,
+   "url": "https://www.electronova-luzern.ch/products/2656584",
+   "promo": null,
+   "shipping": 10.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "orderflow.ch",
@@ -2655,7 +3385,22 @@
    "url": "https://www.orderflow.ch/products/20932838",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "timia.ch",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 65.55,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.393,
+   "url": "https://www.timia.ch/products/9647766",
+   "promo": null,
+   "shipping": 9.9,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Müller",
@@ -2668,7 +3413,8 @@
    "url": "https://www.mueller.ch/p/pampers-baby-dry-pants-gr-5-12-17kg-monatsbox-IPN2886999/",
    "promo": null,
    "shipping": null,
-   "source": "Müller"
+   "source": "Müller",
+   "brand": "Pampers"
   },
   {
    "store": "Müller",
@@ -2681,7 +3427,8 @@
    "url": "https://www.mueller.ch/p/pampers-premium-gr-5-junior-11-16kg-monatsbox-IPN2887263/",
    "promo": null,
    "shipping": null,
-   "source": "Müller"
+   "source": "Müller",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -2694,7 +3441,8 @@
    "url": "https://www.timia.ch/products/9178322",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -2707,7 +3455,22 @@
    "url": "https://www.orderflow.ch/products/21727156",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "highdefinition.ch",
+   "name": "Pingo Large 5 Einwegwindeln, Grösse 5 (12-25 kg), 216 Stück (Monatsbox)",
+   "price": 73.0,
+   "count": 216,
+   "size": "5",
+   "line": "Windeln",
+   "ppd": 0.3958,
+   "url": "https://www.highdefinition.ch/product/Pingo-%C3%96kowindeln-Gr%C3%B6sse-5-Junior/1530652715.html?ref=tp",
+   "promo": null,
+   "shipping": 12.5,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "orderflow.ch",
@@ -2720,7 +3483,8 @@
    "url": "https://www.orderflow.ch/products/16318414",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -2733,7 +3497,8 @@
    "url": "https://superstore.foletti.com/products/9056864?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -2746,7 +3511,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-premium-protection-gr4?sai=14508&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -2759,7 +3525,8 @@
    "url": "https://www.orderflow.ch/products/20932834",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -2772,7 +3539,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-pants-paw-patrol-extra-large-groesse-6-1518538?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518538",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -2785,7 +3553,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-pants-paw-patrol-gr-6-monatsbox-138-stk-windeln-23688436?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -2798,7 +3567,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-nachtwindeln-baby-dry-night-pants-groesse-4/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "upstore.ch",
@@ -2811,7 +3581,8 @@
    "url": "https://ze0b2w-s0.myshopify.com/products/pampers-harmonie-gr-1-newborn",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -2824,7 +3595,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-xx-large-gr-7-132-stueck-0013775489",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -2837,7 +3609,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-premium-protection-maxi-groesse-4/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -2850,7 +3623,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-gr-7-monatsbox-132-stk-windeln-23688453?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -2863,7 +3637,8 @@
    "url": "https://www.orderflow.ch/products/21686276",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -2876,7 +3651,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-pants-paw-patrol-tdq2b8epvpe.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -2889,7 +3665,8 @@
    "url": "https://www.so-it.ch/products/1380937",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -2902,7 +3679,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662422&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -2915,7 +3693,8 @@
    "url": "https://www.bohnettrade.ch/products/6579909",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -2928,7 +3707,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-pants-extra-large-groesse-6-1518533?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518533",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -2941,7 +3721,8 @@
    "url": "https://superstore.foletti.com/products/7954320?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -2954,7 +3735,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-pants-paw-patrol-junior-groesse-5-8006540711767-EK4GL5TC4",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -2967,7 +3749,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662405&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -2980,7 +3763,8 @@
    "url": "https://superstore.foletti.com/products/8940684?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -2993,7 +3777,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-pants-paw-patrol-x-large-gr-6-138-stueck-0014103697",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -3006,7 +3791,8 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-extra-groesse-6-1518517?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518517",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -3019,7 +3805,8 @@
    "url": "https://www.orderflow.ch/products/20932836",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -3032,7 +3819,8 @@
    "url": "https://www.avento.shop/pampers-premium-protection-k8rchq0bmqf.html",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -3045,7 +3833,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-premium-protection-pants-x-large-gr-6-132-stueck-0013775472",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "OTTO'S",
@@ -3059,6 +3848,7 @@
    "promo": "statt CHF 59.95 · 10%",
    "shipping": null,
    "source": "Aktionis",
+   "brand": "Pampers",
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
@@ -3075,7 +3865,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-pants-gr-6-monatsbox-132-stk-windeln-23688432?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -3088,7 +3879,8 @@
    "url": "https://www.timia.ch/products/9178328",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -3101,7 +3893,8 @@
    "url": "https://www.bohnettrade.ch/products/6477871",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -3114,7 +3907,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958178",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Coop Megastore",
@@ -3128,6 +3922,7 @@
    "promo": "statt CHF 53.65 · 40%",
    "shipping": null,
    "source": "Aktionis",
+   "brand": "Pampers",
    "min_packs": 1,
    "where": "online+filiale",
    "valid_from": "2026-10-05",
@@ -3144,7 +3939,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-premium-protection-gr-3-48-stueck-0014491840",
    "promo": null,
    "shipping": 7.95,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "puravita.ch",
@@ -3157,7 +3953,8 @@
    "url": "https://www.puravita.ch/de_ch/pampers-premium-protection-new-baby-gr-2-4-8kg-mini-monatsbox-240-stueck",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -3170,7 +3967,22 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-pants-extra-large-groesse-6-1518520?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518520",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "electronova-luzern.ch",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 69.6,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.4146,
+   "url": "https://www.electronova-luzern.ch/products/2656586",
+   "promo": null,
+   "shipping": 10.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "so-it.ch",
@@ -3183,7 +3995,22 @@
    "url": "https://www.so-it.ch/products/1464319",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "4mybaby AG",
+   "name": "Pingo Mini 2 Einwegwindeln, Grösse 2 (3-6 kg), 42 Stück",
+   "price": 11.55,
+   "count": 42,
+   "size": "2",
+   "line": "Windeln",
+   "ppd": 0.4155,
+   "url": "https://www.4mybaby.ch/pingo-oeko-windeln-v2-SW19849.7-nr-2-mini-einzelpack",
+   "promo": null,
+   "shipping": 5.9,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "eldar.ch",
@@ -3196,7 +4023,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-nachtwindeln-baby-dry-night-pants-groesse-5-8006540711828-37QDUXUW6",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -3209,7 +4037,8 @@
    "url": "https://www.so-it.ch/products/1380939",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -3222,7 +4051,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-premium-protection-pants-maxi-groesse-4/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "apo24.ch",
@@ -3235,7 +4065,8 @@
    "url": "https://www.apo24.ch/de/pampers/894142/pampers-premium-protection-maat-1-2-5kg-pasgeborenen-180-stuks.html?utm_campaign=cse_toppreise_chfr&utm_source=toppreise&utm_medium=cse&utm_content=fr&utm_term=b2006_p894142_Pampers%20Premium%20Protection%20Maat%201%202-5kg%20Pasgeborenen%20180%20Stuks",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -3248,7 +4079,8 @@
    "url": "https://superstore.foletti.com/products/8940702?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "upstore.ch",
@@ -3261,7 +4093,8 @@
    "url": "https://ze0b2w-s0.myshopify.com/products/pampers-windeln-baby-dry-pants-paw-patrol",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -3274,7 +4107,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-extra-large-groesse-7-1518528?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518528",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -3287,7 +4121,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Nachtwindeln-Baby-Dry-Night-Pants-Gr%C3%B6sse-4/1511712914.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "OTTO'S",
@@ -3301,6 +4136,7 @@
    "promo": "statt CHF 59.95 · 10%",
    "shipping": null,
    "source": "Aktionis",
+   "brand": "Pampers",
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
@@ -3317,7 +4153,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-l7drqc6urdp.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -3330,7 +4167,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662412&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -3343,7 +4181,8 @@
    "url": "https://www.timia.ch/products/9178364",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -3356,7 +4195,8 @@
    "url": "https://superstore.foletti.com/products/8940704?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -3369,7 +4209,8 @@
    "url": "https://www.bohnettrade.ch/products/6477875",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "puravita.ch",
@@ -3382,7 +4223,8 @@
    "url": "https://www.puravita.ch/de_ch/pampers-premium-protection-new-baby-gr-1-2-5kg-newborn-halbmonatsbox-180-stueck",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -3395,7 +4237,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Premium-Protection-4-Maxi-Gr%C3%B6sse-4/1511706329.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -3408,7 +4251,8 @@
    "url": "https://www.bohnettrade.ch/products/6477873",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -3421,7 +4265,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-gr-8-monatsbox-120-stk-windeln-23688454?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -3434,7 +4279,22 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-extra-large-groesse-8-1518529?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518529",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "highdefinition.ch",
+   "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
+   "price": 69.0,
+   "count": 192,
+   "size": "6",
+   "line": "Windeln",
+   "ppd": 0.4245,
+   "url": "https://www.highdefinition.ch/product/Pingo-%C3%96kowindeln-Gr%C3%B6sse-6-X-Large/1530658723.html?ref=tp",
+   "promo": null,
+   "shipping": 12.5,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Interdiscount",
@@ -3447,7 +4307,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-extra-large-gr-8-120-stueck-0013771963",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -3460,7 +4321,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419678",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -3473,7 +4335,8 @@
    "url": "https://www.so-it.ch/products/1380911",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -3486,7 +4349,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-harmonie-junior-gr-5-152-stueck-0013775495",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -3499,7 +4363,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-premium-protection-junior-groesse-5-8006540705643-G78QACSDQ",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -3512,7 +4377,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001963805",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -3525,7 +4391,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-harmonie-maxi-groesse-4-8006540867891-T2THGVY96",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -3538,7 +4405,8 @@
    "url": "https://www.so-it.ch/products/1380965",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "upstore.ch",
@@ -3551,7 +4419,8 @@
    "url": "https://ze0b2w-s0.myshopify.com/products/pampers-nachtwindeln-baby-dry-night-pants",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -3564,7 +4433,8 @@
    "url": "https://www.bohnettrade.ch/products/6233913",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -3577,7 +4447,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419656",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -3590,7 +4461,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958197",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -3603,7 +4475,8 @@
    "url": "https://www.bohnettrade.ch/products/6477845",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -3616,7 +4489,8 @@
    "url": "https://www.orderflow.ch/products/21727158",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -3629,7 +4503,8 @@
    "url": "https://www.bohnettrade.ch/products/6477899",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -3642,7 +4517,22 @@
    "url": "https://www.so-it.ch/products/1380917",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Galaxus",
+   "name": "Pingo New Born Einwegwindeln, Grösse 1 (2-5 kg), 27 Stück",
+   "price": 6.85,
+   "count": 27,
+   "size": "1",
+   "line": "Windeln",
+   "ppd": 0.4352,
+   "url": "https://www.galaxus.ch/de/s10/product/pingo-oekowindeln-gr-1-tragepack-27-stk-windeln-62317439?offertype=retail&offerid=406802&dbq=1&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
+   "promo": null,
+   "shipping": 4.9,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "newstore.ch",
@@ -3655,7 +4545,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-baby-dry-junior-groesse-5/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -3668,7 +4559,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-pants-xx-large-gr-7-126-stueck-0013775476",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -3681,7 +4573,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-pants-gr-7-monatsbox-126-stk-windeln-23688437?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -3694,7 +4587,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Premium-Protection-Pants-Gr.4-Maxi/1511706267.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -3707,7 +4601,22 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-premium-protection-pants-junior-groesse-5-8006540710517-6UKQCMLLL",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "4mybaby AG",
+   "name": "Pingo New Born Einwegwindeln, Grösse 1 (2-5 kg), 27 Stück",
+   "price": 5.95,
+   "count": 27,
+   "size": "1",
+   "line": "Windeln",
+   "ppd": 0.4389,
+   "url": "https://www.4mybaby.ch/pingo-oeko-windeln-v2-SW19849.4-nr-1-newborn-einzelpack",
+   "promo": null,
+   "shipping": 5.9,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "ohfeliz.ch",
@@ -3720,7 +4629,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-baby-dry-gr5?sai=14488&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -3733,7 +4643,22 @@
    "url": "https://www.bohnettrade.ch/products/6477851",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Brack",
+   "name": "Pingo Mini 2 Einwegwindeln, Grösse 2 (3-6 kg), 42 Stück",
+   "price": 12.7,
+   "count": 42,
+   "size": "2",
+   "line": "Windeln",
+   "ppd": 0.4429,
+   "url": "https://www.brack.ch/pingo-oekowindeln-groesse-2-1959770?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1959770",
+   "promo": null,
+   "shipping": 5.9,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "avento.shop",
@@ -3746,7 +4671,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-pants-paw-patrol-48g940eumlq.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Müller",
@@ -3759,7 +4685,8 @@
    "url": "https://www.mueller.ch/p/pampers-premium-protection-windeln-gr-6-13-kg-IPN2994118/",
    "promo": null,
    "shipping": null,
-   "source": "Müller"
+   "source": "Müller",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -3772,7 +4699,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419662",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -3785,7 +4713,8 @@
    "url": "https://www.timia.ch/products/9178350",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -3798,7 +4727,8 @@
    "url": "https://www.orderflow.ch/products/14897579",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -3811,7 +4741,22 @@
    "url": "https://www.orderflow.ch/products/14976962",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "so-it.ch",
+   "name": "Pingo Mini 2 Einwegwindeln, Grösse 2 (3-6 kg), 42 Stück",
+   "price": 11.8,
+   "count": 42,
+   "size": "2",
+   "line": "Windeln",
+   "ppd": 0.4476,
+   "url": "https://www.so-it.ch/products/1758951",
+   "promo": null,
+   "shipping": 7.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Galaxus",
@@ -3824,7 +4769,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-alt-gr-3-monatsbox-198-stk-windeln-3229338?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -3837,7 +4783,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419698",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -3850,7 +4797,8 @@
    "url": "https://www.so-it.ch/products/1380955",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -3863,7 +4811,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-pants-extra-large-groesse-7-1518534?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518534",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -3876,7 +4825,8 @@
    "url": "https://superstore.foletti.com/products/8195636?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -3889,7 +4839,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958184",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -3902,7 +4853,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-extra-large-groesse-6-8006540785133-77KD7SEWM",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -3915,7 +4867,8 @@
    "url": "https://www.brack.ch/pampers-windeln-harmonie-junior-groesse-5-1518508?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518508",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -3928,7 +4881,8 @@
    "url": "https://www.avento.shop/pampers-premium-protection-pants-o5css67s93a.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -3941,7 +4895,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Baby-Dry-Gr.5-Junior-11-16kg/1511708481.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -3954,7 +4909,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-night-pants-3j4jdrmvaq8.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -3967,7 +4923,8 @@
    "url": "https://www.timia.ch/products/9289780",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -3980,7 +4937,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662426&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -3993,7 +4951,8 @@
    "url": "https://www.timia.ch/products/9178354",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -4006,7 +4965,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-pants-8b3ualq7ugr.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -4019,7 +4979,8 @@
    "url": "https://www.bohnettrade.ch/products/6477889",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -4032,7 +4993,8 @@
    "url": "https://www.timia.ch/products/9178352",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -4045,7 +5007,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-harmonie-gr4?sai=14518&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -4058,7 +5021,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662418&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "OTTO'S",
@@ -4072,6 +5036,7 @@
    "promo": "statt CHF 62.95 · 10%",
    "shipping": null,
    "source": "Aktionis",
+   "brand": "Pampers",
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
@@ -4088,7 +5053,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-baby-dry-pants-paw-patrol-junior-groesse-5/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -4101,7 +5067,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-premium-protection-pants-xx-large-gr-7-123-stueck-0013775482",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -4114,7 +5081,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-pants-gr-7-monatsbox-123-stk-windeln-23688446?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -4127,7 +5095,8 @@
    "url": "https://superstore.foletti.com/products/8940688?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -4140,7 +5109,8 @@
    "url": "https://superstore.foletti.com/products/8940674?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -4153,7 +5123,8 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-pants-extra-large-groesse-7-1518521?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518521",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -4166,7 +5137,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662394&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -4179,7 +5151,8 @@
    "url": "https://www.orderflow.ch/products/20932840",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -4192,7 +5165,8 @@
    "url": "https://www.so-it.ch/products/1380925",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -4205,7 +5179,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Premium-Protection-Gr.3-6-10-kg-N3-48-St%C3%BCck/1747693166.html?ref=tp",
    "promo": null,
    "shipping": 9.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -4218,7 +5193,22 @@
    "url": "https://www.avento.shop/pampers-premium-protection-88tcd1a0kbp.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "orderflow.ch",
+   "name": "Pingo New Born Einwegwindeln, Grösse 1 (2-5 kg), 27 Stück",
+   "price": 12.7,
+   "count": 27,
+   "size": "1",
+   "line": "Windeln",
+   "ppd": 0.4704,
+   "url": "https://www.orderflow.ch/products/21407358",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "timia.ch",
@@ -4231,7 +5221,8 @@
    "url": "https://www.timia.ch/products/9178378",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -4244,7 +5235,8 @@
    "url": "https://www.orderflow.ch/products/20932842",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -4257,7 +5249,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-pants-paw-patrol-extra-large-groesse-6-8006540710876-GSDKS2YQ6",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -4270,7 +5263,22 @@
    "url": "https://www.timia.ch/products/9178324",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Brack",
+   "name": "Pingo New Born Einwegwindeln, Grösse 1 (2-5 kg), 27 Stück",
+   "price": 6.85,
+   "count": 27,
+   "size": "1",
+   "line": "Windeln",
+   "ppd": 0.4722,
+   "url": "https://www.brack.ch/pingo-oekowindeln-groesse-1-1959769?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1959769",
+   "promo": null,
+   "shipping": 5.9,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "newstore.ch",
@@ -4283,7 +5291,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-nachtwindeln-baby-dry-night-pants-groesse-5/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -4296,7 +5305,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419684",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -4309,7 +5319,8 @@
    "url": "https://www.so-it.ch/products/1380913",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -4322,7 +5333,8 @@
    "url": "https://www.so-it.ch/products/1380923",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -4335,7 +5347,8 @@
    "url": "https://www.bohnettrade.ch/products/6477859",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -4348,7 +5361,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-premium-protection-extra-groesse-6-8006540705674-L7L9FKPVR",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -4361,7 +5375,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-premium-protection-windeln-gr-3-6-10kg-n3-48-stuck/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -4374,7 +5389,8 @@
    "url": "https://www.avento.shop/pampers-harmonie-i5a4rsh3gug.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -4387,7 +5403,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-pants-extra-large-groesse-6-8006540710791-VQLE3LNRW",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -4400,7 +5417,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662403&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -4413,7 +5431,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/pants-baby-dry-gr5?sai=14466&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -4426,7 +5445,22 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662423&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "bohnettrade.ch",
+   "name": "Pingo Mini 2 Einwegwindeln, Grösse 2 (3-6 kg), 42 Stück",
+   "price": 20.25,
+   "count": 42,
+   "size": "2",
+   "line": "Windeln",
+   "ppd": 0.4821,
+   "url": "https://www.bohnettrade.ch/products/6768633",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "bohnettrade.ch",
@@ -4439,7 +5473,8 @@
    "url": "https://www.bohnettrade.ch/products/6477847",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -4452,7 +5487,8 @@
    "url": "https://www.bohnettrade.ch/products/6477857",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -4465,7 +5501,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Baby-Dry-Pants-Paw-Patrol-Junior-Gr%C3%B6sse-5/1530378064.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -4478,7 +5515,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-premium-protection-gr5?sai=14511&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -4491,7 +5529,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-premium-protection-junior-groesse-5/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -4504,7 +5543,8 @@
    "url": "https://www.orderflow.ch/products/16318416",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -4517,7 +5557,8 @@
    "url": "https://www.so-it.ch/products/1380919",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -4530,7 +5571,8 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-pants-extra-large-gr-8-117-stueck-0013775478",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -4543,7 +5585,8 @@
    "url": "https://www.timia.ch/products/9178330",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -4556,7 +5599,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-pants-gr-8-monatsbox-117-stk-windeln-23688440?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -4569,7 +5613,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-harmonie-maxi-groesse-4/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "puravita.ch",
@@ -4582,7 +5627,8 @@
    "url": "https://www.puravita.ch/de_ch/pampers-premium-protection-midi-gr-3-6-10-kg-monatsbox-204-stueck",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -4595,7 +5641,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419688",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -4608,7 +5655,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419686",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -4621,7 +5669,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958180",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -4634,7 +5683,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662406&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -4647,7 +5697,22 @@
    "url": "https://www.so-it.ch/products/1380957",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Interdiscount",
+   "name": "Pingo Mini 2 Einwegwindeln, Grösse 2 (3-6 kg), 42 Stück",
+   "price": 12.7,
+   "count": 42,
+   "size": "2",
+   "line": "Windeln",
+   "ppd": 0.4917,
+   "url": "https://www.interdiscount.ch/de/product/pingo-oeko-mini-gr-2-42-stueck-0014398296",
+   "promo": null,
+   "shipping": 7.95,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "Foletti Computer",
@@ -4660,7 +5725,8 @@
    "url": "https://superstore.foletti.com/products/8940680?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -4673,7 +5739,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-premium-protection-pants-junior-groesse-5/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -4686,7 +5753,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-extra-large-groesse-7-8006540785164-L9UDC5UQ7",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -4699,7 +5767,8 @@
    "url": "https://www.electronova-luzern.ch/products/2498894",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -4712,7 +5781,8 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-pants-extra-large-groesse-8-1518535?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518535",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -4725,7 +5795,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958199",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -4738,7 +5809,8 @@
    "url": "https://www.bohnettrade.ch/products/6477853",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -4751,7 +5823,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958179",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -4764,7 +5837,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-ujd4bicfn7f.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -4777,7 +5851,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662414&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -4790,7 +5865,8 @@
    "url": "https://www.timia.ch/products/9178368",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -4803,7 +5879,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Nachtwindeln-Baby-Dry-Night-Pants-Gr%C3%B6sse-5/1511706413.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -4816,7 +5893,8 @@
    "url": "https://www.bohnettrade.ch/products/6477891",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "mcdrogerie.ch",
@@ -4829,7 +5907,8 @@
    "url": "https://www.mcdrogerie.ch/a/pampers-premium-protection-new-baby-gr3-6-10kg-midi-sparpack-48-stuck-1155910?referrer=toppreise.ch&mkt=googleshopping",
    "promo": null,
    "shipping": 7.7,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -4842,7 +5921,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419658",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -4855,7 +5935,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419712",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -4868,7 +5949,8 @@
    "url": "https://www.so-it.ch/products/1380959",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -4881,7 +5963,8 @@
    "url": "https://www.orderflow.ch/products/21727154",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -4894,7 +5977,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-extra-large-groesse-8-8006540785188-6T2M2BRCX",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -4907,7 +5991,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Harmonie-Maxi-Gr%C3%B6sse-4/1511708931.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -4920,7 +6005,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Premium-Protection-Gr.5-Junior-11-16kg/1511706217.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -4933,7 +6019,8 @@
    "url": "https://www.bohnettrade.ch/products/6477893",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -4946,7 +6033,8 @@
    "url": "https://www.orderflow.ch/products/14989288",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -4959,7 +6047,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-hu707k69pbb.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -4972,7 +6061,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-baby-dry-extra-large-groesse-6/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -4985,7 +6075,36 @@
    "url": "https://www.avento.shop/pampers-baby-dry-pants-paw-patrol-p96dvtjpbk9.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Interdiscount",
+   "name": "Pingo New Born Einwegwindeln, Grösse 1 (2-5 kg), 27 Stück",
+   "price": 5.95,
+   "count": 27,
+   "size": "1",
+   "line": "Windeln",
+   "ppd": 0.5148,
+   "url": "https://www.interdiscount.ch/de/product/pingo-oeko-newborn-gr-1-27-stueck-0001606580",
+   "promo": null,
+   "shipping": 7.95,
+   "source": "Toppreise",
+   "brand": "Pingo"
+  },
+  {
+   "store": "so-it.ch",
+   "name": "Pingo New Born Einwegwindeln, Grösse 1 (2-5 kg), 27 Stück",
+   "price": 6.9,
+   "count": 27,
+   "size": "1",
+   "line": "Windeln",
+   "ppd": 0.5148,
+   "url": "https://www.so-it.ch/products/1758949",
+   "promo": null,
+   "shipping": 7.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "timia.ch",
@@ -4998,7 +6117,8 @@
    "url": "https://www.timia.ch/products/9178338",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Foletti Computer",
@@ -5011,7 +6131,8 @@
    "url": "https://superstore.foletti.com/products/8940676?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -5024,7 +6145,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662424&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -5037,7 +6159,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-night-pants-e7djtir0s0m.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -5050,7 +6173,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-harmonie-junior-groesse-5-8006540867921-32HSP3BL2",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -5063,7 +6187,8 @@
    "url": "https://www.so-it.ch/products/1380967",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -5076,7 +6201,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-pants-q0coosuff0r.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -5089,7 +6215,8 @@
    "url": "https://www.timia.ch/products/9178326",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -5102,7 +6229,8 @@
    "url": "https://www.timia.ch/products/9178336",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -5115,7 +6243,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Premium-Protection-Pants-Junior-Gr%C3%B6sse-5/1511706282.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -5128,7 +6257,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-phtu1ca1orh.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -5141,7 +6271,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662419&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -5154,7 +6285,8 @@
    "url": "https://www.avento.shop/pampers-premium-protection-blq76jakqp2.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -5167,7 +6299,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-premium-protection-gr6?sai=14514&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -5180,7 +6313,8 @@
    "url": "https://www.bohnettrade.ch/products/6477901",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -5193,7 +6327,8 @@
    "url": "https://www.so-it.ch/products/1380927",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -5206,7 +6341,8 @@
    "url": "https://www.orderflow.ch/products/15176090",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -5219,7 +6355,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=902294&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 9.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -5232,7 +6369,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419702",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -5245,7 +6383,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419664",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -5258,7 +6397,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-pants-extra-large-groesse-7-8006540711156-SURTCA224",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -5271,7 +6411,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-harmonie-gr5?sai=14520&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -5284,7 +6425,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-baby-dry-pants-paw-patrol-extra-large-groesse-6/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "vitaserv.ch",
@@ -5297,7 +6439,8 @@
    "url": "https://www.vitaserv.ch/index.php?Artikel_Nr=1042044",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -5310,7 +6453,8 @@
    "url": "https://www.bohnettrade.ch/products/6477861",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -5323,7 +6467,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Baby-Dry-Extra-Large-Gr%C3%B6sse-6/1530024249.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -5336,7 +6481,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662407&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -5349,7 +6495,8 @@
    "url": "https://www.orderflow.ch/products/15176092",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -5362,7 +6509,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-premium-protection-extra-groesse-6/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -5375,7 +6523,8 @@
    "url": "https://www.timia.ch/products/9178370",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -5388,7 +6537,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-baby-dry-pants-extra-large-groesse-6/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Müller",
@@ -5401,7 +6551,8 @@
    "url": "https://www.mueller.ch/p/pampers-baby-dry-pants-gr-6-14-19kg-monatsbox-IPN2887000/",
    "promo": null,
    "shipping": null,
-   "source": "Müller"
+   "source": "Müller",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -5414,7 +6565,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/pants-baby-dry-gr6?sai=14469&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -5427,7 +6579,22 @@
    "url": "https://www.so-it.ch/products/1380943",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Interdiscount",
+   "name": "Pingo New Born Einwegwindeln, Grösse 1 (2-5 kg), 27 Stück",
+   "price": 6.85,
+   "count": 27,
+   "size": "1",
+   "line": "Windeln",
+   "ppd": 0.5481,
+   "url": "https://www.interdiscount.ch/de/product/pingo-oeko-newborn-gr-1-27-stueck-0014365388",
+   "promo": null,
+   "shipping": 7.95,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "eldar.ch",
@@ -5440,7 +6607,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-premium-protection-pants-extra-large-groesse-7-8006540759059-WDL63X5M6",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -5453,7 +6621,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419672",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -5466,7 +6635,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958191",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -5479,7 +6649,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001963808",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -5492,7 +6663,8 @@
    "url": "https://www.bohnettrade.ch/products/6477877",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -5505,7 +6677,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419660",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -5518,7 +6691,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419670",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -5531,7 +6705,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-baby-dry-extra-large-groesse-7/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -5544,7 +6719,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662416&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -5557,7 +6733,8 @@
    "url": "https://www.avento.shop/pampers-harmonie-7hmqjggndgb.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -5570,7 +6747,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Baby-Dry-Pants-Paw-Patrol-Extra-Large-Gr%C3%B6sse-6/1530378081.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -5583,7 +6761,8 @@
    "url": "https://www.timia.ch/products/9178372",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -5596,7 +6775,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Premium-Protection-Gr.6-Extra-Large-13/1511706259.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -5609,7 +6789,22 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662404&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "bohnettrade.ch",
+   "name": "Pingo New Born Einwegwindeln, Grösse 1 (2-5 kg), 27 Stück",
+   "price": 15.35,
+   "count": 27,
+   "size": "1",
+   "line": "Windeln",
+   "ppd": 0.5685,
+   "url": "https://www.bohnettrade.ch/products/6768631",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "techstudio.ch",
@@ -5622,7 +6817,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-windeln-grsse-3-6-10kg-premium-protection-midi-204-stck-monatsbox-neu-grsse-3-204-stck",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -5635,7 +6831,8 @@
    "url": "https://www.orderflow.ch/products/14978490",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -5648,7 +6845,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Baby-Dry-Pants-Extra-Large-Gr%C3%B6sse-6/1511712862.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -5661,7 +6859,8 @@
    "url": "https://www.timia.ch/products/9178380",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "vitaserv.ch",
@@ -5674,7 +6873,22 @@
    "url": "https://www.vitaserv.ch/index.php?Artikel_Nr=1042047",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "electronova-luzern.ch",
+   "name": "Pingo Mini 2 Einwegwindeln, Grösse 2 (3-6 kg), 42 Stück",
+   "price": 14.05,
+   "count": 42,
+   "size": "2",
+   "line": "Windeln",
+   "ppd": 0.5726,
+   "url": "https://www.electronova-luzern.ch/products/2656578",
+   "promo": null,
+   "shipping": 10.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "newstore.ch",
@@ -5687,7 +6901,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-baby-dry-extra-large-groesse-8/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -5700,7 +6915,8 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-pants-extra-large-groesse-8-8006540711385-4QBYNBVUW",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -5713,7 +6929,8 @@
    "url": "https://www.so-it.ch/products/1380933",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "puravita.ch",
@@ -5726,7 +6943,8 @@
    "url": "https://www.puravita.ch/de_ch/pampers-premium-protection-maxi-gr-4-monatsbox-174-stueck",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -5739,7 +6957,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419704",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -5752,7 +6971,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Premium-Protection-Pants-Extra-Large-Gr%C3%B6sse-6/1511708502.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -5765,7 +6985,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958181",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -5778,7 +6999,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-pants-9acqdadgq4c.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -5791,7 +7013,8 @@
    "url": "https://www.timia.ch/products/9178340",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -5804,7 +7027,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662420&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -5817,7 +7041,8 @@
    "url": "https://www.bohnettrade.ch/products/6477867",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -5830,7 +7055,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662415&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -5843,7 +7069,8 @@
    "url": "https://www.orderflow.ch/products/21725116",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -5856,7 +7083,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Baby-Dry-Extra-Large-Gr%C3%B6sse-7/1511708496.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -5869,7 +7097,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-windeln-grsse-2-4-8kg-premium-protection-mini-240-stck-monatsbox-neu-grsse-2-240-stck",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -5882,7 +7111,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-harmonie-junior-groesse-5/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "benu.ch",
@@ -5895,7 +7125,8 @@
    "url": "https://www.benu.ch/a/pampers-premium-protection-new-baby-gr3-6-10kg-midi-sparpack-48-stuck-1155910?referrer=toppreise.ch",
    "promo": null,
    "shipping": 7.7,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -5908,7 +7139,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662408&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -5921,7 +7153,8 @@
    "url": "https://www.timia.ch/products/9178356",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -5934,7 +7167,8 @@
    "url": "https://www.avento.shop/pampers-premium-protection-pants-ira7go6vkuv.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -5947,7 +7181,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-baby-dry-pants-extra-large-groesse-7/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Coop City",
@@ -5960,7 +7195,8 @@
    "url": "https://go.adt212.net/t/t?a=1713905026&as=1592231440&t=2&tk=1&epi=Pampers+Premium+Protection+Windeln+Gr.3+Midi+6-10kg+48+St%C3%BCck&cupa_sku=7496422&fid=1232&url=https://www.coop-city.ch/de/baby-kind/windeln-wickeln/windeln/windeln/pampers-premium-protection-windeln-gr3-midi-6-10kg-48-stueck/p/7496422",
    "promo": null,
    "shipping": 9.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -5973,7 +7209,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Baby-Dry-Extra-Large-Gr%C3%B6sse-8/1511708671.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "pandaloo.ch",
@@ -5986,7 +7223,8 @@
    "url": "https://pandaloo.ch/products/pampers-baby-dry-pants-groesse-3-192-windeln?variant=56341910389001&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -5999,7 +7237,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419714",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "puravita.ch",
@@ -6012,7 +7251,8 @@
    "url": "https://www.puravita.ch/de_ch/pampers-premium-protection-pants-gr-4-9-15kg-maxi-monatsbox-168-stueck",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -6025,7 +7265,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419706",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -6038,7 +7279,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Harmonie-Junior-Gr%C3%B6sse-5/1511708912.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -6051,7 +7293,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419674",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -6064,7 +7307,8 @@
    "url": "https://www.orderflow.ch/products/14989292",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -6077,7 +7321,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662395&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "ohfeliz.ch",
@@ -6090,7 +7335,8 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/pants-baby-dry-gr7?sai=14472&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -6103,7 +7349,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-premium-protection-pants-extra-large-groesse-7/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -6116,7 +7363,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Baby-Dry-Pants-Extra-Large-Gr%C3%B6sse-7/1511708939.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -6129,7 +7377,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958183",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "vitaserv.ch",
@@ -6142,7 +7391,8 @@
    "url": "https://www.vitaserv.ch/index.php?Artikel_Nr=1155910",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Müller",
@@ -6155,7 +7405,8 @@
    "url": "https://www.mueller.ch/p/pampers-baby-dry-pants-gr-7-15-kg-monatsbox-IPN2887002/",
    "promo": null,
    "shipping": null,
-   "source": "Müller"
+   "source": "Müller",
+   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -6168,7 +7419,8 @@
    "url": "https://www.buchmann.ch/catalog/product_info.php?language=de&products_id=662421&utm_source=toppreise&utm_medium=cpc&utm_campaign=toppreise.ch",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "timia.ch",
@@ -6181,7 +7433,8 @@
    "url": "https://www.timia.ch/products/9178346",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -6194,7 +7447,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419690",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -6207,7 +7461,8 @@
    "url": "https://www.avento.shop/pampers-baby-dry-pants-boq6kete2fc.html",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6220,7 +7475,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-windeln-grsse-2-4-8-kg-harmonie-halbmonatsbox-sanfter-hautschutz-und-pflanzenbasierte-inhaltsstoffe-240-stck-grsse-2-240-stck-neu",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "kanela.ch",
@@ -6233,7 +7489,8 @@
    "url": "https://in.kanela.ch/t/t?a=1630620018&as=1592231440&t=2&tk=1&epi=Pampers+Premium+Protection+New+Baby+Gr.3+6-10kg+%2848+Stk%29&cupa_sku=66230768140637&fid=1033&url=https://kanela.ch/products/pampers-premium-protection-new-baby-gr-3-6-10kg-48-stk?variant=66230768140637",
    "promo": null,
    "shipping": 7.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -6246,7 +7503,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001963801",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "highdefinition.ch",
@@ -6259,7 +7517,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Premium-Protection-Pants-Extra-Large-Gr%C3%B6sse-7/1511708527.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "newstore.ch",
@@ -6272,7 +7531,8 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-baby-dry-pants-extra-large-groesse-8/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6285,7 +7545,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-windeln-grsse-3-6-10-kg-harmonie-monatsbox-sanfter-hautschutz-und-pflanzenbasierte-inhaltsstoffe-204-stck-grsse-3-204-stck-neu",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "kanela.ch",
@@ -6298,7 +7559,8 @@
    "url": "https://in.kanela.ch/t/t?a=1630620018&as=1592231440&t=2&tk=1&epi=Pampers+premium+protection+Pants%2C+Gr%C3%B6sse+6%2C+15%2Bkg%2C+Monatsbox+%28132+Stk%29&cupa_sku=64753406214493&fid=1033&url=https://kanela.ch/products/pampers-premium-protection-pants-groesse-6-15kg-monatsbox-132-stk?variant=64753406214493",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6311,7 +7573,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-dry-grosse-3-222-windeln-6kg-10kg-bis-zu-100-auslaufschutz-komfort-die-ganze-nach",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6324,7 +7587,8 @@
    "url": "https://techstudio.ch/products/pampers-night-pants-grosse-4-180-windeln-9-15kg-pampers-night-pants-bieten-zusatzlichen-schutz-fu",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6337,7 +7601,8 @@
    "url": "https://techstudio.ch/products/pampers-windeln-pants-grosse-3-6-11kg-baby-dry-midi-mit-stop-und-schutz-taschchen-monatsbox-19",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -6350,7 +7615,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001963809",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -6363,7 +7629,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001963802",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -6376,7 +7643,8 @@
    "url": "https://www.electronova-luzern.ch/products/2419680",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "puravita.ch",
@@ -6389,7 +7657,22 @@
    "url": "https://www.puravita.ch/de_ch/pampers-premium-protection-gr-5-11-16kg-junior-monatsbox-152-stueck",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "electronova-luzern.ch",
+   "name": "Pingo New Born Einwegwindeln, Grösse 1 (2-5 kg), 27 Stück",
+   "price": 8.5,
+   "count": 27,
+   "size": "1",
+   "line": "Windeln",
+   "ppd": 0.6852,
+   "url": "https://www.electronova-luzern.ch/products/2656576",
+   "promo": null,
+   "shipping": 10.0,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "highdefinition.ch",
@@ -6402,7 +7685,8 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Baby-Dry-Pants-Extra-Large-Gr%C3%B6sse-8/1511712937.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "puravita.ch",
@@ -6415,7 +7699,8 @@
    "url": "https://www.puravita.ch/de_ch/pampers-premium-protection-new-born-midi-gr-3-6-10-kg-48-stueck",
    "promo": null,
    "shipping": 8.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Manor",
@@ -6428,7 +7713,8 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958186",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6441,7 +7727,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-windeln-grsse-1-2-5kg-premium-protection-newborn-halbmonatsbox-bester-komfort-und-schutz-fr-empfindliche-haut-180-stck-neu-grsse-1-180-stck",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -6454,7 +7741,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-gr6-extra-large-13-18kg-windeln-singlepack-34-stueck-gr-6-34-stk-windeln-66627486?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "puravita.ch",
@@ -6467,7 +7755,8 @@
    "url": "https://www.puravita.ch/de_ch/pampers-premium-protection-pants-gr-5-12-17kg-junior-monatsbox-144-stueck",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "vitadrogerie.ch",
@@ -6480,7 +7769,8 @@
    "url": "https://www.vitadrogerie.ch/de/pampers-premium-protection-new-baby-gr3-6-10kg-midi-sparpack-48-stk.html",
    "promo": null,
    "shipping": 8.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6493,7 +7783,8 @@
    "url": "https://techstudio.ch/products/pampers-night-windeln-pants-grsse-5-12kg-17kg-baby-dry-monatsbox-160-hschenwindeln-windelhschen-bieten-zustzlichen-schutz-fr-die-ganze-nacht-grsse-5-160-stck-neu",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6506,7 +7797,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-dry-pants-grosse-5-160-windeln-11kg-17kg-360-passform-hilft-auslaufen-zu-verhinder",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -6519,7 +7811,8 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-junior-groesse-5--2-monatsboxen-2278772?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=2278772",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "puravita.ch",
@@ -6532,7 +7825,8 @@
    "url": "https://www.puravita.ch/de_ch/pampers-premium-protection-gr-6-13-kg-extra-large-monatsbox-144-stueck",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6545,7 +7839,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-dry-pants-paw-patrol-edition-grosse-5-160-windeln-11kg-17kg-360-passform-hilft-aus",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "puravita.ch",
@@ -6558,7 +7853,8 @@
    "url": "https://www.puravita.ch/de_ch/pampers-premium-protection-pants-gr-6-15-kg-extra-large-monatsbox-132-stueck",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6571,7 +7867,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-windeln-pants-grsse-4-9-15kg-premium-protection-maxi-mit-stop-und-schutz-tschchen-monatsbox-168-hschenwindeln-grsse-4-168-stck-neu",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "notino.ch",
@@ -6584,7 +7881,8 @@
    "url": "https://www.tkqlhce.com/click-9102733-13746072?url=https%3A%2F%2Fwww.notino.ch%2Fpampers%2Fnight-pants-size-5-hoschenwindeln-fur-die-nacht%2Fp-16133176%2F",
    "promo": null,
    "shipping": 6.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Galaxus",
@@ -6597,7 +7895,8 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-nachtwindeln-hosen-gr-5-tragepack-22-stk-windeln-25246175?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "mcdrogerie.ch",
@@ -6610,7 +7909,8 @@
    "url": "https://www.mcdrogerie.ch/a/pampers-baby-dry-baby-dry-gr6-13-18kg-extra-large-sparpack-34-stuck-1155900?referrer=toppreise.ch&mkt=googleshopping",
    "promo": null,
    "shipping": 7.7,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "mcdrogerie.ch",
@@ -6623,7 +7923,8 @@
    "url": "https://www.mcdrogerie.ch/a/pampers-premium-protection-new-baby-gr5-11-16kg-junior-sparpack-34-stuck-1155912?referrer=toppreise.ch&mkt=googleshopping",
    "promo": null,
    "shipping": 7.7,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -6636,7 +7937,8 @@
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-extra-groesse-6--2-monatsboxen-2278810?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=2278810",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6649,7 +7951,8 @@
    "url": "https://techstudio.ch/products/pampers-windeln-grosse-3-6-10kg-baby-dry-midi-monatsbox-bis-zu-12-stunden-rundum-auslaufschutz",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -6662,7 +7965,8 @@
    "url": "https://www.so-it.ch/products/1809091",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "benu.ch",
@@ -6675,7 +7979,8 @@
    "url": "https://www.benu.ch/a/pampers-premium-protection-new-baby-gr5-11-16kg-junior-sparpack-34-stuck-1155912?referrer=toppreise.ch",
    "promo": null,
    "shipping": 7.7,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -6688,7 +7993,8 @@
    "url": "https://www.bohnettrade.ch/products/6796889",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Coop City",
@@ -6701,7 +8007,8 @@
    "url": "https://go.adt212.net/t/t?a=1713905026&as=1592231440&t=2&tk=1&epi=Pampers+Baby+Dry+Windeln+Gr%C3%B6sse+6+Extra+Large+13-18kg+34+St%C3%BCck&cupa_sku=7496411&fid=1232&url=https://www.coop-city.ch/de/baby-kind/windeln-wickeln/windeln/windeln/pampers-baby-dry-windeln-groesse-6-extra-large-13-18kg-34-stueck/p/7496411",
    "promo": null,
    "shipping": 9.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Coop City",
@@ -6714,7 +8021,8 @@
    "url": "https://go.adt212.net/t/t?a=1713905026&as=1592231440&t=2&tk=1&epi=Pampers+Premium+Protection+Windeln+Gr.5+Junior+11-16kg+34+St%C3%BCck&cupa_sku=7496420&fid=1232&url=https://www.coop-city.ch/de/baby-kind/windeln-wickeln/windeln/windeln/pampers-premium-protection-windeln-gr5-junior-11-16kg-34-stueck/p/7496420",
    "promo": null,
    "shipping": 9.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6727,7 +8035,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-dry-pants-grosse-7-126-stuck-15kg-360-auslaufsichere-passform-fur-tag-und-nacht-gr",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6740,7 +8049,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-windeln-pants-grsse-5-12-17kg-premium-protection-junior-mit-stop-und-schutz-tschchen-monatsbox-144-hschenwindeln",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "vitaserv.ch",
@@ -6753,7 +8063,8 @@
    "url": "https://www.vitaserv.ch/index.php?Artikel_Nr=1155912",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6766,7 +8077,8 @@
    "url": "https://techstudio.ch/products/pampers-premium-protection-grosse-5-152-windeln-11kg-16kg-unser-nr-1-haut-und-auslaufschutz-gro",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6779,7 +8091,8 @@
    "url": "https://techstudio.ch/products/pampers-windeln-grsse-5-11-16kg-baby-dry-junior-monatsbox-bis-zu-12-stunden-rundum-auslaufschutz-1er-pack-174-stck-neu-grsse-5-174-stck",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "so-it.ch",
@@ -6792,7 +8105,8 @@
    "url": "https://www.so-it.ch/products/1809093",
    "promo": null,
    "shipping": 7.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -6805,7 +8119,8 @@
    "url": "https://www.bohnettrade.ch/products/6796887",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "kanela.ch",
@@ -6818,7 +8133,8 @@
    "url": "https://in.kanela.ch/t/t?a=1630620018&as=1592231440&t=2&tk=1&epi=Pampers+Premium+Protection+New+Baby+Gr.5+11-16kg+%2834+Stk%29&cupa_sku=66230770073949&fid=1033&url=https://kanela.ch/products/pampers-premium-protection-new-baby-gr-5-11-16kg-sparpack?variant=66230770073949",
    "promo": null,
    "shipping": 7.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "vitaserv.ch",
@@ -6831,7 +8147,8 @@
    "url": "https://www.vitaserv.ch/index.php?Artikel_Nr=1155900",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "benu.ch",
@@ -6844,7 +8161,8 @@
    "url": "https://www.benu.ch/a/pampers-baby-dry-baby-dry-gr6-13-18kg-extra-large-sparpack-34-stuck-1155900?referrer=toppreise.ch",
    "promo": null,
    "shipping": 7.7,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -6857,7 +8175,8 @@
    "url": "https://www.electronova-luzern.ch/products/2680386",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6870,7 +8189,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-windeln-pants-grsse-6-15kg-premium-protection-extra-large-mit-stop-und-schutz-tschchen-monatsbox-132-hschenwindeln-grsse-6-132-stck-neu",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Amazon.de",
@@ -6883,7 +8203,8 @@
    "url": "https://www.amazon.de/dp/B09C6H3WXN/ref=asc_df_B09C6H3WXN1697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B09C6H3WXN&linkCode=df0&language=de_DE",
    "promo": null,
    "shipping": 5.22,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "kanela.ch",
@@ -6896,7 +8217,8 @@
    "url": "https://in.kanela.ch/t/t?a=1630620018&as=1592231440&t=2&tk=1&epi=Pampers+Baby+Dry+Gr.6+13-18kg+%2834+Stk%29&cupa_sku=66230733078877&fid=1033&url=https://kanela.ch/products/pampers-baby-dry-gr-6-13-18kg-34-stk?variant=66230733078877",
    "promo": null,
    "shipping": 7.9,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "puravita.ch",
@@ -6909,7 +8231,8 @@
    "url": "https://www.puravita.ch/de_ch/pampers-premium-protection-junior-gr-5-11-16-kg-34-stueck",
    "promo": null,
    "shipping": 8.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "electronova-luzern.ch",
@@ -6922,7 +8245,8 @@
    "url": "https://www.electronova-luzern.ch/products/2680384",
    "promo": null,
    "shipping": 10.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6935,7 +8259,8 @@
    "url": "https://techstudio.ch/products/pampers-baby-dry-pants-grosse-8-117-stuck-17kg-360-auslaufsichere-passform-fur-tag-und-nacht-gr",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "puravita.ch",
@@ -6948,7 +8273,8 @@
    "url": "https://www.puravita.ch/de_ch/pampers-baby-dry-gr-6-extra-large-sparpaket-34-stueck",
    "promo": null,
    "shipping": 8.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "vitadrogerie.ch",
@@ -6961,7 +8287,8 @@
    "url": "https://www.vitadrogerie.ch/de/pampers-premium-protection-new-baby-gr5-11-16kg-junior-sparpack-34-stk.html",
    "promo": null,
    "shipping": 8.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -6974,7 +8301,8 @@
    "url": "https://techstudio.ch/products/pampers-windeln-grsse-7-15kg-baby-dry-extra-large-monatsbox-bis-zu-12-stunden-rundum-auslaufschutz-1er-pack-132-stck-neu-grsse-7-132-stck",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "vitadrogerie.ch",
@@ -6987,7 +8315,8 @@
    "url": "https://www.vitadrogerie.ch/de/catalog/product/view/id/134170/s/pampers-baby-dry-gr6-13-18kg-extra-large-sparpack-34-stk/",
    "promo": null,
    "shipping": 8.5,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -7000,7 +8329,8 @@
    "url": "https://techstudio.ch/products/pampers-premium-protection-pants-grosse-7-123-windeln-15kg-mit-360-passform-und-weichen-anti-au",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "techstudio.ch",
@@ -7013,7 +8343,8 @@
    "url": "https://techstudio.ch/products/pampers-windeln-grsse-8-17kg-baby-dry-extra-large-monatsbox-bis-zu-12-stunden-rundum-auslaufschutz-1er-pack-120-stck-neu-grsse-8-120-stck",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise"
+   "source": "Toppreise",
+   "brand": "Pampers"
   }
  ],
  "hints": [
@@ -7023,6 +8354,7 @@
    "url": "https://www.lidl.ch/p/de-CH/pampers-windeln-baby-dry/p10060797",
    "size": null,
    "line": "Baby-Dry",
+   "brand": "Pampers",
    "discount": null,
    "valid_until": null,
    "where": "filiale",

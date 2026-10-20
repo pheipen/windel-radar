@@ -4,7 +4,7 @@ import re
 from datetime import date, datetime
 from zoneinfo import ZoneInfo
 
-from common import EXCLUDE, entry, fetch, parse_count, parse_line, parse_size, text
+from common import EXCLUDE, brand_of, entry, fetch, parse_count, parse_line, parse_size, text
 
 NAME = "Aktionis"
 BASE = "https://www.aktionis.ch"
@@ -104,7 +104,7 @@ def parse(card, page, today):
     example = re.search(r"z\.\s?b\.\s*(.*?)(?:,\s*[\d–.]+\s*statt|$)", desc, re.I)
     subject = f"{title} {example.group(1)}" if example else title
     # check only the product, not the conditions ('ohne Feuchttücher' must not drop the deal)
-    if ("pampers" not in info.lower() or EXCLUDE.search(subject)
+    if (not re.search(r"pampers|pingo", info, re.I) or EXCLUDE.search(subject)
             or not re.search(r"windel|pants|grösse|gr\.|size|sortiment", info, re.I)):
         return None
     size, count, line = parse_size(subject), parse_count(subject), parse_line(subject)
@@ -115,7 +115,8 @@ def parse(card, page, today):
     rows = []
     if example or not (size and count):
         rows.append({**base, "hint": True, "text": f"{title}: {desc}" if desc else title,
-                     "discount": pct or None, "size": parse_size(title), "line": parse_line(title)})
+                     "discount": pct or None, "size": parse_size(title), "line": parse_line(title),
+                     "brand": brand_of(info)})
     deal = multibuy(info, price, old) if price else None
     if size and count and deal:
         unit, packs, label = deal
@@ -129,16 +130,20 @@ def parse(card, page, today):
 
 
 def scrape():
-    page = fetch(f"{BASE}/deals?q=pampers")
+    pages = [fetch(f"{BASE}/deals?q={q}") for q in ("pampers", "pingo")]
+    page = "".join(pages)
     cards = re.split(r'<div data-upox-id="', page)[1:]
     if "card-merchant" not in page:
         raise RuntimeError("Seite ohne Aktionen, Aufbau geändert?")
     today = date.today().isoformat()
-    rows = []
+    rows, seen = [], set()
     for card in cards:
         link = re.search(r'href="(/deals/[^"]+)"', card)
+        if not link or link.group(1) in seen:
+            continue
+        seen.add(link.group(1))
         head = text(" ".join(re.findall(r'class="card-(?:title|description)[^"]*"[^>]*>(.*?)</', card, re.S)))
-        if not link or "pampers" not in head.lower():
+        if not re.search(r"pampers|pingo", head, re.I):
             continue
         rows += parse(card, fetch(BASE + link.group(1)), today) or []
     return rows

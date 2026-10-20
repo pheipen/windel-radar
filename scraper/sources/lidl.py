@@ -34,7 +34,7 @@ def parse(page):
         row = entry(NAME, title, price.get("price"), parse_count(info), parse_size(info), parse_line(title),
                     url, promo=promo, **extra)
         rows.append(row or {"hint": True, "store": NAME, "url": url, "size": parse_size(info),
-                            "line": parse_line(title), "discount": None, "valid_until": None, **extra,
+                            "line": parse_line(title), "brand": "Pampers", "discount": None, "valid_until": None, **extra,
                             "text": f"{title}: CHF {price.get('price', 0):.2f}, {facts}"})
     return rows
 

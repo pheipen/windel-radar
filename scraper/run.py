@@ -37,7 +37,15 @@ def run_sources():
 
 
 def update_history(history, items, today):
-    """Cheapest price per diaper per size and line ('alle' = any line), one point per day, 60 days."""
+    """Cheapest price per diaper per brand, size and line ('alle' = any line), one point per day, 60 days."""
+    if history and "Pampers" not in history:
+        history = {"Pampers": history}  # files from before Pingo had no brand level
+    for brand in ("Pampers", "Pingo"):
+        update_brand(history.setdefault(brand, {}), [r for r in items if r["brand"] == brand], today)
+    return history
+
+
+def update_brand(history, items, today):
     for size in map(str, range(1, 9)):
         for line in ["alle"] + sorted({r["line"] for r in items}):
             rows = [r for r in items if r["size"] == size and line in ("alle", r["line"])]
@@ -54,7 +62,6 @@ def update_history(history, items, today):
     for lines in history.values():
         for line in lines:
             lines[line] = [p for p in lines[line] if p["d"] >= cutoff]
-    return history
 
 
 def main():

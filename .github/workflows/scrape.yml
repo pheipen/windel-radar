@@ -1,0 +1,39 @@
+name: Preise holen
+on:
+  schedule:
+    # 06/12/18 Uhr Zürich: both UTC offsets listed, the guard below keeps the matching ones
+    - cron: "0 4,5,10,11,16,17 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: scrape
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Nur um 06, 12, 18 Uhr Zürich (oder von Hand)
+        id: guard
+        run: |
+          h=$(TZ=Europe/Zurich date +%H)
+          if [ "${{ github.event_name }}" = workflow_dispatch ] || [[ "$h" =~ ^(06|12|18)$ ]]; then echo run=1 >> "$GITHUB_OUTPUT"; fi
+      - uses: actions/checkout@v4
+        if: steps.guard.outputs.run
+      - uses: actions/setup-python@v5
+        if: steps.guard.outputs.run
+        with:
+          python-version: "3.12"
+      - name: Selbsttest
+        if: steps.guard.outputs.run
+        run: python scraper/test_parse.py && python scraper/test_aktionis.py
+      - name: Preise holen
+        if: steps.guard.outputs.run
+        run: python scraper/run.py
+      - name: Speichern
+        if: steps.guard.outputs.run
+        run: |
+          git config user.name "windel-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Preise $(TZ=Europe/Zurich date '+%Y-%m-%d %H:%M')"
+          git push

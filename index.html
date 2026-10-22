@@ -41,11 +41,10 @@ header { display: flex; align-items: baseline; justify-content: space-between; g
 h1 { font-size: 26px; letter-spacing: -0.02em; margin: 0; }
 #updated { color: var(--muted); font-size: 13px; text-align: right; }
 #scan {
-  margin-top: 6px; min-height: 44px; padding: 0 14px; border-radius: 22px; border: 1px solid var(--line);
+  display: inline-flex; align-items: center; text-decoration: none; margin-top: 6px; min-height: 44px; padding: 0 14px; border-radius: 22px; border: 1px solid var(--line);
   background: var(--card); color: var(--accent); font-size: 14px; font-weight: 600; font-family: inherit;
   touch-action: manipulation; cursor: pointer;
 }
-#scan:disabled { color: var(--muted); cursor: default; }
 .label { font-size: 13px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; margin: 4px 0 8px; }
 #brand {
   position: relative; display: grid; grid-template-columns: 1fr 1fr; margin-bottom: 18px; padding: 4px;
@@ -111,7 +110,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--accent); outlin
 <main>
   <header>
     <h1>Windel-Radar</h1>
-    <div id="updated">lädt …<br><button id="scan">Jetzt scannen</button></div>
+    <div id="updated">lädt …<br><a id="scan" href="https://github.com/pheipen/windel-radar/actions/workflows/scrape.yml" target="_blank" rel="noopener">Jetzt scannen</a></div>
   </header>
 
   <div id="brand" role="group" aria-label="Marke">
@@ -244,7 +243,6 @@ document.addEventListener("click", (e) => {
   else if (b.dataset.size) { state.size = b.dataset.size; store.set("size", state.size); }
   else if (b.dataset.line) { state.line = b.dataset.line; store.set("line-" + state.brand, state.line); }
   else if (b.id === "more") { state.shown += PAGE; render(); return; }
-  else if (b.id === "scan") { scan(b); return; }
   else return;
   state.shown = PAGE;
   render();
@@ -274,35 +272,6 @@ async function load() {
     $("list").innerHTML = `<div class="empty">Preise konnten nicht geladen werden. Später nochmals versuchen.</div>`;
   }
   render();
-}
-// The page is static, so a scan starts the GitHub Action via API with a per-device token (fine-grained, this repo, Actions: write).
-async function scan(b) {
-  let token = store.get("gh-token", "");
-  if (!token) {
-    token = (prompt("Für den Scan braucht es einmal einen GitHub-Token (fine-grained, nur Repo windel-radar, Recht „Actions: Read and write“). Token einfügen:") || "").trim();
-    if (!token) return;
-    store.set("gh-token", token);
-  }
-  b.disabled = true; b.textContent = "Startet …";
-  try {
-    const r = await fetch("https://api.github.com/repos/pheipen/windel-radar/actions/workflows/scrape.yml/dispatches", {
-      method: "POST", headers: { Authorization: "Bearer " + token, Accept: "application/vnd.github+json" },
-      body: JSON.stringify({ ref: "main" }),
-    });
-    if ([401, 403, 404].includes(r.status)) { store.set("gh-token", ""); throw new Error("Token ungültig"); }
-    if (!r.ok) throw new Error("Fehler " + r.status);
-  } catch (e) {
-    b.disabled = false; b.textContent = (e.message === "Token ungültig" ? e.message : "Fehler") + " – nochmals tippen";
-    return;
-  }
-  b.textContent = "Scan läuft (ca. 3 Min.) …";
-  const before = data && data.updated;
-  for (let i = 0; i < 20 && (!data || data.updated === before); i++) { // up to 10 min: run ~2 min + Pages deploy
-    await new Promise((ok) => setTimeout(ok, 30000));
-    await load();
-  }
-  b.disabled = false;
-  b.textContent = data && data.updated !== before ? "Jetzt scannen" : "Noch nichts Neues – später neu laden";
 }
 document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
 buttons();

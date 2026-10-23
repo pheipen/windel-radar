@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-22T22:13+02:00",
+ "updated": "2026-10-23T11:26+02:00",
  "sources": [
   {
    "name": "Toppreise",
    "ok": true,
-   "count": 592
+   "count": 588
   },
   {
    "name": "Müller",
@@ -19,7 +19,7 @@
   {
    "name": "Aktionis",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "name": "Coop",
@@ -54,16 +54,16 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
-   "valid_until": "2026-10-23"
+   "valid_until": "2026-10-24"
   },
   {
    "store": "Foletti Computer",
    "name": "Pampers Premium Protection Einwegwindeln, Grösse 2 (4-8 kg), 240 Stück",
-   "price": 49.75,
+   "price": 49.85,
    "count": 240,
    "size": "2",
    "line": "Premium Protection",
-   "ppd": 0.2073,
+   "ppd": 0.2077,
    "url": "https://superstore.foletti.com/products/7954312?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
@@ -113,20 +113,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Amazon.de",
-   "name": "Pampers Harmonie New Baby Einwegwindeln, Grösse 1 (2-5 kg), 180 Stück",
-   "price": 36.05,
-   "count": 180,
-   "size": "1",
-   "line": "Harmonie",
-   "ppd": 0.2292,
-   "url": "https://www.amazon.de/dp/B0BLW6K6DL/ref=asc_df_B0BLW6K6DL1697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW6K6DL&linkCode=df0&language=de_DE",
-   "promo": null,
-   "shipping": 5.21,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "Galaxus",
    "name": "Pampers Premium Protection Einwegwindeln Monatsbox, Grösse 1 (2-5 kg), 180 Stück",
    "price": 37.0,
@@ -171,11 +157,11 @@
   {
    "store": "Foletti Computer",
    "name": "Pampers Premium Protection Einwegwindeln Monatsbox, Grösse 1 (2-5 kg), 180 Stück",
-   "price": 42.8,
+   "price": 42.9,
    "count": 180,
    "size": "1",
    "line": "Premium Protection",
-   "ppd": 0.2378,
+   "ppd": 0.2383,
    "url": "https://superstore.foletti.com/products/7954310?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
@@ -212,7 +198,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
-   "valid_until": "2026-10-23"
+   "valid_until": "2026-10-24"
   },
   {
    "store": "Brack",
@@ -223,20 +209,6 @@
    "line": "Premium Protection",
    "ppd": 0.2458,
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-midi-groesse-3-1518514?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518514",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "Foletti Computer",
-   "name": "Pampers Baby Dry Einwegwindeln, Grösse 3 (6-10 kg), 222 Stück",
-   "price": 54.75,
-   "count": 222,
-   "size": "3",
-   "line": "Baby-Dry",
-   "ppd": 0.2466,
-   "url": "https://superstore.foletti.com/products/8940690?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise",
@@ -257,6 +229,20 @@
    "brand": "Pampers"
   },
   {
+   "store": "Foletti Computer",
+   "name": "Pampers Baby Dry Einwegwindeln, Grösse 3 (6-10 kg), 222 Stück",
+   "price": 54.85,
+   "count": 222,
+   "size": "3",
+   "line": "Baby-Dry",
+   "ppd": 0.2471,
+   "url": "https://superstore.foletti.com/products/8940690?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
    "store": "eldar.ch",
    "name": "Pampers Premium Protection Einwegwindeln, Grösse 2 (4-8 kg), 240 Stück",
    "price": 59.5,
@@ -271,20 +257,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "so-it.ch",
-   "name": "Pampers Premium Protection Einwegwindeln, Grösse 2 (4-8 kg), 240 Stück",
-   "price": 52.5,
-   "count": 240,
-   "size": "2",
-   "line": "Premium Protection",
-   "ppd": 0.2479,
-   "url": "https://www.so-it.ch/products/1618063",
-   "promo": null,
-   "shipping": 7.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "Brack",
    "name": "Pampers Baby Dry Einwegwindeln, Grösse 3 (6-10 kg), 222 Stück",
    "price": 55.05,
@@ -295,6 +267,20 @@
    "url": "https://www.brack.ch/pampers-windeln-baby-dry-midi-groesse-3-1518522?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518522",
    "promo": null,
    "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "so-it.ch",
+   "name": "Pampers Premium Protection Einwegwindeln, Grösse 2 (4-8 kg), 240 Stück",
+   "price": 52.55,
+   "count": 240,
+   "size": "2",
+   "line": "Premium Protection",
+   "ppd": 0.2481,
+   "url": "https://www.so-it.ch/products/1618063",
+   "promo": null,
+   "shipping": 7.0,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -327,20 +313,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Amazon.de",
-   "name": "Pampers Baby-Dry Night Pants, Grösse 4 (9-14 kg), 180 Stück",
-   "price": 45.46,
-   "count": 180,
-   "size": "4",
-   "line": "Baby-Dry Pants",
-   "ppd": 0.2526,
-   "url": "https://www.amazon.de/dp/B0BLW7MHKH/ref=asc_df_B0BLW7MHKH1697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW7MHKH&linkCode=df0&language=de_DE",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "OTTO'S",
    "name": "Pampers Premium Protection Pants Grösse 3 Monatsbox 192 Windeln",
    "price": 48.55,
@@ -356,7 +328,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
-   "valid_until": "2026-10-23"
+   "valid_until": "2026-10-24"
   },
   {
    "store": "so-it.ch",
@@ -443,20 +415,6 @@
    "brand": "Pingo"
   },
   {
-   "store": "Galaxus",
-   "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 204 Stück",
-   "price": 48.0,
-   "count": 204,
-   "size": "3",
-   "line": "Premium Protection",
-   "ppd": 0.2593,
-   "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-gr-3-monatsbox-204-stk-windeln-23688426?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
-   "promo": null,
-   "shipping": 4.9,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "bohnettrade.ch",
    "name": "Pampers Premium Protection Einwegwindeln Monatsbox, Grösse 1 (2-5 kg), 180 Stück",
    "price": 47.2,
@@ -472,15 +430,15 @@
   },
   {
    "store": "Galaxus",
-   "name": "Pampers Baby Dry Einwegwindeln, Grösse 4 (9-14 kg), 204 Stück",
-   "price": 54.0,
+   "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 204 Stück",
+   "price": 49.0,
    "count": 204,
-   "size": "4",
-   "line": "Baby-Dry",
-   "ppd": 0.2647,
-   "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-gr-4-monatsbox-204-stk-windeln-23688448?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
+   "size": "3",
+   "line": "Premium Protection",
+   "ppd": 0.2642,
+   "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-gr-3-monatsbox-204-stk-windeln-23688426?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
-   "shipping": 0.0,
+   "shipping": 4.9,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -513,20 +471,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Amazon.de",
-   "name": "Pampers Baby-Dry Pants, Grösse 4 (9-15 kg), 180 Stück",
-   "price": 48.47,
-   "count": 180,
-   "size": "4",
-   "line": "Baby-Dry Pants",
-   "ppd": 0.2693,
-   "url": "https://www.amazon.de/dp/B0BLW5QB49/ref=asc_df_B0BLW5QB491697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW5QB49&linkCode=df0&language=de_DE",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "Interdiscount",
    "name": "Pampers Baby Dry Einwegwindeln, Grösse 4 (9-14 kg), 204 Stück",
    "price": 54.95,
@@ -535,6 +479,20 @@
    "line": "Baby-Dry",
    "ppd": 0.2694,
    "url": "https://www.interdiscount.ch/de/product/pampers-baby-dry-maxi-gr-4-204-stueck-0013775484",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Galaxus",
+   "name": "Pampers Baby Dry Einwegwindeln, Grösse 4 (9-14 kg), 204 Stück",
+   "price": 55.0,
+   "count": 204,
+   "size": "4",
+   "line": "Baby-Dry",
+   "ppd": 0.2696,
+   "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-gr-4-monatsbox-204-stk-windeln-23688448?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise",
@@ -597,20 +555,6 @@
    "brand": "Pingo"
   },
   {
-   "store": "Foletti Computer",
-   "name": "Pampers Baby Dry Einwegwindeln, Grösse 4 (9-14 kg), 204 Stück",
-   "price": 56.85,
-   "count": 204,
-   "size": "4",
-   "line": "Baby-Dry",
-   "ppd": 0.2787,
-   "url": "https://superstore.foletti.com/products/8940692?vid=toppreise",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "Interdiscount",
    "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 204 Stück",
    "price": 48.95,
@@ -621,6 +565,20 @@
    "url": "https://www.interdiscount.ch/de/product/pampers-premium-protection-midi-gr-3-204-stueck-0013775386",
    "promo": null,
    "shipping": 7.95,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Foletti Computer",
+   "name": "Pampers Baby Dry Einwegwindeln, Grösse 4 (9-14 kg), 204 Stück",
+   "price": 57.0,
+   "count": 204,
+   "size": "4",
+   "line": "Baby-Dry",
+   "ppd": 0.2794,
+   "url": "https://superstore.foletti.com/products/8940692?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -649,6 +607,20 @@
    "url": "https://dash.ct0.ch/tc.php?t=116238C2445901161T&deeplink=https%3A%2F%2Fwww.manor.ch%2Fde%2Fp%2F10001958196",
    "promo": null,
    "shipping": 6.5,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Amazon.de",
+   "name": "Pampers Baby-Dry Night Pants, Grösse 5 (12-17 kg), 160 Stück",
+   "price": 45.16,
+   "count": 160,
+   "size": "5",
+   "line": "Baby-Dry Pants",
+   "ppd": 0.2823,
+   "url": "https://www.amazon.de/dp/B0BLW45661/ref=asc_df_B0BLW456611697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW45661&linkCode=df0&language=de_DE",
+   "promo": null,
+   "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -695,20 +667,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Amazon.de",
-   "name": "Pampers Baby-Dry Night Pants, Grösse 5 (12-17 kg), 160 Stück",
-   "price": 45.37,
-   "count": 160,
-   "size": "5",
-   "line": "Baby-Dry Pants",
-   "ppd": 0.2836,
-   "url": "https://www.amazon.de/dp/B0BLW45661/ref=asc_df_B0BLW456611697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW45661&linkCode=df0&language=de_DE",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "OTTO'S",
    "name": "Pampers Premium Protection Grösse 4 Monatsbox 174 Windeln",
    "price": 49.45,
@@ -724,7 +682,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
-   "valid_until": "2026-10-23"
+   "valid_until": "2026-10-24"
   },
   {
    "store": "Buchmann",
@@ -897,11 +855,11 @@
   {
    "store": "Foletti Computer",
    "name": "Pampers Harmonie New Baby Einwegwindeln, Grösse 1 (2-5 kg), 180 Stück",
-   "price": 53.0,
+   "price": 53.15,
    "count": 180,
    "size": "1",
    "line": "Harmonie",
-   "ppd": 0.2944,
+   "ppd": 0.2953,
    "url": "https://superstore.foletti.com/products/8195628?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
@@ -911,11 +869,11 @@
   {
    "store": "Foletti Computer",
    "name": "Pampers Baby-Dry Night Pants, Grösse 4 (9-14 kg), 180 Stück",
-   "price": 53.1,
+   "price": 53.2,
    "count": 180,
    "size": "4",
    "line": "Baby-Dry Pants",
-   "ppd": 0.295,
+   "ppd": 0.2956,
    "url": "https://superstore.foletti.com/products/8940678?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
@@ -1106,7 +1064,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
-   "valid_until": "2026-10-23"
+   "valid_until": "2026-10-24"
   },
   {
    "store": "avento.shop",
@@ -1137,20 +1095,6 @@
    "brand": "Pingo"
   },
   {
-   "store": "electronova-luzern.ch",
-   "name": "Pampers Premium Protection Einwegwindeln, Grösse 2 (4-8 kg), 240 Stück",
-   "price": 62.5,
-   "count": 240,
-   "size": "2",
-   "line": "Premium Protection",
-   "ppd": 0.3021,
-   "url": "https://www.electronova-luzern.ch/products/2567992",
-   "promo": null,
-   "shipping": 10.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "Brack",
    "name": "Pingo XL 6 Einwegwindeln, Grösse 6 (15-30 kg), 192 Stück (Monatsbox)",
    "price": 58.0,
@@ -1163,6 +1107,20 @@
    "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pingo"
+  },
+  {
+   "store": "electronova-luzern.ch",
+   "name": "Pampers Premium Protection Einwegwindeln, Grösse 2 (4-8 kg), 240 Stück",
+   "price": 62.55,
+   "count": 240,
+   "size": "2",
+   "line": "Premium Protection",
+   "ppd": 0.3023,
+   "url": "https://www.electronova-luzern.ch/products/2567992",
+   "promo": null,
+   "shipping": 10.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -1207,20 +1165,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Amazon.de",
-   "name": "Pampers Harmonie Einwegwindeln, Grösse 4 (9-14 kg), 174 Stück",
-   "price": 52.98,
-   "count": 174,
-   "size": "4",
-   "line": "Harmonie",
-   "ppd": 0.3045,
-   "url": "https://www.amazon.de/dp/B0BLW24GPJ/ref=asc_df_B0BLW24GPJ1697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW24GPJ&linkCode=df0&language=de_DE",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "Galaxus",
    "name": "Pampers Baby Dry Einwegwindeln, Grösse 5 (11-16 kg), 174 Stück",
    "price": 53.0,
@@ -1251,11 +1195,11 @@
   {
    "store": "orderflow.ch",
    "name": "Pampers Baby Dry Einwegwindeln, Grösse 4 (9-14 kg), 204 Stück",
-   "price": 62.35,
+   "price": 62.55,
    "count": 204,
    "size": "4",
    "line": "Baby-Dry",
-   "ppd": 0.3056,
+   "ppd": 0.3066,
    "url": "https://www.orderflow.ch/products/15176080",
    "promo": null,
    "shipping": 0.0,
@@ -1293,11 +1237,11 @@
   {
    "store": "Amazon.de",
    "name": "Pampers Baby-Dry Pants Paw Patrol, Grösse 5 (12-17 kg), 160 Stück",
-   "price": 49.91,
+   "price": 49.58,
    "count": 160,
    "size": "5",
    "line": "Baby-Dry Pants",
-   "ppd": 0.3119,
+   "ppd": 0.3099,
    "url": "https://www.amazon.de/dp/B0BLW7L6S5/ref=asc_df_B0BLW7L6S51697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW7L6S5&linkCode=df0&language=de_DE",
    "promo": null,
    "shipping": 0.0,
@@ -1375,20 +1319,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Foletti Computer",
-   "name": "Pampers Premium Protection Einwegwindeln Monatsbox, Grösse 4 (9-14 kg), 174 Stück",
-   "price": 54.6,
-   "count": 174,
-   "size": "4",
-   "line": "Premium Protection",
-   "ppd": 0.3138,
-   "url": "https://superstore.foletti.com/products/8391874?vid=toppreise",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "highdefinition.ch",
    "name": "Pampers Premium Protection Einwegwindeln Monatsbox, Grösse 1 (2-5 kg), 180 Stück",
    "price": 44.0,
@@ -1403,6 +1333,20 @@
    "brand": "Pampers"
   },
   {
+   "store": "Foletti Computer",
+   "name": "Pampers Premium Protection Einwegwindeln Monatsbox, Grösse 4 (9-14 kg), 174 Stück",
+   "price": 54.75,
+   "count": 174,
+   "size": "4",
+   "line": "Premium Protection",
+   "ppd": 0.3147,
+   "url": "https://superstore.foletti.com/products/8391874?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
    "store": "Galaxus",
    "name": "Pampers Premium Protection Pants, Grösse 4 (9-15 kg), 168 Stück",
    "price": 52.9,
@@ -1411,20 +1355,6 @@
    "line": "Premium Protection Pants",
    "ppd": 0.3149,
    "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-pants-gr-4-monatsbox-168-stk-windeln-23688430?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "Amazon.de",
-   "name": "Pampers Premium Protection Pants, Grösse 4 (9-15 kg), 168 Stück",
-   "price": 53.01,
-   "count": 168,
-   "size": "4",
-   "line": "Premium Protection Pants",
-   "ppd": 0.3155,
-   "url": "https://www.amazon.de/dp/B0BLW41T9L/ref=asc_df_B0BLW41T9L1697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW41T9L&linkCode=df0&language=de_DE",
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise",
@@ -1613,20 +1543,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Foletti Computer",
-   "name": "Pampers Baby Dry Einwegwindeln, Grösse 5 (11-16 kg), 174 Stück",
-   "price": 56.6,
-   "count": 174,
-   "size": "5",
-   "line": "Baby-Dry",
-   "ppd": 0.3253,
-   "url": "https://superstore.foletti.com/products/8940696?vid=toppreise",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "Buchmann",
    "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 204 Stück",
    "price": 66.4,
@@ -1642,12 +1558,26 @@
   },
   {
    "store": "Foletti Computer",
+   "name": "Pampers Baby Dry Einwegwindeln, Grösse 5 (11-16 kg), 174 Stück",
+   "price": 56.75,
+   "count": 174,
+   "size": "5",
+   "line": "Baby-Dry",
+   "ppd": 0.3261,
+   "url": "https://superstore.foletti.com/products/8940696?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Foletti Computer",
    "name": "Pampers Baby-Dry Pants, Grösse 4 (9-15 kg), 180 Stück",
-   "price": 58.7,
+   "price": 58.8,
    "count": 180,
    "size": "4",
    "line": "Baby-Dry Pants",
-   "ppd": 0.3261,
+   "ppd": 0.3267,
    "url": "https://superstore.foletti.com/products/9056866?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
@@ -1977,20 +1907,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Foletti Computer",
-   "name": "Pampers Baby-Dry Pants Paw Patrol, Grösse 5 (12-17 kg), 160 Stück",
-   "price": 54.75,
-   "count": 160,
-   "size": "5",
-   "line": "Baby-Dry Pants",
-   "ppd": 0.3422,
-   "url": "https://superstore.foletti.com/products/9056868?vid=toppreise",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "electronova-luzern.ch",
    "name": "Pampers Baby Dry Einwegwindeln, Grösse 3 (6-10 kg), 222 Stück",
    "price": 66.0,
@@ -2015,6 +1931,20 @@
    "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-night-pants-gr-5-monatsbox-160-stk-windeln-23688444?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 4.9,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Foletti Computer",
+   "name": "Pampers Baby-Dry Pants Paw Patrol, Grösse 5 (12-17 kg), 160 Stück",
+   "price": 54.85,
+   "count": 160,
+   "size": "5",
+   "line": "Baby-Dry Pants",
+   "ppd": 0.3428,
+   "url": "https://superstore.foletti.com/products/9056868?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -2215,6 +2145,20 @@
    "brand": "Pampers"
   },
   {
+   "store": "Amazon.de",
+   "name": "Pampers Harmonie Einwegwindeln, Grösse 5 (11-16 kg), 152 Stück",
+   "price": 53.5,
+   "count": 152,
+   "size": "5",
+   "line": "Harmonie",
+   "ppd": 0.352,
+   "url": "https://www.amazon.de/dp/B0BLW6DCPK/ref=asc_df_B0BLW6DCPK1697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW6DCPK&linkCode=df0&language=de_DE",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
    "store": "orderflow.ch",
    "name": "Pampers Baby Dry Einwegwindeln, Grösse 5 (11-16 kg), 174 Stück",
    "price": 61.3,
@@ -2223,20 +2167,6 @@
    "line": "Baby-Dry",
    "ppd": 0.3523,
    "url": "https://www.orderflow.ch/products/15176084",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "Foletti Computer",
-   "name": "Pampers Baby-Dry Night Pants, Grösse 5 (12-17 kg), 160 Stück",
-   "price": 56.45,
-   "count": 160,
-   "size": "5",
-   "line": "Baby-Dry Pants",
-   "ppd": 0.3528,
-   "url": "https://superstore.foletti.com/products/8940686?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise",
@@ -2255,6 +2185,20 @@
    "shipping": 7.0,
    "source": "Toppreise",
    "brand": "Pingo"
+  },
+  {
+   "store": "Foletti Computer",
+   "name": "Pampers Baby-Dry Night Pants, Grösse 5 (12-17 kg), 160 Stück",
+   "price": 56.55,
+   "count": 160,
+   "size": "5",
+   "line": "Baby-Dry Pants",
+   "ppd": 0.3534,
+   "url": "https://superstore.foletti.com/products/8940686?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "eldar.ch",
@@ -2297,20 +2241,6 @@
    "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pingo"
-  },
-  {
-   "store": "Amazon.de",
-   "name": "Pampers Harmonie Einwegwindeln, Grösse 5 (11-16 kg), 152 Stück",
-   "price": 53.85,
-   "count": 152,
-   "size": "5",
-   "line": "Harmonie",
-   "ppd": 0.3543,
-   "url": "https://www.amazon.de/dp/B0BLW6DCPK/ref=asc_df_B0BLW6DCPK1697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW6DCPK&linkCode=df0&language=de_DE",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
   },
   {
    "store": "Buchmann",
@@ -2370,7 +2300,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
-   "valid_until": "2026-10-23"
+   "valid_until": "2026-10-24"
   },
   {
    "store": "Brack",
@@ -2527,20 +2457,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Foletti Computer",
-   "name": "Pampers Premium Protection Einwegwindeln Monatsbox, Grösse 5 (13-16 kg), 152 Stück",
-   "price": 55.0,
-   "count": 152,
-   "size": "5",
-   "line": "Premium Protection",
-   "ppd": 0.3618,
-   "url": "https://superstore.foletti.com/products/7954318?vid=toppreise",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "OTTO'S",
    "name": "Pampers Premium Protection Pants Grösse 5 Monatsbox 144 Pants",
    "price": 52.15,
@@ -2556,7 +2472,21 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
-   "valid_until": "2026-10-23"
+   "valid_until": "2026-10-24"
+  },
+  {
+   "store": "Foletti Computer",
+   "name": "Pampers Premium Protection Einwegwindeln Monatsbox, Grösse 5 (13-16 kg), 152 Stück",
+   "price": 55.1,
+   "count": 152,
+   "size": "5",
+   "line": "Premium Protection",
+   "ppd": 0.3625,
+   "url": "https://superstore.foletti.com/products/7954318?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -2601,20 +2531,6 @@
    "brand": "Pingo"
   },
   {
-   "store": "Foletti Computer",
-   "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 48 Stück",
-   "price": 17.5,
-   "count": 48,
-   "size": "3",
-   "line": "Premium Protection",
-   "ppd": 0.3646,
-   "url": "https://superstore.foletti.com/products/12858656?vid=toppreise",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "ohfeliz.ch",
    "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 204 Stück",
    "price": 68.5,
@@ -2625,20 +2541,6 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-premium-protection-gr3?sai=14505&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "Foletti Computer",
-   "name": "Pampers Premium Protection Pants Monatsbox, Grösse 5 (12-17 kg), 144 Stück",
-   "price": 52.7,
-   "count": 144,
-   "size": "5",
-   "line": "Premium Protection Pants",
-   "ppd": 0.366,
-   "url": "https://superstore.foletti.com/products/8940666?vid=toppreise",
-   "promo": null,
-   "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -2667,6 +2569,34 @@
    "url": "https://www.so-it.ch/products/1380915",
    "promo": null,
    "shipping": 7.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Foletti Computer",
+   "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 48 Stück",
+   "price": 17.6,
+   "count": 48,
+   "size": "3",
+   "line": "Premium Protection",
+   "ppd": 0.3667,
+   "url": "https://superstore.foletti.com/products/12858656?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Foletti Computer",
+   "name": "Pampers Premium Protection Pants Monatsbox, Grösse 5 (12-17 kg), 144 Stück",
+   "price": 52.8,
+   "count": 144,
+   "size": "5",
+   "line": "Premium Protection Pants",
+   "ppd": 0.3667,
+   "url": "https://superstore.foletti.com/products/8940666?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -2728,20 +2658,6 @@
   },
   {
    "store": "Galaxus",
-   "name": "Pampers Premium Protection Einwegwindeln, Grösse 6 (13+ kg), 144 Stück",
-   "price": 53.0,
-   "count": 144,
-   "size": "6",
-   "line": "Premium Protection",
-   "ppd": 0.3681,
-   "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-gr-6-monatsbox-144-stk-windeln-23688429?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "Galaxus",
    "name": "Pampers Premium Protection Pants Monatsbox, Grösse 5 (12-17 kg), 144 Stück",
    "price": 53.0,
    "count": 144,
@@ -2763,20 +2679,6 @@
    "line": "Premium Protection Pants",
    "ppd": 0.3681,
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-pants-junior-groesse-5-1518519?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518519",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "Foletti Computer",
-   "name": "Pampers Harmonie Einwegwindeln, Grösse 4 (9-14 kg), 174 Stück",
-   "price": 64.2,
-   "count": 174,
-   "size": "4",
-   "line": "Harmonie",
-   "ppd": 0.369,
-   "url": "https://superstore.foletti.com/products/8195634?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise",
@@ -2811,6 +2713,34 @@
    "brand": "Pampers"
   },
   {
+   "store": "Foletti Computer",
+   "name": "Pampers Harmonie Einwegwindeln, Grösse 4 (9-14 kg), 174 Stück",
+   "price": 64.35,
+   "count": 174,
+   "size": "4",
+   "line": "Harmonie",
+   "ppd": 0.3698,
+   "url": "https://superstore.foletti.com/products/8195634?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Amazon.de",
+   "name": "Pampers Baby-Dry Pants Paw Patrol, Grösse 6 (14-19 kg), 138 Stück",
+   "price": 51.09,
+   "count": 138,
+   "size": "6",
+   "line": "Baby-Dry Pants",
+   "ppd": 0.3702,
+   "url": "https://www.amazon.de/dp/B0BLW7Z2RF/ref=asc_df_B0BLW7Z2RF1697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW7Z2RF&linkCode=df0&language=de_DE",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
    "store": "Manor",
    "name": "Pampers Premium Protection Einwegwindeln Monatsbox, Grösse 4 (9-14 kg), 174 Stück",
    "price": 57.95,
@@ -2837,20 +2767,6 @@
    "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pingo"
-  },
-  {
-   "store": "Amazon.de",
-   "name": "Pampers Premium Protection Pants Monatsbox, Grösse 5 (12-17 kg), 144 Stück",
-   "price": 53.36,
-   "count": 144,
-   "size": "5",
-   "line": "Premium Protection Pants",
-   "ppd": 0.3706,
-   "url": "https://www.amazon.de/dp/B0BLW5BCZQ/ref=asc_df_B0BLW5BCZQ1697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW5BCZQ&linkCode=df0&language=de_DE",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
   },
   {
    "store": "Brack",
@@ -2937,20 +2853,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Amazon.de",
-   "name": "Pampers Baby-Dry Pants Paw Patrol, Grösse 6 (14-19 kg), 138 Stück",
-   "price": 51.42,
-   "count": 138,
-   "size": "6",
-   "line": "Baby-Dry Pants",
-   "ppd": 0.3726,
-   "url": "https://www.amazon.de/dp/B0BLW7Z2RF/ref=asc_df_B0BLW7Z2RF1697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0BLW7Z2RF&linkCode=df0&language=de_DE",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "bohnettrade.ch",
    "name": "Pampers Baby-Dry Pants, Grösse 4 (9-15 kg), 180 Stück",
    "price": 67.35,
@@ -3008,7 +2910,21 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
-   "valid_until": "2026-10-23"
+   "valid_until": "2026-10-24"
+  },
+  {
+   "store": "Galaxus",
+   "name": "Pampers Premium Protection Einwegwindeln, Grösse 6 (13+ kg), 144 Stück",
+   "price": 54.0,
+   "count": 144,
+   "size": "6",
+   "line": "Premium Protection",
+   "ppd": 0.375,
+   "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-gr-6-monatsbox-144-stk-windeln-23688429?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "orderflow.ch",
@@ -3125,11 +3041,11 @@
   {
    "store": "Foletti Computer",
    "name": "Pampers Baby-Dry Einwegwindeln, Grösse 6 (13-18 kg), 148 Stück",
-   "price": 56.7,
+   "price": 56.8,
    "count": 148,
    "size": "6",
    "line": "Baby-Dry",
-   "ppd": 0.3831,
+   "ppd": 0.3838,
    "url": "https://superstore.foletti.com/products/8940700?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
@@ -3275,20 +3191,6 @@
    "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pingo"
-  },
-  {
-   "store": "Amazon.de",
-   "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 48 Stück",
-   "price": 13.47,
-   "count": 48,
-   "size": "3",
-   "line": "Premium Protection",
-   "ppd": 0.3892,
-   "url": "https://www.amazon.de/dp/B0GHXXTRPF/ref=asc_df_B0GHXXTRPF1697782200000/?tag=toppreisech-21&creative=22662&creativeASIN=B0GHXXTRPF&linkCode=df0&language=de_DE",
-   "promo": null,
-   "shipping": 5.21,
-   "source": "Toppreise",
-   "brand": "Pampers"
   },
   {
    "store": "bohnettrade.ch",
@@ -3559,11 +3461,11 @@
   {
    "store": "Foletti Computer",
    "name": "Pampers Baby-Dry Pants Paw Patrol, Grösse 6 (14-19 kg), 138 Stück",
-   "price": 54.7,
+   "price": 54.8,
    "count": 138,
    "size": "6",
    "line": "Baby-Dry Pants",
-   "ppd": 0.3964,
+   "ppd": 0.3971,
    "url": "https://superstore.foletti.com/products/9056864?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
@@ -3655,20 +3557,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Galaxus",
-   "name": "Pampers Baby Dry Einwegwindeln, Grösse 7 (15+ kg), 132 Stück",
-   "price": 53.0,
-   "count": 132,
-   "size": "7",
-   "line": "Baby-Dry",
-   "ppd": 0.4015,
-   "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-gr-7-monatsbox-132-stk-windeln-23688453?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "orderflow.ch",
    "name": "Pampers Baby-Dry Einwegwindeln, Grösse 6 (13-18 kg), 148 Stück",
    "price": 59.45,
@@ -3707,6 +3595,20 @@
    "url": "https://www.so-it.ch/products/1380937",
    "promo": null,
    "shipping": 7.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "timia.ch",
+   "name": "Pampers Baby-Dry Pants, Grösse 4 (9-15 kg), 180 Stück",
+   "price": 62.9,
+   "count": 180,
+   "size": "4",
+   "line": "Baby-Dry Pants",
+   "ppd": 0.4044,
+   "url": "https://www.timia.ch/products/9178342",
+   "promo": null,
+   "shipping": 9.9,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -3753,20 +3655,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Foletti Computer",
-   "name": "Pampers Premium Protection Einwegwindeln, Grösse 6 (13+ kg), 144 Stück",
-   "price": 58.35,
-   "count": 144,
-   "size": "6",
-   "line": "Premium Protection",
-   "ppd": 0.4052,
-   "url": "https://superstore.foletti.com/products/7954320?vid=toppreise",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "Brack",
    "name": "Pampers Baby-Dry Pants, Grösse 6 (14-19 kg), 138 Stück",
    "price": 55.95,
@@ -3789,6 +3677,20 @@
    "line": "Baby-Dry Pants",
    "ppd": 0.4062,
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-baby-dry-pants-paw-patrol-junior-groesse-5-8006540711767-EK4GL5TC4",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Foletti Computer",
+   "name": "Pampers Premium Protection Einwegwindeln, Grösse 6 (13+ kg), 144 Stück",
+   "price": 58.5,
+   "count": 144,
+   "size": "6",
+   "line": "Premium Protection",
+   "ppd": 0.4062,
+   "url": "https://superstore.foletti.com/products/7954320?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise",
@@ -3894,17 +3796,17 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
-   "valid_until": "2026-10-23"
+   "valid_until": "2026-10-24"
   },
   {
    "store": "Galaxus",
-   "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
+   "name": "Pampers Baby Dry Einwegwindeln, Grösse 7 (15+ kg), 132 Stück",
    "price": 54.0,
    "count": 132,
-   "size": "6",
-   "line": "Premium Protection Pants",
+   "size": "7",
+   "line": "Baby-Dry",
    "ppd": 0.4091,
-   "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-pants-gr-6-monatsbox-132-stk-windeln-23688432?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
+   "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-gr-7-monatsbox-132-stk-windeln-23688453?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise",
@@ -3953,22 +3855,18 @@
    "brand": "Pampers"
   },
   {
-   "store": "Coop Megastore",
-   "name": "Pampers Pants Grösse 7 XXL Pack 15+kg 78 Stück",
-   "price": 32.15,
-   "count": 78,
-   "size": "7",
-   "line": "Andere",
-   "ppd": 0.4122,
-   "url": "https://www.aktionis.ch/deals/pampers-pants-grosse-7-xxl-pack-15-kg-78-stuck",
-   "promo": "statt CHF 53.65 · 40%",
-   "shipping": null,
-   "source": "Aktionis",
-   "brand": "Pampers",
-   "min_packs": 1,
-   "where": "online+filiale",
-   "valid_from": "2026-10-05",
-   "valid_until": "2026-10-28"
+   "store": "Foletti Computer",
+   "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
+   "price": 54.5,
+   "count": 132,
+   "size": "6",
+   "line": "Premium Protection Pants",
+   "ppd": 0.4129,
+   "url": "https://superstore.foletti.com/products/8940668?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
   },
   {
    "store": "Interdiscount",
@@ -4015,11 +3913,11 @@
   {
    "store": "Brack",
    "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
-   "price": 54.65,
+   "price": 54.7,
    "count": 132,
    "size": "6",
    "line": "Premium Protection Pants",
-   "ppd": 0.414,
+   "ppd": 0.4144,
    "url": "https://www.brack.ch/pampers-windeln-premium-protection-pants-extra-large-groesse-6-1518520?utm_source=toppreise&utm_medium=csse&utm_campaign=!cc-csse!e-toppreise!l-d&utm_content=1518520",
    "promo": null,
    "shipping": 0.0,
@@ -4053,6 +3951,20 @@
    "shipping": 7.0,
    "source": "Toppreise",
    "brand": "Pampers"
+  },
+  {
+   "store": "4mybaby AG",
+   "name": "Pingo Mini 2 Einwegwindeln, Grösse 2 (3-6 kg), 42 Stück",
+   "price": 11.55,
+   "count": 42,
+   "size": "2",
+   "line": "Windeln",
+   "ppd": 0.4155,
+   "url": "https://www.4mybaby.ch/pingo-oeko-windeln-v2-SW19849.7-nr-2-mini-einzelpack",
+   "promo": null,
+   "shipping": 5.9,
+   "source": "Toppreise",
+   "brand": "Pingo"
   },
   {
    "store": "eldar.ch",
@@ -4097,14 +4009,14 @@
    "brand": "Pampers"
   },
   {
-   "store": "Foletti Computer",
-   "name": "Pampers Baby Dry Einwegwindeln, Grösse 7 (15+ kg), 132 Stück",
-   "price": 54.95,
+   "store": "Galaxus",
+   "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
+   "price": 54.9,
    "count": 132,
-   "size": "7",
-   "line": "Baby-Dry",
-   "ppd": 0.4163,
-   "url": "https://superstore.foletti.com/products/8940702?vid=toppreise",
+   "size": "6",
+   "line": "Premium Protection Pants",
+   "ppd": 0.4159,
+   "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-pants-gr-6-monatsbox-132-stk-windeln-23688432?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise",
@@ -4133,6 +4045,20 @@
    "line": "Premium Protection",
    "ppd": 0.4164,
    "url": "https://www.apo24.ch/de/pampers/894142/pampers-premium-protection-maat-1-2-5kg-pasgeborenen-180-stuks.html?utm_campaign=cse_toppreise_chfr&utm_source=toppreise&utm_medium=cse&utm_content=fr&utm_term=b2006_p894142_Pampers%20Premium%20Protection%20Maat%201%202-5kg%20Pasgeborenen%20180%20Stuks",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Foletti Computer",
+   "name": "Pampers Baby Dry Einwegwindeln, Grösse 7 (15+ kg), 132 Stück",
+   "price": 55.05,
+   "count": 132,
+   "size": "7",
+   "line": "Baby-Dry",
+   "ppd": 0.417,
+   "url": "https://superstore.foletti.com/products/8940702?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise",
@@ -4196,7 +4122,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
-   "valid_until": "2026-10-23"
+   "valid_until": "2026-10-24"
   },
   {
    "store": "avento.shop",
@@ -4207,20 +4133,6 @@
    "line": "Baby-Dry",
    "ppd": 0.4216,
    "url": "https://www.avento.shop/pampers-baby-dry-l7drqc6urdp.html",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "Foletti Computer",
-   "name": "Pampers Baby Dry Einwegwindeln, Grösse 8 (17+ kg), 120 Stück",
-   "price": 50.6,
-   "count": 120,
-   "size": "8",
-   "line": "Baby-Dry",
-   "ppd": 0.4217,
-   "url": "https://superstore.foletti.com/products/8940704?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise",
@@ -4311,6 +4223,20 @@
    "brand": "Pampers"
   },
   {
+   "store": "Foletti Computer",
+   "name": "Pampers Baby Dry Einwegwindeln, Grösse 8 (17+ kg), 120 Stück",
+   "price": 50.7,
+   "count": 120,
+   "size": "8",
+   "line": "Baby-Dry",
+   "ppd": 0.4225,
+   "url": "https://superstore.foletti.com/products/8940704?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
    "store": "bohnettrade.ch",
    "name": "Pampers Baby-Dry Pants, Grösse 5 (12-17 kg), 160 Stück",
    "price": 67.6,
@@ -4321,6 +4247,20 @@
    "url": "https://www.bohnettrade.ch/products/6477873",
    "promo": null,
    "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Galaxus",
+   "name": "Pampers Baby-Dry Pants, Grösse 7 (17+ kg), 126 Stück",
+   "price": 48.5,
+   "count": 126,
+   "size": "7",
+   "line": "Baby-Dry Pants",
+   "ppd": 0.4238,
+   "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-pants-gr-7-monatsbox-126-stk-windeln-23688437?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
+   "promo": null,
+   "shipping": 4.9,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -4661,20 +4601,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "4mybaby AG",
-   "name": "Pingo Mini 2 Einwegwindeln, Grösse 2 (3-6 kg), 42 Stück",
-   "price": 12.65,
-   "count": 42,
-   "size": "2",
-   "line": "Windeln",
-   "ppd": 0.4417,
-   "url": "https://www.4mybaby.ch/pingo-oeko-windeln-v2-SW19849.7-nr-2-mini-einzelpack",
-   "promo": null,
-   "shipping": 5.9,
-   "source": "Toppreise",
-   "brand": "Pingo"
-  },
-  {
    "store": "bohnettrade.ch",
    "name": "Pampers Premium Protection Pants Monatsbox, Grösse 5 (12-17 kg), 144 Stück",
    "price": 63.65,
@@ -4745,20 +4671,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Galaxus",
-   "name": "Pampers Baby-Dry Pants, Grösse 7 (17+ kg), 126 Stück",
-   "price": 56.0,
-   "count": 126,
-   "size": "7",
-   "line": "Baby-Dry Pants",
-   "ppd": 0.4444,
-   "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-pants-gr-7-monatsbox-126-stk-windeln-23688437?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "electronova-luzern.ch",
    "name": "Pampers Premium Protection Pants, Grösse 4 (9-15 kg), 168 Stück",
    "price": 64.85,
@@ -4783,6 +4695,20 @@
    "url": "https://www.timia.ch/products/9178350",
    "promo": null,
    "shipping": 9.9,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Galaxus",
+   "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 48 Stück",
+   "price": 16.5,
+   "count": 48,
+   "size": "3",
+   "line": "Premium Protection",
+   "ppd": 0.4458,
+   "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-gr-3-48-stk-windeln-66627596?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
+   "promo": null,
+   "shipping": 4.9,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -4873,11 +4799,11 @@
   {
    "store": "so-it.ch",
    "name": "Pampers Baby-Dry Einwegwindeln, Grösse 6 (13-18 kg), 148 Stück",
-   "price": 59.65,
+   "price": 59.7,
    "count": 148,
    "size": "6",
    "line": "Baby-Dry",
-   "ppd": 0.4503,
+   "ppd": 0.4507,
    "url": "https://www.so-it.ch/products/1380955",
    "promo": null,
    "shipping": 7.0,
@@ -4901,11 +4827,11 @@
   {
    "store": "Foletti Computer",
    "name": "Pampers Harmonie Einwegwindeln, Grösse 5 (11-16 kg), 152 Stück",
-   "price": 68.6,
+   "price": 68.7,
    "count": 152,
    "size": "5",
    "line": "Harmonie",
-   "ppd": 0.4513,
+   "ppd": 0.452,
    "url": "https://superstore.foletti.com/products/8195636?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
@@ -4967,20 +4893,6 @@
    "shipping": 12.5,
    "source": "Toppreise",
    "brand": "Pingo"
-  },
-  {
-   "store": "orderflow.ch",
-   "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
-   "price": 60.1,
-   "count": 132,
-   "size": "6",
-   "line": "Premium Protection Pants",
-   "ppd": 0.4553,
-   "url": "https://www.orderflow.ch/products/20932842",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
   },
   {
    "store": "avento.shop",
@@ -5123,6 +5035,20 @@
    "brand": "Pampers"
   },
   {
+   "store": "Galaxus",
+   "name": "Pampers Baby-Dry Pants, Grösse 8 (19+ kg), 117 Stück",
+   "price": 48.9,
+   "count": 117,
+   "size": "8",
+   "line": "Baby-Dry Pants",
+   "ppd": 0.4598,
+   "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-pants-gr-8-monatsbox-117-stk-windeln-23688440?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
+   "promo": null,
+   "shipping": 4.9,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
    "store": "OTTO'S",
    "name": "Pampers Premium Protection Pants Grösse 7 Monatsbox 123 Pants",
    "price": 56.65,
@@ -5138,7 +5064,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-10-11",
-   "valid_until": "2026-10-23"
+   "valid_until": "2026-10-24"
   },
   {
    "store": "newstore.ch",
@@ -5155,44 +5081,16 @@
    "brand": "Pampers"
   },
   {
-   "store": "Galaxus",
-   "name": "Pampers Premium Protection Pants, Grösse 7 (17+ kg), 123 Stück",
-   "price": 57.0,
-   "count": 123,
-   "size": "7",
-   "line": "Premium Protection Pants",
-   "ppd": 0.4634,
-   "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-pants-gr-7-monatsbox-123-stk-windeln-23688446?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "Foletti Computer",
    "name": "Pampers Premium Protection Pants, Grösse 7 (17+ kg), 123 Stück",
-   "price": 57.1,
+   "price": 57.2,
    "count": 123,
    "size": "7",
    "line": "Premium Protection Pants",
-   "ppd": 0.4642,
+   "ppd": 0.465,
    "url": "https://superstore.foletti.com/products/8940688?vid=toppreise",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "Galaxus",
-   "name": "Pampers Baby-Dry Pants, Grösse 8 (19+ kg), 117 Stück",
-   "price": 49.5,
-   "count": 117,
-   "size": "8",
-   "line": "Baby-Dry Pants",
-   "ppd": 0.465,
-   "url": "https://www.galaxus.ch/de/s10/product/pampers-baby-dry-pants-gr-8-monatsbox-117-stk-windeln-23688440?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
-   "promo": null,
-   "shipping": 4.9,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -5267,6 +5165,20 @@
    "brand": "Pampers"
   },
   {
+   "store": "highdefinition.ch",
+   "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 48 Stück",
+   "price": 13.0,
+   "count": 48,
+   "size": "3",
+   "line": "Premium Protection",
+   "ppd": 0.4688,
+   "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Premium-Protection-Gr.3-6-10-kg-N3-48-St%C3%BCck/1747693166.html?ref=tp",
+   "promo": null,
+   "shipping": 9.5,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
    "store": "avento.shop",
    "name": "Pampers Premium Protection Einwegwindeln Monatsbox, Grösse 5 (13-16 kg), 152 Stück",
    "price": 71.25,
@@ -5305,6 +5217,20 @@
    "url": "https://www.timia.ch/products/9178378",
    "promo": null,
    "shipping": 9.9,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Galaxus",
+   "name": "Pampers Premium Protection Pants, Grösse 7 (17+ kg), 123 Stück",
+   "price": 57.9,
+   "count": 123,
+   "size": "7",
+   "line": "Premium Protection Pants",
+   "ppd": 0.4707,
+   "url": "https://www.galaxus.ch/de/s10/product/pampers-premium-protection-pants-gr-7-monatsbox-123-stk-windeln-23688446?offertype=retail&offerid=406802&utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc",
+   "promo": null,
+   "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -5459,20 +5385,6 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-premium-protection-windeln-gr-3-6-10kg-n3-48-stuck/",
    "promo": null,
    "shipping": 9.9,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "Foletti Computer",
-   "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
-   "price": 62.95,
-   "count": 132,
-   "size": "6",
-   "line": "Premium Protection Pants",
-   "ppd": 0.4769,
-   "url": "https://superstore.foletti.com/products/8940668?vid=toppreise",
-   "promo": null,
-   "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -5771,20 +5683,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "Foletti Computer",
-   "name": "Pampers Baby-Dry Pants, Grösse 8 (19+ kg), 117 Stück",
-   "price": 57.5,
-   "count": 117,
-   "size": "8",
-   "line": "Baby-Dry Pants",
-   "ppd": 0.4915,
-   "url": "https://superstore.foletti.com/products/8940680?vid=toppreise",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "Interdiscount",
    "name": "Pingo Mini 2 Einwegwindeln, Grösse 2 (3-6 kg), 42 Stück",
    "price": 12.7,
@@ -5809,6 +5707,20 @@
    "url": "https://newstore.ch/nicht-kategorisiert/pampers-windeln-premium-protection-pants-junior-groesse-5/",
    "promo": null,
    "shipping": 9.9,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "Foletti Computer",
+   "name": "Pampers Baby-Dry Pants, Grösse 8 (19+ kg), 117 Stück",
+   "price": 57.6,
+   "count": 117,
+   "size": "8",
+   "line": "Baby-Dry Pants",
+   "ppd": 0.4923,
+   "url": "https://superstore.foletti.com/products/8940680?vid=toppreise",
+   "promo": null,
+   "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -5925,20 +5837,6 @@
    "brand": "Pampers"
   },
   {
-   "store": "timia.ch",
-   "name": "Pampers Baby-Dry Einwegwindeln, Grösse 6 (13-18 kg), 148 Stück",
-   "price": 63.6,
-   "count": 148,
-   "size": "6",
-   "line": "Baby-Dry",
-   "ppd": 0.4966,
-   "url": "https://www.timia.ch/products/9178368",
-   "promo": null,
-   "shipping": 9.9,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
    "store": "highdefinition.ch",
    "name": "Pampers Baby-Dry Night Pants, Grösse 5 (12-17 kg), 160 Stück",
    "price": 67.0,
@@ -5949,6 +5847,20 @@
    "url": "https://www.highdefinition.ch/product/Pampers-Nachtwindeln-Baby-Dry-Night-Pants-Gr%C3%B6sse-5/1511706413.html?ref=tp",
    "promo": null,
    "shipping": 12.5,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "timia.ch",
+   "name": "Pampers Baby-Dry Einwegwindeln, Grösse 6 (13-18 kg), 148 Stück",
+   "price": 63.65,
+   "count": 148,
+   "size": "6",
+   "line": "Baby-Dry",
+   "ppd": 0.497,
+   "url": "https://www.timia.ch/products/9178368",
+   "promo": null,
+   "shipping": 9.9,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -6303,6 +6215,20 @@
    "brand": "Pampers"
   },
   {
+   "store": "orderflow.ch",
+   "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
+   "price": 69.2,
+   "count": 132,
+   "size": "6",
+   "line": "Premium Protection Pants",
+   "ppd": 0.5242,
+   "url": "https://www.orderflow.ch/products/20932842",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
    "store": "timia.ch",
    "name": "Pampers Baby-Dry Pants, Grösse 6 (14-19 kg), 138 Stück",
    "price": 62.45,
@@ -6430,20 +6356,6 @@
   },
   {
    "store": "electronova-luzern.ch",
-   "name": "Pampers Baby-Dry Einwegwindeln, Grösse 6 (13-18 kg), 148 Stück",
-   "price": 68.35,
-   "count": 148,
-   "size": "6",
-   "line": "Baby-Dry",
-   "ppd": 0.5294,
-   "url": "https://www.electronova-luzern.ch/products/2419702",
-   "promo": null,
-   "shipping": 10.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "electronova-luzern.ch",
    "name": "Pampers Premium Protection Pants Monatsbox, Grösse 5 (12-17 kg), 144 Stück",
    "price": 66.25,
    "count": 144,
@@ -6451,6 +6363,20 @@
    "line": "Premium Protection Pants",
    "ppd": 0.5295,
    "url": "https://www.electronova-luzern.ch/products/2419664",
+   "promo": null,
+   "shipping": 10.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "electronova-luzern.ch",
+   "name": "Pampers Baby-Dry Einwegwindeln, Grösse 6 (13-18 kg), 148 Stück",
+   "price": 68.4,
+   "count": 148,
+   "size": "6",
+   "line": "Baby-Dry",
+   "ppd": 0.5297,
+   "url": "https://www.electronova-luzern.ch/products/2419702",
    "promo": null,
    "shipping": 10.0,
    "source": "Toppreise",
@@ -6487,11 +6413,11 @@
   {
    "store": "avento.shop",
    "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
-   "price": 70.45,
+   "price": 70.5,
    "count": 132,
    "size": "6",
    "line": "Premium Protection Pants",
-   "ppd": 0.5337,
+   "ppd": 0.5341,
    "url": "https://www.avento.shop/pampers-premium-protection-pants-tsg2ajdfndk.html",
    "promo": null,
    "shipping": 0.0,
@@ -6653,6 +6579,20 @@
    "brand": "Pampers"
   },
   {
+   "store": "timia.ch",
+   "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
+   "price": 62.15,
+   "count": 132,
+   "size": "6",
+   "line": "Premium Protection Pants",
+   "ppd": 0.5458,
+   "url": "https://www.timia.ch/products/9178332",
+   "promo": null,
+   "shipping": 9.9,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
    "store": "Interdiscount",
    "name": "Pingo New Born Einwegwindeln, Grösse 1 (2-5 kg), 27 Stück",
    "price": 6.85,
@@ -6677,20 +6617,6 @@
    "url": "https://eldar.ch/haus-produkt/pampers-windeln-premium-protection-pants-extra-large-groesse-7-8006540759059-WDL63X5M6",
    "promo": null,
    "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "highdefinition.ch",
-   "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
-   "price": 59.95,
-   "count": 132,
-   "size": "6",
-   "line": "Premium Protection Pants",
-   "ppd": 0.5489,
-   "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Premium-Protection-Pants-Extra-Large-Gr%C3%B6sse-6/1511708502.html?ref=tp",
-   "promo": null,
-   "shipping": 12.5,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -6989,6 +6915,20 @@
    "brand": "Pingo"
   },
   {
+   "store": "electronova-luzern.ch",
+   "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
+   "price": 65.6,
+   "count": 132,
+   "size": "6",
+   "line": "Premium Protection Pants",
+   "ppd": 0.5727,
+   "url": "https://www.electronova-luzern.ch/products/2419666",
+   "promo": null,
+   "shipping": 10.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
    "store": "newstore.ch",
    "name": "Pampers Baby Dry Einwegwindeln, Grösse 8 (17+ kg), 120 Stück",
    "price": 58.95,
@@ -7069,6 +7009,20 @@
    "url": "https://www.ohfeliz.ch/de-CH/pampers/windeln-premium-protection-gr6?sai=14514&utm_source=toppreise&utm_medium=cpc&utm_campaign=Preisvergleich",
    "promo": null,
    "shipping": 5.9,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "highdefinition.ch",
+   "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
+   "price": 64.0,
+   "count": 132,
+   "size": "6",
+   "line": "Premium Protection Pants",
+   "ppd": 0.5795,
+   "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Premium-Protection-Pants-Extra-Large-Gr%C3%B6sse-6/1511708502.html?ref=tp",
+   "promo": null,
+   "shipping": 12.5,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -7321,20 +7275,6 @@
    "url": "https://go.adt212.net/t/t?a=1713905026&as=1592231440&t=2&tk=1&epi=Pampers+Premium+Protection+Windeln+Gr.3+Midi+6-10kg+48+St%C3%BCck&cupa_sku=7496422&fid=1232&url=https://www.coop-city.ch/de/baby-kind/windeln-wickeln/windeln/windeln/pampers-premium-protection-windeln-gr3-midi-6-10kg-48-stueck/p/7496422",
    "promo": null,
    "shipping": 9.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "highdefinition.ch",
-   "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 48 Stück",
-   "price": 19.45,
-   "count": 48,
-   "size": "3",
-   "line": "Premium Protection",
-   "ppd": 0.6031,
-   "url": "https://www.highdefinition.ch/product/Pampers-Windeln-Premium-Protection-Gr.3-6-10-kg-N3-48-St%C3%BCck/1747693166.html?ref=tp",
-   "promo": null,
-   "shipping": 9.5,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -7997,6 +7937,20 @@
    "brand": "Pampers"
   },
   {
+   "store": "techstudio.ch",
+   "name": "Pampers Baby-Dry Pants Paw Patrol, Grösse 5 (12-17 kg), 160 Stück",
+   "price": 123.0,
+   "count": 160,
+   "size": "5",
+   "line": "Baby-Dry Pants",
+   "ppd": 0.7688,
+   "url": "https://techstudio.ch/products/pampers-baby-dry-pants-paw-patrol-edition-grosse-5-160-windeln-11kg-17kg-360-passform-hilft-aus",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
    "store": "puravita.ch",
    "name": "Pampers Premium Protection Pants, Grösse 6 (15+ kg), 132 Stück",
    "price": 103.1,
@@ -8005,20 +7959,6 @@
    "line": "Premium Protection Pants",
    "ppd": 0.7811,
    "url": "https://www.puravita.ch/de_ch/pampers-premium-protection-pants-gr-6-15-kg-extra-large-monatsbox-132-stueck",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "techstudio.ch",
-   "name": "Pampers Baby-Dry Pants Paw Patrol, Grösse 5 (12-17 kg), 160 Stück",
-   "price": 125.0,
-   "count": 160,
-   "size": "5",
-   "line": "Baby-Dry Pants",
-   "ppd": 0.7812,
-   "url": "https://techstudio.ch/products/pampers-baby-dry-pants-paw-patrol-edition-grosse-5-160-windeln-11kg-17kg-360-passform-hilft-aus",
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise",
@@ -8221,6 +8161,20 @@
    "brand": "Pampers"
   },
   {
+   "store": "techstudio.ch",
+   "name": "Pampers Baby Dry Einwegwindeln, Grösse 5 (11-16 kg), 174 Stück",
+   "price": 152.0,
+   "count": 174,
+   "size": "5",
+   "line": "Baby-Dry",
+   "ppd": 0.8736,
+   "url": "https://techstudio.ch/products/pampers-windeln-grsse-5-11-16kg-baby-dry-junior-monatsbox-bis-zu-12-stunden-rundum-auslaufschutz-1er-pack-174-stck-neu-grsse-5-174-stck",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
    "store": "vitaserv.ch",
    "name": "Pampers Premium Protection Einwegwindeln, Grösse 5 (11-16 kg), 34 Stück",
    "price": 24.1,
@@ -8257,34 +8211,6 @@
    "line": "Baby-Dry Pants",
    "ppd": 0.9062,
    "url": "https://techstudio.ch/products/pampers-baby-dry-pants-grosse-5-160-windeln-11kg-17kg-360-passform-hilft-auslaufen-zu-verhinder",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "techstudio.ch",
-   "name": "Pampers Premium Protection Einwegwindeln Monatsbox, Grösse 5 (13-16 kg), 152 Stück",
-   "price": 138.0,
-   "count": 152,
-   "size": "5",
-   "line": "Premium Protection",
-   "ppd": 0.9079,
-   "url": "https://techstudio.ch/products/pampers-premium-protection-grosse-5-152-windeln-11kg-16kg-unser-nr-1-haut-und-auslaufschutz-gro",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers"
-  },
-  {
-   "store": "techstudio.ch",
-   "name": "Pampers Baby Dry Einwegwindeln, Grösse 5 (11-16 kg), 174 Stück",
-   "price": 158.0,
-   "count": 174,
-   "size": "5",
-   "line": "Baby-Dry",
-   "ppd": 0.908,
-   "url": "https://techstudio.ch/products/pampers-windeln-grsse-5-11-16kg-baby-dry-junior-monatsbox-bis-zu-12-stunden-rundum-auslaufschutz-1er-pack-174-stck-neu-grsse-5-174-stck",
    "promo": null,
    "shipping": 0.0,
    "source": "Toppreise",
@@ -8371,6 +8297,20 @@
    "url": "https://www.electronova-luzern.ch/products/2680386",
    "promo": null,
    "shipping": 10.0,
+   "source": "Toppreise",
+   "brand": "Pampers"
+  },
+  {
+   "store": "techstudio.ch",
+   "name": "Pampers Premium Protection Einwegwindeln Monatsbox, Grösse 5 (13-16 kg), 152 Stück",
+   "price": 145.0,
+   "count": 152,
+   "size": "5",
+   "line": "Premium Protection",
+   "ppd": 0.9539,
+   "url": "https://techstudio.ch/products/pampers-premium-protection-grosse-5-152-windeln-11kg-16kg-unser-nr-1-haut-und-auslaufschutz-gro",
+   "promo": null,
+   "shipping": 0.0,
    "source": "Toppreise",
    "brand": "Pampers"
   },
@@ -8528,20 +8468,6 @@
    "where": "filiale",
    "valid_from": "2026-10-22",
    "text": "PAMPERS Windeln Baby Dry: CHF 24.99, Diverse Sorten Pro 70-132 Stück 1 Stk. = 0.36-0.19"
-  },
-  {
-   "store": "Lidl",
-   "url": "https://www.aktionis.ch/deals/pampers-windeln-baby-dry-19",
-   "where": "filiale",
-   "valid_from": "2026-10-22",
-   "valid_until": "2026-10-22",
-   "source": "Aktionis",
-   "hint": true,
-   "text": "PAMPERS Windeln Baby Dry",
-   "discount": null,
-   "size": null,
-   "line": "Baby-Dry",
-   "brand": "Pampers"
   }
  ]
 }

@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-13T13:22+01:00",
+ "updated": "2026-11-13T23:02+01:00",
  "sources": [
   {
    "name": "Toppreise",
    "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "error": "keine Produkte gefunden"
   },
   {
    "name": "Müller",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:02+01:00",
+ "updated": "2026-11-14T12:36+01:00",
  "sources": [
   {
    "name": "Toppreise",
@@ -54,7 +54,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-11-01",
-   "valid_until": "2026-11-14"
+   "valid_until": "2026-11-15"
   },
   {
    "store": "OTTO'S",
@@ -72,7 +72,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-11-01",
-   "valid_until": "2026-11-14"
+   "valid_until": "2026-11-15"
   },
   {
    "store": "OTTO'S",
@@ -90,7 +90,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-11-01",
-   "valid_until": "2026-11-14"
+   "valid_until": "2026-11-15"
   },
   {
    "store": "OTTO'S",
@@ -108,7 +108,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-11-01",
-   "valid_until": "2026-11-14"
+   "valid_until": "2026-11-15"
   },
   {
    "store": "OTTO'S",
@@ -126,7 +126,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-11-01",
-   "valid_until": "2026-11-14"
+   "valid_until": "2026-11-15"
   },
   {
    "store": "OTTO'S",
@@ -144,7 +144,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-11-01",
-   "valid_until": "2026-11-14"
+   "valid_until": "2026-11-15"
   },
   {
    "store": "OTTO'S",
@@ -162,7 +162,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-11-01",
-   "valid_until": "2026-11-14"
+   "valid_until": "2026-11-15"
   },
   {
    "store": "OTTO'S",
@@ -180,7 +180,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-11-01",
-   "valid_until": "2026-11-14"
+   "valid_until": "2026-11-15"
   },
   {
    "store": "OTTO'S",
@@ -198,7 +198,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-11-01",
-   "valid_until": "2026-11-14"
+   "valid_until": "2026-11-15"
   },
   {
    "store": "OTTO'S",
@@ -216,7 +216,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-11-01",
-   "valid_until": "2026-11-14"
+   "valid_until": "2026-11-15"
   },
   {
    "store": "OTTO'S",
@@ -234,7 +234,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-11-01",
-   "valid_until": "2026-11-14"
+   "valid_until": "2026-11-15"
   },
   {
    "store": "OTTO'S",
@@ -252,7 +252,7 @@
    "min_packs": 1,
    "where": "online",
    "valid_from": "2026-11-01",
-   "valid_until": "2026-11-14"
+   "valid_until": "2026-11-15"
   }
  ],
  "hints": [

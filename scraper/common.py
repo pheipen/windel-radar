@@ -44,7 +44,7 @@ def parse_size(s):
     if not found:
         # Sizes only named ('Maxi', 'Junior') - only when exactly one name matches
         for name, n in NAMED_SIZES.items():
-            if re.search(r"\b" + name + r"\b", s):
+            if re.search(r"\b" + name + r"\b(?![-\s]?pack)", s):  # 'Maxi-Pack' is a pack size
                 if n is None:
                     return None
                 found.add(n)
@@ -85,7 +85,7 @@ def parse_line(s):
         return "Premium Protection Pants" if pants else "Premium Protection"
     if "harmonie" in s or "harmony" in s:
         return "Harmonie"
-    if "baby dry" in s:
+    if "baby dry" in s or "night pants" in s:  # Night Pants are Baby-Dry Pants for nights
         return "Baby-Dry Pants" if pants else "Baby-Dry"
     return "Andere"
 
@@ -105,7 +105,7 @@ def entry(store, name, price, count, size, line, url, promo=None, shipping=None,
 def ldjson_products(page):
     """schema.org Product entries (name, url, price) from ld+json blocks."""
     out = []
-    for block in re.findall(r'<script type="application/ld\+json"[^>]*>(.*?)</script>', page, re.S):
+    for block in re.findall(r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>', page, re.S):
         try:
             data = json.loads(block)
         except ValueError:

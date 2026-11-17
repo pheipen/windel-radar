@@ -1,4 +1,4 @@
-"""Müller Drogerie (mueller.ch)."""
+"""Müller Drogerie (mueller.ch). Blocks all automated requests since 2026-11-10 (403 / "Client Challenge"), tried each run."""
 import re
 from concurrent.futures import ThreadPoolExecutor
 

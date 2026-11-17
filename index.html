@@ -99,6 +99,8 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--accent); outlin
 #more { width: 100%; min-height: 48px; margin-top: 10px; border-radius: 14px; border: 1px solid var(--line); background: var(--card); color: var(--ink); font-size: 15px; font-weight: 600; font-family: inherit; }
 .empty { color: var(--muted); text-align: center; padding: 28px 0; }
 #status { color: var(--muted); font-size: 12px; margin-top: 22px; line-height: 1.6; }
+#stale { background: var(--promo-soft); color: var(--promo); border: 2px solid var(--promo); border-radius: 14px; padding: 12px 14px; margin-bottom: 16px; font-weight: 700; font-size: 15px; }
+#stale small { display: block; font-weight: 500; font-size: 13px; margin-top: 2px; }
 </style>
 </head>
 <body>
@@ -107,6 +109,8 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--accent); outlin
     <h1>Windel-Radar</h1>
     <div id="updated">lädt …</div>
   </header>
+
+  <div id="stale" role="alert" hidden></div>
 
   <div id="brand" role="group" aria-label="Marke">
     <button data-brand="Pampers">Pampers</button><button data-brand="Pingo">Pingo</button>
@@ -181,6 +185,7 @@ function card(r, best) {
     <div class="row1"><span class="store">${esc(r.store)}</span>
       <span class="ppd">CHF ${ppd(r.ppd)} <small>/ Windel</small></span></div>
     <div class="meta">CHF ${chf(r.price)}${packs}${ship} · ${r.count} Stück</div>
+    <div class="meta">Stand ${r.at ? when(r.at) : "unbekannt"}${r.source !== r.store ? " · via " + esc(r.source) : ""}</div>
     <div class="name">${esc(r.name)}</div>
     <div class="tags">${r.promo ? `<span class="tag">Aktion: ${esc(r.promo)}</span>` : ""}${dealTags(r)}<span class="go">${r.source === "Aktionis" ? "Zur Aktion ›" : "Zum Shop ›"}</span></div>`;
 }
@@ -257,11 +262,15 @@ async function load() {
       fetch("data/history.json", { cache: "no-store" }).then((r) => r.json()).catch(() => ({})),
     ]);
     data = p; history = h;
-    $("updated").textContent = "Aktualisiert " + when(p.updated);
+    const fresh = p.fresh || p.updated;
+    $("updated").textContent = "Stand: " + when(fresh);
+    const age = (Date.now() - new Date(fresh)) / 36e5;
+    $("stale").hidden = age <= 24;
+    $("stale").innerHTML = `Achtung: Preise sind ${age < 48 ? Math.round(age) + " Stunden" : Math.round(age / 24) + " Tage"} alt<small>Seit ${when(fresh)} kamen keine neuen Preise rein. Vor dem Kauf im Shop nachprüfen.</small>`;
     const name = (s) => s.name === "Aktionis" ? "aktionis.ch" : s.name;
-    const down = p.sources.filter((s) => !s.ok).map((s) => `${esc(name(s))}${["Coop", "Migros"].includes(s.name) ? "-Shop" : ""}: zurzeit nicht verfügbar`);
-    const up = p.sources.filter((s) => s.ok).map((s) => esc(name(s)));
-    $("status").innerHTML = `Quellen: ${up.join(", ")}<br>${down.join("<br>")}<br>Toppreise enthält u. a. Galaxus, Brack, Manor, Interdiscount und Coop City. Aktionen von Coop, Migros, Denner, Lidl, OTTO'S, SPAR und Volg kommen über aktionis.ch, für Aldi gibt es keine Quelle. Preise ohne Gewähr.`;
+    const line = (s) => s.ok ? `${esc(name(s))}: ${s.count} · ${when(s.at)}`
+      : `${esc(name(s))}: zurzeit nicht erreichbar${s.at ? `, letzte Preise von ${when(s.at)}${s.kept ? ` (${s.kept} behalten)` : ""}` : ""}`;
+    $("status").innerHTML = `Quellen (letzter Lauf ${when(p.updated)}):<br>${p.sources.map(line).join("<br>")}<br>Toppreise enthält u. a. Galaxus, Brack, Manor, Interdiscount und Coop City. Aktionen von Coop, Migros, Denner, Lidl, OTTO'S, SPAR und Volg kommen zusätzlich über aktionis.ch. Preise ohne Gewähr.`;
   } catch {
     $("updated").textContent = "Keine Daten";
     $("list").innerHTML = `<div class="empty">Preise konnten nicht geladen werden. Später nochmals versuchen.</div>`;

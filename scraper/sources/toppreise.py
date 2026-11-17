@@ -1,10 +1,9 @@
 """toppreise.ch: price comparison incl. Galaxus, Brack, Manor, Interdiscount, Coop City, drugstores."""
 import re
-import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
-from common import EXCLUDE, LINES, UA, entry, fetch, parse_count, parse_line, parse_size, text
+from common import EXCLUDE, UA, entry, fetch, parse_count, parse_line, parse_size, text
 
 NAME = "Toppreise"
 BASE = "https://www.toppreise.ch"
@@ -12,13 +11,18 @@ SHOPS = {"brack.ch ag": "Brack", "interdiscount": "Interdiscount", "galaxus": "G
          "coop-city.ch": "Coop City", "digitec": "Digitec"}
 
 
+BRANDS = ["Pampers-h2589", "Pingo-h2611"]  # manufacturer listings; free-text search needs a captcha since 2026-11-11
+
+
 def product_urls():
     urls = set()
-    queries = [f"pampers {line} {size}" for line in LINES for size in range(1, 9)]
-    queries += ["pingo windeln", "pingo pants"] + [f"pingo {size}" for size in range(1, 9)]
-    with ThreadPoolExecutor(4) as pool:
-        for page in pool.map(lambda q: fetch(f"{BASE}/produktsuche?q={urllib.parse.quote(q)}"), queries):
-            urls |= set(re.findall(r'href="(/preisvergleich/Baby-Kinderpflege/(?:PAMPERS|PINGO)-[^"]+-p\d+)"', page))
+    for brand in BRANDS:
+        for p in range(30):  # listing repeats page 0 past the end
+            found = set(re.findall(r'href="(/preisvergleich/[^/"]+/(?:PAMPERS|PINGO)-[^"]+-p\d+)"',
+                                   fetch(f"{BASE}/produktsuche/{brand}?p={p}")))
+            if not found - urls:
+                break
+            urls |= found
     return sorted(u for u in urls if not EXCLUDE.search(u))
 
 

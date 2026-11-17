@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Copy to ~/Library/LaunchAgents/ and load: launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/ch.pheipen.windel-radar.plist
+     launchd starts a run missed during sleep right after wake-up; RunAtLoad covers a Mac that was switched off. -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>ch.pheipen.windel-radar</string>
+  <key>ProgramArguments</key>
+  <array><string>/bin/zsh</string><string>/Users/philipp/Windel-Radar/scraper/mac-run.sh</string></array>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Hour</key><integer>6</integer><key>Minute</key><integer>23</integer></dict>
+    <dict><key>Hour</key><integer>12</integer><key>Minute</key><integer>23</integer></dict>
+    <dict><key>Hour</key><integer>18</integer><key>Minute</key><integer>23</integer></dict>
+  </array>
+  <key>RunAtLoad</key><true/>
+  <key>StandardOutPath</key><string>/Users/philipp/Library/Logs/windel-radar.log</string>
+  <key>StandardErrorPath</key><string>/Users/philipp/Library/Logs/windel-radar.log</string>
+</dict>
+</plist>

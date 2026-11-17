@@ -1,7 +1,5 @@
 """Lidl Schweiz: weekly offers. Offers without size ('diverse Sorten') become hints."""
-import html
 import json
-import re
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -10,13 +8,10 @@ from common import EXCLUDE, entry, fetch, parse_count, parse_line, parse_size, t
 NAME = "Lidl"
 
 
-def parse(page):
+def parse(found):
+    """found = the search API's answer; offers live in items[].gridbox.data."""
     rows = []
-    for raw in re.findall(r'data-grid-data="(\{.*?\})"', page):
-        try:
-            d = json.loads(html.unescape(raw))
-        except ValueError:
-            continue
+    for d in (i.get("gridbox", {}).get("data", {}) for i in found.get("items", [])):
         title = d.get("fullTitle", "")
         if (d.get("brand") or {}).get("name", "").lower() != "pampers" or EXCLUDE.search(title):
             continue
@@ -40,4 +35,8 @@ def parse(page):
 
 
 def scrape():
-    return parse(fetch("https://www.lidl.ch/q/de-CH/search?q=pampers"))
+    # the HTML search answers 404 when nothing matches; the JSON API says {"type": "empty"} instead
+    found = json.loads(fetch("https://www.lidl.ch/q/api/search?q=pampers&locale=de_CH&assortment=CH&version=2.1.0"))
+    if found.get("type") not in ("search", "empty"):
+        raise RuntimeError(f"unerwartete Antwort: {found.get('type')}")
+    return parse(found)

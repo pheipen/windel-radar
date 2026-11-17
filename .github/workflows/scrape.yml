@@ -1,8 +1,9 @@
 name: Preise holen
+# Backup only: the Mac (scraper/mac-run.sh, 06:23/12:23/18:23) is the main scraper.
 on:
   schedule:
-    # 06:23/12:23/18:23 Zürich im Sommer (Winter 1 h früher); odd minute because GitHub delays/drops runs at :00
-    - cron: "23 4,10,16 * * *"
+    # 1 h after the Mac in winter, 2 h in summer; odd minute because GitHub delays/drops runs at :00
+    - cron: "23 6,12,18 * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -16,14 +17,28 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
-      - name: Selbsttest
-        run: python scraper/test_parse.py && python scraper/test_aktionis.py
-      - name: Preise holen
-        run: python scraper/run.py
-      - name: Speichern
+      - name: Mac aktiv?
+        id: mac
         run: |
+          python - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json, datetime as d
+          p = json.load(open("data/prices.json"))
+          age = d.datetime.now(d.timezone.utc) - d.datetime.fromisoformat(p.get("fresh") or p["updated"])
+          print("skip=" + ("true" if age < d.timedelta(hours=5) else "false"))
+          print(f"Letzte frische Preise vor {age}", file=__import__("sys").stderr)
+          EOF
+      - name: Selbsttest
+        run: python scraper/test_parse.py && python scraper/test_aktionis.py && python scraper/test_sources.py
+      - name: Preise holen
+        if: steps.mac.outputs.skip != 'true' || github.event_name == 'workflow_dispatch'
+        run: python scraper/run.py
+      - name: Speichern (nur wenn dieser Lauf frische Preise hat)
+        if: steps.mac.outputs.skip != 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          python -c "import json,sys; p=json.load(open('data/prices.json')); sys.exit(p['fresh'] != p['updated'])" \
+            || { echo "keine frischen Preise, nichts gespeichert"; exit 0; }
           git config user.name "windel-radar-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || git commit -m "Preise $(TZ=Europe/Zurich date '+%Y-%m-%d %H:%M')"
-          git push
+          git diff --cached --quiet || git commit -m "Preise $(TZ=Europe/Zurich date '+%Y-%m-%d %H:%M') (Action)"
+          git push || echo "Mac hat inzwischen neuere Daten gepusht, nichts gespeichert"

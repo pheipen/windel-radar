@@ -1,53 +1,59 @@
 {
- "updated": "2026-11-17T20:54+01:00",
+ "updated": "2026-11-18T06:30+01:00",
  "fresh": "2026-11-17T20:54+01:00",
  "sources": [
   {
    "name": "Toppreise",
-   "ok": true,
-   "count": 1363,
-   "at": "2026-11-17T20:54+01:00"
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
+   "at": "2026-11-17T20:54+01:00",
+   "kept": 1350
   },
   {
    "name": "Migros",
-   "ok": true,
-   "count": 21,
-   "at": "2026-11-17T20:54+01:00"
+   "ok": false,
+   "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+   "at": "2026-11-17T20:54+01:00",
+   "kept": 21
   },
   {
    "name": "Denner",
-   "ok": true,
-   "count": 4,
-   "at": "2026-11-17T20:54+01:00"
+   "ok": false,
+   "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+   "at": "2026-11-17T20:54+01:00",
+   "kept": 4
   },
   {
    "name": "Aldi",
-   "ok": true,
-   "count": 1,
-   "at": "2026-11-17T20:54+01:00"
+   "ok": false,
+   "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+   "at": "2026-11-17T20:54+01:00",
+   "kept": 1
   },
   {
    "name": "Lidl",
-   "ok": true,
-   "count": 0,
-   "at": "2026-11-17T20:54+01:00"
+   "ok": false,
+   "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+   "at": "2026-11-17T20:54+01:00",
+   "kept": 0
   },
   {
    "name": "Aktionis",
-   "ok": true,
-   "count": 4,
-   "at": "2026-11-17T20:54+01:00"
+   "ok": false,
+   "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+   "at": "2026-11-17T20:54+01:00",
+   "kept": 4
   },
   {
    "name": "Müller",
    "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden",
+   "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
    "kept": 0
   },
   {
    "name": "Coop",
    "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden",
+   "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
    "kept": 0
   }
  ],

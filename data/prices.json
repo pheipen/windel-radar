@@ -1,42 +1,43 @@
 {
- "updated": "2026-11-20T18:37+01:00",
- "fresh": "2026-11-20T18:37+01:00",
+ "updated": "2026-11-21T01:04+01:00",
+ "fresh": "2026-11-21T01:04+01:00",
  "sources": [
   {
    "name": "Toppreise",
-   "ok": true,
-   "count": 1363,
-   "at": "2026-11-20T18:37+01:00"
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden",
+   "at": "2026-11-20T18:37+01:00",
+   "kept": 1348
   },
   {
    "name": "Migros",
    "ok": true,
    "count": 21,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "name": "Denner",
    "ok": true,
    "count": 4,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "name": "Aldi",
    "ok": true,
    "count": 1,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "name": "Lidl",
    "ok": true,
    "count": 0,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "name": "Aktionis",
    "ok": true,
    "count": 2,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "name": "Müller",
@@ -83,7 +84,7 @@
    "where": "filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "Galaxus",
@@ -581,7 +582,7 @@
    "where": "filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "so-it.ch",
@@ -959,7 +960,7 @@
    "where": "filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "ohfeliz.ch",
@@ -1667,7 +1668,7 @@
    "where": "filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "Foletti Computer",
@@ -3966,7 +3967,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "bohnettrade.ch",
@@ -4779,21 +4780,6 @@
    "at": "2026-11-20T18:37+01:00"
   },
   {
-   "store": "highdefinition.ch",
-   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
-   "price": 73.0,
-   "count": 240,
-   "size": "4",
-   "line": "Windeln",
-   "ppd": 0.3563,
-   "url": "https://www.highdefinition.ch/product/Pingo-Windeln-%C3%96kowindeln-Gr%C3%B6sse-4-Maxi/1530637968.html?ref=tp",
-   "promo": null,
-   "shipping": 12.5,
-   "source": "Toppreise",
-   "brand": "Pingo",
-   "at": "2026-11-20T18:37+01:00"
-  },
-  {
    "store": "Migros",
    "name": "Pampers Premium Protection · Windeln · Gr.2,4-8kg 56 Stk",
    "price": 19.95,
@@ -4810,6 +4796,21 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
+   "at": "2026-11-21T01:04+01:00"
+  },
+  {
+   "store": "highdefinition.ch",
+   "name": "Pingo Maxi 4 Einwegwindeln, Grösse 4 (7-18 kg), 240 Stück (Monatsbox)",
+   "price": 73.0,
+   "count": 240,
+   "size": "4",
+   "line": "Windeln",
+   "ppd": 0.3563,
+   "url": "https://www.highdefinition.ch/product/Pingo-Windeln-%C3%96kowindeln-Gr%C3%B6sse-4-Maxi/1530637968.html?ref=tp",
+   "promo": null,
+   "shipping": 12.5,
+   "source": "Toppreise",
+   "brand": "Pingo",
    "at": "2026-11-20T18:37+01:00"
   },
   {
@@ -6119,7 +6120,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "so-it.ch",
@@ -7667,21 +7668,6 @@
    "at": "2026-11-20T18:37+01:00"
   },
   {
-   "store": "mctrade.ch",
-   "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 186 Stück",
-   "price": 76.1,
-   "count": 186,
-   "size": "3",
-   "line": "Premium Protection",
-   "ppd": 0.4091,
-   "url": "https://www.mctrade.ch/products/551192",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pampers",
-   "at": "2026-11-20T18:37+01:00"
-  },
-  {
    "store": "Migros",
    "name": "Pampers Premium Protection · Windeln · Gr.1, 2-5kg 33 Stk.",
    "price": 13.5,
@@ -7698,6 +7684,21 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
+   "at": "2026-11-21T01:04+01:00"
+  },
+  {
+   "store": "mctrade.ch",
+   "name": "Pampers Premium Protection Einwegwindeln, Grösse 3 (6-10 kg), 186 Stück",
+   "price": 76.1,
+   "count": 186,
+   "size": "3",
+   "line": "Premium Protection",
+   "ppd": 0.4091,
+   "url": "https://www.mctrade.ch/products/551192",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pampers",
    "at": "2026-11-20T18:37+01:00"
   },
   {
@@ -8077,7 +8078,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "newstore.ch",
@@ -9685,21 +9686,6 @@
    "at": "2026-11-20T18:37+01:00"
   },
   {
-   "store": "orderflow.ch",
-   "name": "Pingo Pants, Grösse 4 (7-18 kg), 180 Stück",
-   "price": 79.8,
-   "count": 180,
-   "size": "4",
-   "line": "Pants",
-   "ppd": 0.4433,
-   "url": "https://www.orderflow.ch/products/23088312",
-   "promo": null,
-   "shipping": 0.0,
-   "source": "Toppreise",
-   "brand": "Pingo",
-   "at": "2026-11-20T18:37+01:00"
-  },
-  {
    "store": "Migros",
    "name": "Pampers Baby Dry · Windeln · Gr.4,9-14kg 45 Stk.",
    "price": 19.95,
@@ -9716,6 +9702,21 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
+   "at": "2026-11-21T01:04+01:00"
+  },
+  {
+   "store": "orderflow.ch",
+   "name": "Pingo Pants, Grösse 4 (7-18 kg), 180 Stück",
+   "price": 79.8,
+   "count": 180,
+   "size": "4",
+   "line": "Pants",
+   "ppd": 0.4433,
+   "url": "https://www.orderflow.ch/products/23088312",
+   "promo": null,
+   "shipping": 0.0,
+   "source": "Toppreise",
+   "brand": "Pingo",
    "at": "2026-11-20T18:37+01:00"
   },
   {
@@ -11279,6 +11280,25 @@
    "at": "2026-11-20T18:37+01:00"
   },
   {
+   "store": "Migros",
+   "name": "Pampers Baby Dry · Pants · Gr.4,9-15kg 42 Stk",
+   "price": 19.95,
+   "count": 42,
+   "size": "4",
+   "line": "Baby-Dry Pants",
+   "ppd": 0.475,
+   "url": "https://www.migros.ch/de/product/520573090000",
+   "promo": null,
+   "shipping": null,
+   "source": "Migros",
+   "brand": "Pampers",
+   "min_packs": 1,
+   "where": "online+filiale",
+   "valid_from": null,
+   "valid_until": null,
+   "at": "2026-11-21T01:04+01:00"
+  },
+  {
    "store": "electronova-luzern.ch",
    "name": "Pampers Baby-Dry Pants Paw Patrol, Grösse 5 (12-17 kg), 160 Stück",
    "price": 66.0,
@@ -11306,25 +11326,6 @@
    "shipping": 7.7,
    "source": "Toppreise",
    "brand": "Pampers",
-   "at": "2026-11-20T18:37+01:00"
-  },
-  {
-   "store": "Migros",
-   "name": "Pampers Baby Dry · Pants · Gr.4,9-15kg 42 Stk",
-   "price": 19.95,
-   "count": 42,
-   "size": "4",
-   "line": "Baby-Dry Pants",
-   "ppd": 0.475,
-   "url": "https://www.migros.ch/de/product/520573090000",
-   "promo": null,
-   "shipping": null,
-   "source": "Migros",
-   "brand": "Pampers",
-   "min_packs": 1,
-   "where": "online+filiale",
-   "valid_from": null,
-   "valid_until": null,
    "at": "2026-11-20T18:37+01:00"
   },
   {
@@ -12754,7 +12755,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "Migros",
@@ -12773,7 +12774,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "benu.ch",
@@ -13797,7 +13798,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "newstore.ch",
@@ -14701,7 +14702,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "so-it.ch",
@@ -15154,21 +15155,6 @@
    "at": "2026-11-20T18:37+01:00"
   },
   {
-   "store": "newstore.ch",
-   "name": "Pampers Premium Protection Einwegwindeln, Grösse 5 (11-16 kg), 148 Stück",
-   "price": 76.95,
-   "count": 148,
-   "size": "5",
-   "line": "Premium Protection",
-   "ppd": 0.5868,
-   "url": "https://newstore.ch/nicht-kategorisiert/pampers-premium-protection-gr-5-junior-12-17kg-monatsbox-148-stuck/",
-   "promo": null,
-   "shipping": 9.9,
-   "source": "Toppreise",
-   "brand": "Pampers",
-   "at": "2026-11-20T18:37+01:00"
-  },
-  {
    "store": "Migros",
    "name": "Pampers Baby Dry · Windeln · Gr.6,13-18kg 34 Stück",
    "price": 19.95,
@@ -15185,7 +15171,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "Migros",
@@ -15204,6 +15190,21 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
+   "at": "2026-11-21T01:04+01:00"
+  },
+  {
+   "store": "newstore.ch",
+   "name": "Pampers Premium Protection Einwegwindeln, Grösse 5 (11-16 kg), 148 Stück",
+   "price": 76.95,
+   "count": 148,
+   "size": "5",
+   "line": "Premium Protection",
+   "ppd": 0.5868,
+   "url": "https://newstore.ch/nicht-kategorisiert/pampers-premium-protection-gr-5-junior-12-17kg-monatsbox-148-stuck/",
+   "promo": null,
+   "shipping": 9.9,
+   "source": "Toppreise",
+   "brand": "Pampers",
    "at": "2026-11-20T18:37+01:00"
   },
   {
@@ -16018,7 +16019,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "Galaxus",
@@ -16427,7 +16428,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "techstudio.ch",
@@ -16761,7 +16762,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "Migros",
@@ -16780,7 +16781,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "upstore.ch",
@@ -17039,7 +17040,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "highdefinition.ch",
@@ -17373,7 +17374,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "Migros",
@@ -17392,7 +17393,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "Galaxus",
@@ -18071,7 +18072,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "newstore.ch",
@@ -20758,7 +20759,7 @@
    "valid_from": "2026-11-05",
    "text": "PAMPERS Baby-Dry, Maxi-Pack: CHF 24.99, verfügbar seit 05.11.2026",
    "source": "Aldi",
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "Denner",
@@ -20773,7 +20774,7 @@
    "size": null,
    "line": "Baby-Dry Pants",
    "brand": "Pampers",
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   },
   {
    "store": "Denner",
@@ -20788,7 +20789,7 @@
    "size": null,
    "line": "Baby-Dry",
    "brand": "Pampers",
-   "at": "2026-11-20T18:37+01:00"
+   "at": "2026-11-21T01:04+01:00"
   }
  ]
 }

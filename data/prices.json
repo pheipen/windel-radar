@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T06:25+01:00",
- "fresh": "2026-11-21T06:25+01:00",
+ "updated": "2026-11-21T12:31+01:00",
+ "fresh": "2026-11-21T12:31+01:00",
  "sources": [
   {
    "name": "Toppreise",
@@ -13,31 +13,31 @@
    "name": "Migros",
    "ok": true,
    "count": 21,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "name": "Denner",
    "ok": true,
    "count": 4,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "name": "Aldi",
    "ok": true,
    "count": 1,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "name": "Lidl",
    "ok": true,
    "count": 0,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "name": "Aktionis",
    "ok": true,
    "count": 13,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "name": "Müller",
@@ -84,7 +84,7 @@
    "where": "filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Galaxus",
@@ -118,7 +118,7 @@
    "where": "online",
    "valid_from": "2026-11-02",
    "valid_until": "2026-11-22",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Amazon.de",
@@ -437,7 +437,7 @@
    "where": "online",
    "valid_from": "2026-11-02",
    "valid_until": "2026-11-22",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "orderflow.ch",
@@ -591,7 +591,7 @@
    "where": "online",
    "valid_from": "2026-11-02",
    "valid_until": "2026-11-22",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Galaxus",
@@ -639,7 +639,7 @@
    "where": "filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "so-it.ch",
@@ -1017,7 +1017,7 @@
    "where": "filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "ohfeliz.ch",
@@ -1411,7 +1411,7 @@
    "where": "online",
    "valid_from": "2026-11-02",
    "valid_until": "2026-11-22",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "newstore.ch",
@@ -1744,7 +1744,7 @@
    "where": "filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Foletti Computer",
@@ -2033,7 +2033,7 @@
    "where": "online",
    "valid_from": "2026-11-02",
    "valid_until": "2026-11-22",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Interdiscount",
@@ -4062,7 +4062,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "bohnettrade.ch",
@@ -4831,7 +4831,7 @@
    "where": "online",
    "valid_from": "2026-11-07",
    "valid_until": "2026-11-22",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "electronova-luzern.ch",
@@ -4910,7 +4910,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "highdefinition.ch",
@@ -5139,7 +5139,7 @@
    "where": "online",
    "valid_from": "2026-11-02",
    "valid_until": "2026-11-22",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "timia.ch",
@@ -5818,7 +5818,7 @@
    "where": "online",
    "valid_from": "2026-11-04",
    "valid_until": "2026-11-22",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Interdiscount",
@@ -6272,7 +6272,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "so-it.ch",
@@ -7806,7 +7806,7 @@
    "where": "online",
    "valid_from": "2026-11-02",
    "valid_until": "2026-11-22",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Interdiscount",
@@ -7855,7 +7855,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "mctrade.ch",
@@ -8249,7 +8249,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "newstore.ch",
@@ -8613,7 +8613,7 @@
    "where": "online",
    "valid_from": "2026-11-07",
    "valid_until": "2026-11-22",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "avento.shop",
@@ -9892,7 +9892,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "orderflow.ch",
@@ -10736,7 +10736,7 @@
    "where": "online",
    "valid_from": "2026-11-02",
    "valid_until": "2026-11-22",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Foletti Computer",
@@ -11505,7 +11505,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "electronova-luzern.ch",
@@ -12964,7 +12964,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Migros",
@@ -12983,7 +12983,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "benu.ch",
@@ -14007,7 +14007,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "newstore.ch",
@@ -14911,7 +14911,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "so-it.ch",
@@ -15380,7 +15380,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Migros",
@@ -15399,7 +15399,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "newstore.ch",
@@ -16228,7 +16228,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Galaxus",
@@ -16637,7 +16637,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "techstudio.ch",
@@ -16971,7 +16971,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Migros",
@@ -16990,7 +16990,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "upstore.ch",
@@ -17249,7 +17249,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "highdefinition.ch",
@@ -17583,7 +17583,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Migros",
@@ -17602,7 +17602,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Galaxus",
@@ -18281,7 +18281,7 @@
    "where": "online+filiale",
    "valid_from": null,
    "valid_until": null,
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "newstore.ch",
@@ -20968,7 +20968,7 @@
    "valid_from": "2026-11-05",
    "text": "PAMPERS Baby-Dry, Maxi-Pack: CHF 24.99, verfügbar seit 05.11.2026",
    "source": "Aldi",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Denner",
@@ -20983,7 +20983,7 @@
    "size": null,
    "line": "Baby-Dry Pants",
    "brand": "Pampers",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   },
   {
    "store": "Denner",
@@ -20998,7 +20998,7 @@
    "size": null,
    "line": "Baby-Dry",
    "brand": "Pampers",
-   "at": "2026-11-21T06:25+01:00"
+   "at": "2026-11-21T12:31+01:00"
   }
  ]
 }
